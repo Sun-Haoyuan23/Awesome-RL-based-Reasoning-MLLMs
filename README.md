@@ -68,3 +68,5 @@ This repository provides valuable reference for researchers in the field of mult
 * [Video-R1 💻](https://github.com/tulerfeng/Video-R1) ![Video-R1](https://img.shields.io/github/stars/tulerfeng/Video-R1) [Code 💻](https://github.com/tulerfeng/Video-R1)
  [Dataset 🤗](https://huggingface.co/datasets/Video-R1/DVD-counting)
 
+* [VisualThinker-R1-Zero 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero/) ![VisualThinker-R1-Zero](https://img.shields.io/github/stars/turningpoint-ai/VisualThinker-R1-Zero) [Code 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) [Blog 🎯](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model)
+
