@@ -17,6 +17,7 @@ Recent advancements in leveraging reinforcement learning to enhance LLM reasonin
 This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs!
 
 ## Papers📄
+* [2503] [Seg-Zero] [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/pdf/2503.06520) (CUHK) [Models 🤗](https://huggingface.co/Ricky06662/Seg-Zero-7B) [Dataset 🤗](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840) [Code 💻](https://github.com/dvlab-research/Seg-Zero)
 
 * [2503] [MM-Eureka] [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA/blob/main/MM_Eureka_paper.pdf) (Shanghai AI Laboratory) [Models 🤗](https://huggingface.co/FanqingM) [Dataset 🤗](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset) [Code 💻](https://github.com/ModalMinds/MM-EUREKA)
 
@@ -70,6 +71,7 @@ This repository provides valuable reference for researchers in the field of mult
 * [Video-R1 💻](https://github.com/tulerfeng/Video-R1) ![Video-R1](https://img.shields.io/github/stars/tulerfeng/Video-R1) [Code 💻](https://github.com/tulerfeng/Video-R1)
  [Dataset 🤗](https://huggingface.co/datasets/Video-R1/DVD-counting)
 
+* [Seg-Zero 💻](https://github.com/dvlab-research/Seg-Zero) ![Seg-Zero](https://img.shields.io/github/stars/dvlab-research/Seg-Zero) [Code 💻](https://github.com/dvlab-research/Seg-Zero) (Seg-Zero exhibits emergent test-time reasoning ability and zero-shot segmentation ability)
 
 ##  Star Chart⭐
 
