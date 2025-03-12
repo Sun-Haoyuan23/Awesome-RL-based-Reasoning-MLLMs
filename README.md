@@ -40,7 +40,7 @@ This repository provides valuable reference for researchers in the field of mult
   
 * [2501] [LlamaV-o1] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/pdf/2501.06186) (MBZUAI) [Project 🌐](https://mbzuai-oryx.github.io/LlamaV-o1/) [Model 🤗](https://huggingface.co/omkarthawakar/LlamaV-o1)  [Code 💻](https://github.com/mbzuai-oryx/LlamaV-o1)
 
-* [2411] [InternVL2.5-MPO] [InternVL2.5-MPO: Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization
+* [2411] [InternVL2-MPO] [InternVL2-MPO: Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization
 ](https://arxiv.org/abs/2411.10442) (Shanghai AI Laboratory) [Project 🌐](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/) [Model 🤗](https://huggingface.co/OpenGVLab/InternVL2-8B-MPO) [Code 💻](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)
 
 * [2411] [LLaVA-CoT] [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440v4) (PKU) [Project 🌐](https://github.com/PKU-YuanGroup/LLaVA-CoT) [Model 🤗](https://huggingface.co/Xkev/Llama-3.2V-11B-cot) [Demo🤗](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot) [Code 💻](https://github.com/PKU-YuanGroup/LLaVA-CoT)
