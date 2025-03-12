@@ -71,7 +71,7 @@ This repository provides valuable reference for researchers in the field of mult
 * [Video-R1 💻](https://github.com/tulerfeng/Video-R1) ![Video-R1](https://img.shields.io/github/stars/tulerfeng/Video-R1) [Code 💻](https://github.com/tulerfeng/Video-R1)
  [Dataset 🤗](https://huggingface.co/datasets/Video-R1/DVD-counting)
 
-* [Seg-Zero 💻](https://github.com/dvlab-research/Seg-Zero) ![Seg-Zero](https://img.shields.io/github/stars/dvlab-research/Seg-Zero) [Code 💻](https://github.com/dvlab-research/Seg-Zero) (Seg-Zero exhibits emergent test-time reasoning ability and zero-shot segmentation ability)
+* [Seg-Zero 💻](https://github.com/dvlab-research/Seg-Zero) ![Seg-Zero](https://img.shields.io/github/stars/dvlab-research/Seg-Zero) [Code 💻](https://github.com/dvlab-research/Seg-Zero) (Based on veRL and EasyR1, more efficient and memory friendly.)
 
 ##  Star Chart⭐
 
