@@ -17,7 +17,9 @@ Recent advancements in leveraging reinforcement learning to enhance LLM reasonin
 This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs!
 
 ## Papers📄
-  
+
+* [2503] [Video-R1] [Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/pdf/2503.21776) (CUHK) [Model 🤗](https://huggingface.co/Video-R1/Video-R1-7B) [Dataset 🤗](https://huggingface.co/datasets/Video-R1/Video-R1-data) [Code 💻](https://github.com/tulerfeng/Video-R1)
+
 * [2503] [OpenVLThinker] [OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement](https://arxiv.org/abs/2503.17352) (UCLA) [Model 🤗](https://huggingface.co/ydeng9/OpenVLThinker-7B) [Code 💻](https://github.com/yihedeng9/OpenVLThinker)
 
 * [2503] [R1-VL] [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/pdf/2503.12937) (NTU) [Model 🤗](https://huggingface.co/jingyiZ00) [Code 💻](https://github.com/jingyi0000/R1-VL)
