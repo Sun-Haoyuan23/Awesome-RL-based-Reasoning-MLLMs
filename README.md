@@ -69,13 +69,15 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2503] [V1-33K] [V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks] (NUS) [Project 🌐](https://github.com/haonan3/V1) [Dataset 🤗](https://huggingface.co/datasets/haonan3/V1-33K) [Code 💻](https://github.com/haonan3/V1)
+
 * [2502] [MM-IQ] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models](https://arxiv.org/pdf/2502.00698) (Tencent) [Project 🌐](https://acechq.github.io/MMIQ-benchmark/) [Dataset 🤗](https://huggingface.co/datasets/huanqia/MM-IQ) [Code 💻](https://github.com/AceCHQ/MMIQ) 
 
 * [2502] [MME-CoT] [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/abs/2502.09621) (CUHK) [Project 🌐](https://mmecot.github.io/) [Dataset 🤗](https://huggingface.co/datasets/CaraJ/MME-CoT) [Code 💻](https://github.com/CaraJ7/MME-CoT)
 
 * [2502] [ZeroBench] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models](https://arxiv.org/pdf/2502.09696) (Cambridge) [Project 🌐](https://zerobench.github.io/) [Dataset 🤗](https://huggingface.co/datasets/jonathan-roberts1/zerobench) [Code 💻](https://github.com/jonathan-roberts1/zerobench/)
 
-* [2503] [V1-33K] [V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks] (NUS) [Project 🌐](https://github.com/haonan3/V1) [Dataset 🤗](https://huggingface.co/datasets/haonan3/V1-33K) [Code 💻](https://github.com/haonan3/V1)
+* [2502] [HumanEval-V] [HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks](https://arxiv.org/abs/2410.12381) (CUHK) [Project 🌐](https://humaneval-v.github.io/) [Dataset 🤗](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark) [Code 💻](https://github.com/HumanEval-V/HumanEval-V-Benchmark)
 
 ## Open-Source Projects🌐
 
