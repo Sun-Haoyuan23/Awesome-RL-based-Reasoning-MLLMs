@@ -113,7 +113,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [VisualThinker-R1-Zero 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)  ![R1-Onevision](https://img.shields.io/github/stars/turningpoint-ai/VisualThinker-R1-Zero) [Report 📝](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) (Aha Moment on a 2B non-SFT Model)
 
-* [Ocean-R1 💻](https://github.com/VLM-RL/Ocean-R1)  ![Ocean-R1](https://img.shields.io/github/stars/turningpoint-ai/Ocean-R1) [Models 🤗] (https://huggingface.co/minglingfeng) [Datasets 🤗](https://huggingface.co/minglingfeng)
+* [Ocean-R1 💻](https://github.com/VLM-RL/Ocean-R1)  ![Ocean-R1](https://img.shields.io/github/stars/VLM-RL/Ocean-R1) [Models 🤗](https://huggingface.co/minglingfeng) [Datasets 🤗](https://huggingface.co/minglingfeng)
 
 * [Open R1 Video 💻](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open R1 Video](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video) [Models 🤗](https://huggingface.co/Xiaodong/Open-R1-Video-7B)  [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k) [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 
