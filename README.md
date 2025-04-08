@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [OpenVLThinker] [OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement](https://arxiv.org/abs/2503.17352) (UCLA) [Model 🤗](https://huggingface.co/ydeng9/OpenVLThinker-7B) [Code 💻](https://github.com/yihedeng9/OpenVLThinker)
 
+* [2503] [Think or Not Think] [Think or Not Think: A Study of Explicit Thinking inRule-Based Visual Reinforcement Fine-Tuning](https://arxiv.org/pdf/2503.16188) (Shanghai AI Laboratory) [Model 🤗](https://huggingface.co/afdsafas) [Dataset 🤗](https://huggingface.co/afdsafas) [Code 💻](https://github.com/minglllli/CLS-RL)
+
 * [2503] [OThink-MR1] [OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning](https://arxiv.org/abs/2503.16081) (OPPO)
 
 * [2503] [R1-VL] [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/pdf/2503.12937) (NTU) [Model 🤗](https://huggingface.co/jingyiZ00) [Code 💻](https://github.com/jingyi0000/R1-VL)
