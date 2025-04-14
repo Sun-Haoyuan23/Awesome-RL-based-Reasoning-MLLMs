@@ -16,9 +16,9 @@ Recent advancements in leveraging reinforcement learning to enhance LLM reasonin
 </div>
 This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs!
 
-## Papers(Sort by Time of Release)📄
+## Papers (Sort by Time of Release)📄
 
-### Vision(Image)👀 
+### Vision (Image)👀 
 
 * [2504] [VLAA-Thinking] [SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://github.com/UCSC-VLAA/VLAA-Thinking/blob/main/assets/VLAA-Thinker.pdf) (UCSC) [Models 🤗](https://huggingface.co/collections/UCSC-VLAA/vlaa-thinker-67eda033419273423d77249e)  [Dataset 🤗](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)  [Code 💻](https://github.com/UCSC-VLAA/VLAA-Thinking)
 
@@ -74,7 +74,7 @@ This repository provides valuable reference for researchers in the field of mult
   
 * [2411] [LLaVA-CoT] [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440v4) (PKU) [Project 🌐](https://github.com/PKU-YuanGroup/LLaVA-CoT) [Model 🤗](https://huggingface.co/Xkev/Llama-3.2V-11B-cot) [Demo🤗](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot) [Code 💻](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 
-### Vision(Video)📹 
+### Vision (Video)📹 
 
 * [2504] [VideoChat-R1] [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/pdf/2504.06958) (Shanghai AI Lab) [Model 🤗](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e) [Code 💻](https://github.com/OpenGVLab/VideoChat-R1)
 
@@ -84,11 +84,11 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [TimeZero] [TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM](https://arxiv.org/abs/2503.13377) (RUC) [Model 🤗](https://huggingface.co/wwwyyy/TimeZero-Charades-7B) [Code 💻](https://github.com/www-Ye/TimeZero)
 
-### Vision(Medical Image)🏥 
+### Vision (Medical Image)🏥 
 
 * [2503] [Med-R1] [Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2503.13939v3) (Emory) [Model 🤗](https://huggingface.co/yuxianglai117/Med-R1) [Code 💻](https://github.com/Yuxiang-Lai117/Med-R1)
 
-* [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) (TUM)
+* [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) (TUM) [Model 🤗](https://huggingface.co/JZPeterPan/MedVLM-R1)
 
 ### Audio👂
 
@@ -121,7 +121,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2502] [HumanEval-V] [HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks](https://arxiv.org/abs/2410.12381) (CUHK) [Project 🌐](https://humaneval-v.github.io/) [Dataset 🤗](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark) [Code 💻](https://github.com/HumanEval-V/HumanEval-V-Benchmark)
 
-## Open-Source Projects🌐
+## Open-Source Projects (Repos without Paper)🌐
 
 * [EasyR1 💻](https://github.com/hiyouga/EasyR1)  ![EasyR1](https://img.shields.io/github/stars/hiyouga/EasyR1) (An Efficient, Scalable, Multi-Modality RL Training Framework)
 
