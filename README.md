@@ -18,6 +18,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Papers📄
 
+* [2504] [VideoChat-R1] [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/pdf/2504.06958) (Shanghai AI Lab) [Model 🤗](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e) [Code 💻](https://github.com/OpenGVLab/VideoChat-R1)
+
 * [2503] [Video-R1] [Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/pdf/2503.21776) (CUHK) [Model 🤗](https://huggingface.co/Video-R1/Video-R1-7B) [Code 💻](https://github.com/tulerfeng/Video-R1)
 
 * [2503] [R1-VL] [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/pdf/2503.12937) (NTU) [Model 🤗](https://huggingface.co/jingyiZ00) [Code 💻](https://github.com/jingyi0000/R1-VL)
