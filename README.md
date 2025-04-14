@@ -16,9 +16,9 @@ Recent advancements in leveraging reinforcement learning to enhance LLM reasonin
 </div>
 This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs!
 
-## Papers (Sort by Time of Release)📄
+## Papers(Sort by Time of Release)📄
 
-### Vision (Image) 👀 
+### Vision(Image)👀 
 
 * [2504] [VLAA-Thinking] [SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://github.com/UCSC-VLAA/VLAA-Thinking/blob/main/assets/VLAA-Thinker.pdf) (UCSC) [Models 🤗](https://huggingface.co/collections/UCSC-VLAA/vlaa-thinker-67eda033419273423d77249e)  [Dataset 🤗](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)  [Code 💻](https://github.com/UCSC-VLAA/VLAA-Thinking)
 
@@ -74,7 +74,7 @@ This repository provides valuable reference for researchers in the field of mult
   
 * [2411] [LLaVA-CoT] [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440v4) (PKU) [Project 🌐](https://github.com/PKU-YuanGroup/LLaVA-CoT) [Model 🤗](https://huggingface.co/Xkev/Llama-3.2V-11B-cot) [Demo🤗](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot) [Code 💻](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 
-### Vision (Video) 📹 
+### Vision(Video)📹 
 
 * [2504] [VideoChat-R1] [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/pdf/2504.06958) (Shanghai AI Lab) [Model 🤗](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e) [Code 💻](https://github.com/OpenGVLab/VideoChat-R1)
 
@@ -84,27 +84,27 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [TimeZero] [TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM](https://arxiv.org/abs/2503.13377) (RUC) [Model 🤗](https://huggingface.co/wwwyyy/TimeZero-Charades-7B) [Code 💻](https://github.com/www-Ye/TimeZero)
 
-### Vision (Medical Image) 🏥 
+### Vision(Medical Image)🏥 
 
 * [2503] [Med-R1] [Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2503.13939v3) (Emory) [Model 🤗](https://huggingface.co/yuxianglai117/Med-R1) [Code 💻](https://github.com/Yuxiang-Lai117/Med-R1)
 
 * [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) (TUM)
 
-### Audio 👂
+### Audio👂
 
 * [2503] [R1-AQA] [Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering](https://arxiv.org/pdf/2503.11197v2) (Xiaomi) [Model 🤗](https://huggingface.co/mispeech/r1-aqa) [Code 💻](https://github.com/xiaomi-research/r1-aqa)
 
 * [2503] [Audio-Reasoner] [Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models](https://arxiv.org/pdf/2503.02318) (NTU) [Project 🌐](https://xzf-thu.github.io/Audio-Reasoner/) [Model 🤗](https://huggingface.co/zhifeixie/Audio-Reasoner) [Code 💻](https://github.com/xzf-thu/Audio-Reasoner)
 
-### Omni ☺️
+### Omni☺️
 
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379) (Alibaba) [Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B) [Code 💻](https://github.com/HumanMLLM/R1-Omni)
 
-### GUI 📲
+### GUI📲
 
 * [2503] [UI-R1] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/pdf/2503.21620) (VIVO)
 
-### Metaverse 🌠
+### Metaverse🌠
 
 * [2503] [MetaSpatial] [MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse](https://arxiv.org/abs/2503.18470) (NU) [Dataset 🤗](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning) [Code 💻](https://github.com/PzySeere/MetaSpatial)
 
@@ -136,8 +136,6 @@ This repository provides valuable reference for researchers in the field of mult
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Blog 🎯](https://deepagent.notion.site/rlvr-in-vlms) [Datasets 🤗](https://huggingface.co/collections/MMInstruction/r1-v-67aae24fa56af9d2e2755f82)
 
 * [R1-Vision 💻](https://github.com/yuyq96/R1-Vision) ![R1-Vision](https://img.shields.io/github/stars/yuyq96/R1-Vision) [Cold-Start Datasets 🤗](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83)
-
-* [VisualThinker-R1-Zero 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)  ![VisualThinker-R1-Zero](https://img.shields.io/github/stars/turningpoint-ai/VisualThinker-R1-Zero) [Report 📝](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) (Aha Moment on a 2B non-SFT Model)
 
 * [Ocean-R1 💻](https://github.com/VLM-RL/Ocean-R1)  ![Ocean-R1](https://img.shields.io/github/stars/VLM-RL/Ocean-R1) [Models 🤗](https://huggingface.co/minglingfeng) [Datasets 🤗](https://huggingface.co/minglingfeng)
 
