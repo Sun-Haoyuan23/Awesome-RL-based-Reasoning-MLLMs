@@ -149,8 +149,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 This is an active repository and your contributions are always welcome! If you have any question about this opinionated list, do not hesitate to contact me sun-hy23@mails.tsinghua.edu.cn. 
 
-Core contributor: [Haoyuan Sun](https://github.com/Sun-Haoyuan23).
-
 I extend my sincere gratitude to all community members who provided valuable supplementary support. I would also like to express my sincere gratitude to my supervisor Prof. Xueqian Wang and advisor Dr. Yongzhe Chang for their unwavering support and guidance. And I would also like to express my sincere gratitude to Jiaqi Wu, Yifu Luo, Yifei Zhao, Kai Qin, Jinghui Xu, Bo Xia and Tiantian Zhang for helpful discussions.
 
 ## Citation📑
