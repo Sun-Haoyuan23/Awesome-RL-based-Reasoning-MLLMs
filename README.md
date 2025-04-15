@@ -50,9 +50,11 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [R1-Onevision] [R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](https://arxiv.org/pdf/2503.10615) (ZJU) [Model 🤗](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B)  [Dataset 🤗](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision) [Demo 🤗](https://huggingface.co/spaces/Fancy-MLLM/R1-Onevision) [Code 💻](https://github.com/Fancy-MLLM/R1-Onevision)
 
+* [2503] [VisualPRM] [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291v1) (FDU) [Model 🤗](https://huggingface.co/OpenGVLab/VisualPRM-8B)  [Dataset 🤗](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K) [Benchmark 🤗](https://huggingface.co/datasets/OpenGVLab/VisualProcessBench) [Project 🌐](https://internvl.github.io/blog/2025-03-13-VisualPRM/)
+
 * [2503] [LMM-R1] [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/pdf/2503.07536) (SEU) [Code 💻](https://github.com/TideDra/lmm-r1)
 
-* [2503] [Curr-ReFT] [Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning](https://arxiv.org/abs/2503.07065) (SEU) [Models 🤗](https://huggingface.co/ZTE-AIM) [Dataset 🤗](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data) [Code 💻](https://github.com/ding523/Curr_REFT)
+* [2503] [Curr-ReFT] [Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning](https://arxiv.org/abs/2503.07065) (USTC) [Models 🤗](https://huggingface.co/ZTE-AIM) [Dataset 🤗](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data) [Code 💻](https://github.com/ding523/Curr_REFT)
 
 * [2503] [VisualThinker-R1-Zero] [R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) (UCLA) [Code 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
 
