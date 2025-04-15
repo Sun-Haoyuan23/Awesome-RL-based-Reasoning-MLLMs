@@ -52,6 +52,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [LMM-R1] [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/pdf/2503.07536) (SEU) [Code 💻](https://github.com/TideDra/lmm-r1)
 
+* [2503] [Curr-ReFT] [Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning](https://arxiv.org/abs/2503.07065) (SEU) [Models 🤗](https://huggingface.co/ZTE-AIM) [Dataset 🤗](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data) [Code 💻](https://github.com/ding523/Curr_REFT)
+
 * [2503] [VisualThinker-R1-Zero] [R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) (UCLA) [Code 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
 
 * [2503] [Vision-R1] [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/pdf/2503.06749) (ECNU) [Code 💻](https://github.com/Osilly/Vision-R1)
