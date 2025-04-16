@@ -26,6 +26,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2504] [VL-Rethinker] [Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://arxiv.org/abs/2504.08837) (HKUST) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/vl-rethinker-67fdc54de07c90e9c6c69d09)  [Code 💻](https://github.com/TIGER-AI-Lab/VL-Rethinker)
 
+* [2504] [Kimi-VL] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491) (Kimi Team) [Project 🌐](https://github.com/MoonshotAI/Kimi-VL) [Models 🤗](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85) [Demo 🤗](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking) [Code 💻](https://github.com/MoonshotAI/Kimi-VL)
+
 * [2504] [VLAA-Thinking] [SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://github.com/UCSC-VLAA/VLAA-Thinking/blob/main/assets/VLAA-Thinker.pdf) (UCSC) [Models 🤗](https://huggingface.co/collections/UCSC-VLAA/vlaa-thinker-67eda033419273423d77249e)  [Dataset 🤗](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)  [Code 💻](https://github.com/UCSC-VLAA/VLAA-Thinking)
 
 * [2504] [SoTA with Less] [SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement](https://arxiv.org/abs/2504.07934) (UMD) [Model 🤗](https://huggingface.co/russwang/ThinkLite-VL-7B)  [Datasets 🤗](https://huggingface.co/collections/russwang/thinklite-vl-67f88c6493f8a7601e73fe5a)  [Code 💻](https://github.com/si0wang/ThinkLite-VL)
