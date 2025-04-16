@@ -7,13 +7,15 @@
 
 </div>
 
-Recent advancements in leveraging reinforcement learning to enhance LLM reasoning capabilities have yielded remarkably promising results, exemplified by [DeepSeek-R1](https://arxiv.org/pdf/2501.12948), [Kimi k1.5](https://arxiv.org/pdf/2501.12599), [OpenAI o3-mini](https://openai.com/index/o3-mini-system-card/), [Grok 3](https://x.ai/blog/grok-3). These exhilarating achievements herald ascendance of Large Reasoning Models, making us advance further along the thorny path towards Artificial General Intelligence (AGI). Study of LLM reasoning has garnered significant attention within the community, and researchers have concurrently summarized [awesome RL-based LLM reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning). Meanwhile, we have observed that remarkably awesome work has already been done in the domain of Multimodal Large Language Models (MLLMs), encompassing both **multimodal understanding** and **autoregressive text-to-image generation**.
+Recent advancements in leveraging reinforcement learning to enhance LLM reasoning capabilities have yielded remarkably promising results, exemplified by [DeepSeek-R1](https://arxiv.org/pdf/2501.12948), [Kimi k1.5](https://arxiv.org/pdf/2501.12599), [OpenAI o3-mini](https://openai.com/index/o3-mini-system-card/), [Grok 3](https://x.ai/blog/grok-3). These exhilarating achievements herald ascendance of Large Reasoning Models, making us advance further along the thorny path towards Artificial General Intelligence (AGI). Study of LLM reasoning has garnered significant attention within the community, and researchers have concurrently summarized [Awesome RL-based LLM Reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning). Recently, researchers have also compiled a collection covering models, datasets, reward designs, optimization methods, hyperparameters, empirical findings and theoretical insights about Large Reasoning Models in [Awesome RL Reasoning Recipes ("Triple R")](https://github.com/TsinghuaC3I/Awesome-RL-Reasoning-Recipes). Meanwhile, we have observed that remarkably awesome work has already been done in the domain of **RL-based Reasoning Multimodal Large Language Models (MLLMs)**. We aim to provide the community with a comprehensive and timely synthesis of this field, as well as providing a little insight into this fascinating and promising field.
+
 <div align="center">
     "The senses are the organs by which man perceives the world, and the soul acts through them as through tools."
 </div>
 <div align="right">
 — Leonardo da Vinci
 </div>
+
 This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs!
 
 ## News 
