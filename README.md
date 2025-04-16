@@ -125,6 +125,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2504] [VCR-Bench] [VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning](https://arxiv.org/pdf/2504.07956) (USTC) [Project 🌐](https://vlm-reasoning.github.io/VCR-Bench/) [Dataset 🤗](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench) [Code 💻](https://github.com/zhishuifeiqian/VCR-Bench)
+
 * [2504] [MDK12-Bench] [MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models](https://arxiv.org/pdf/2504.05782) (Shanghai AI Lab) [Code 💻](https://github.com/LanceZPF/MDK12)
 
 * [2503] [V1-33K] [V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks] (NUS) [Project 🌐](https://github.com/haonan3/V1) [Dataset 🤗](https://huggingface.co/datasets/haonan3/V1-33K) [Code 💻](https://github.com/haonan3/V1)
