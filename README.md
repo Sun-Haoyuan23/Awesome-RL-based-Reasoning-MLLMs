@@ -169,7 +169,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [R1V-Free 💻](https://github.com/Exgc/R1V-Free)  ![Exgc/R1V-Free](https://img.shields.io/github/stars/Exgc/R1V-Free) [Models 🤗](https://huggingface.co/collections/Exgc/r1v-free-67f769feedffab8761b8f053) [Dataset 🤗](https://huggingface.co/datasets/Exgc/R1V-Free_RLHFV)
 
-* [SeekWorld 💻](https://github.com/TheEighthDay/SeekWorld)  ![TheEighthDay/SeekWorld](https://img.shields.io/github/stars/TheEighthDay/SeekWorld) [Models 🤗](https://huggingface.co/TheEighthDay/SeekWorld_RL_PLUS) [Dataset 🤗](https://huggingface.co/datasets/TheEighthDay/SeekWorld)
+* [SeekWorld 💻](https://github.com/TheEighthDay/SeekWorld)  ![TheEighthDay/SeekWorld](https://img.shields.io/github/stars/TheEighthDay/SeekWorld) [Model 🤗](https://huggingface.co/TheEighthDay/SeekWorld_RL_PLUS) [Dataset 🤗](https://huggingface.co/datasets/TheEighthDay/SeekWorld) [Demo 🤗](https://huggingface.co/spaces/TheEighthDay/SeekWorld_APP)
 
 ### Vision (Video)📹 
 
