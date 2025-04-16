@@ -123,6 +123,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2504] [MDK12-Bench] [MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models] (Shanghai AI Lab) [Code 💻](https://github.com/LanceZPF/MDK12)
+
 * [2503] [V1-33K] [V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks] (NUS) [Project 🌐](https://github.com/haonan3/V1) [Dataset 🤗](https://huggingface.co/datasets/haonan3/V1-33K) [Code 💻](https://github.com/haonan3/V1)
 
 * [2502] [MM-IQ] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models](https://arxiv.org/pdf/2502.00698) (Tencent) [Project 🌐](https://acechq.github.io/MMIQ-benchmark/) [Dataset 🤗](https://huggingface.co/datasets/huanqia/MM-IQ) [Code 💻](https://github.com/AceCHQ/MMIQ) 
