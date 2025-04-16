@@ -26,6 +26,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2504] [VisuoThink] [VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search](https://arxiv.org/abs/2504.09130) (FDU) [Code 💻](https://github.com/ekonwang/VisuoThink)
+
 * [2504] [VL-Rethinker] [Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://arxiv.org/abs/2504.08837) (HKUST) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/vl-rethinker-67fdc54de07c90e9c6c69d09)  [Code 💻](https://github.com/TIGER-AI-Lab/VL-Rethinker)
 
 * [2504] [Kimi-VL] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491) (Kimi) [Project 🌐](https://github.com/MoonshotAI/Kimi-VL) [Models 🤗](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85) [Demo 🤗](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking) [Code 💻](https://github.com/MoonshotAI/Kimi-VL)
@@ -41,6 +43,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2504] [R1-Zero-VSI] [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://arxiv.org/pdf/2504.00883) (SJTU) [Code 💻](https://github.com/zhijie-group/R1-Zero-VSI)
 
 * [2503] [Q-Insight] [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/abs/2503.22679) (PKU) [Code 💻](https://github.com/lwq20020127/Q-Insight)
+
+* [2503] [Embodied-Reasoner] [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/pdf/2503.21696v1) (ZJU) [Project 🌐](https://embodied-reasoner.github.io/) [Dataset 🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner) [Code 💻](https://github.com/zwq2018/embodied_reasoner)
 
 * [2503] [Reason-RFT] [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning](https://arxiv.org/abs/2503.20752) (PKU) [Project 🌐](https://tanhuajie.github.io/ReasonRFT) [Dataset 🤗](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) [Code 💻](https://github.com/tanhuajie/Reason-RFT)
 
