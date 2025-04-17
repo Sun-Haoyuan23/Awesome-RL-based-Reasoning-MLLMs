@@ -26,8 +26,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
-* [2504] [VisuoThink] [VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search](https://arxiv.org/abs/2504.09130) (FDU) [Code 💻](https://github.com/ekonwang/VisuoThink)
-
 * [2504] [VL-Rethinker] [Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://arxiv.org/abs/2504.08837) (HKUST) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/vl-rethinker-67fdc54de07c90e9c6c69d09)  [Code 💻](https://github.com/TIGER-AI-Lab/VL-Rethinker)
 
 * [2504] [Kimi-VL] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491) (Kimi) [Project 🌐](https://github.com/MoonshotAI/Kimi-VL) [Models 🤗](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85) [Demo 🤗](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking) [Code 💻](https://github.com/MoonshotAI/Kimi-VL)
