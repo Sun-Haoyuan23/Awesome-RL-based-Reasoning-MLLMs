@@ -26,7 +26,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
-* [2504] [NoisyRollout] [Reinforcing Visual Reasoning with Data Augmentation](https://arxiv.org/pdf/2504.13055) (NUS) [Collection 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2) [Code 💻](https://github.com/John-AI-Lab/NoisyRollout)
+* [2504] [NoisyRollout] [Reinforcing Visual Reasoning with Data Augmentation](https://arxiv.org/pdf/2504.13055) (NUS) [Models 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)  [Datasets 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2) [Code 💻](https://github.com/John-AI-Lab/NoisyRollout)
 
 * [2504] [VL-Rethinker] [Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://arxiv.org/abs/2504.08837) (HKUST) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/vl-rethinker-67fdc54de07c90e9c6c69d09)  [Code 💻](https://github.com/TIGER-AI-Lab/VL-Rethinker)
 
@@ -39,6 +39,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2504] [SoTA with Less] [SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement](https://arxiv.org/abs/2504.07934) (UMD) [Model 🤗](https://huggingface.co/russwang/ThinkLite-VL-7B)  [Datasets 🤗](https://huggingface.co/collections/russwang/thinklite-vl-67f88c6493f8a7601e73fe5a)  [Code 💻](https://github.com/si0wang/ThinkLite-VL)
 
 * [2504] [VLM-R1] [VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/abs/2504.07615) (ZJU) [Model 🤗](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)  [Dataset 🤗](https://huggingface.co/datasets/omlab/VLM-R1) [Demo 🤗](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression) [Code 💻](https://github.com/om-ai-lab/VLM-R1)
+
+* [2504] [CrowdVLM-R1] [CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward](https://arxiv.org/pdf/2504.03724) (FAU) [Dataset 🤗](https://huggingface.co/datasets/yeyimilk/CrowdVLM-R1-data) [Code 💻](https://github.com/yeyimilk/CrowdVLM-R1)
 
 * [2504] [MAYE] [Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](https://www.arxiv.org/abs/2504.02587) (SJTU) [Dataset 🤗](https://huggingface.co/datasets/ManTle/MAYE) [Code 💻](https://github.com/GAIR-NLP/MAYE)
 
