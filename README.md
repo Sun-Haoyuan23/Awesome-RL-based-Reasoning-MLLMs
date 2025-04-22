@@ -132,6 +132,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### GUI📲
 
+* [2504] [InfiGUI-R1] [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://arxiv.org/pdf/2504.14239) (ZJU) [Model 🤗](https://huggingface.co/Reallm-Labs/InfiGUI-R1-3B) [Code 💻](https://github.com/Reallm-Labs/InfiGUI-R1)
+
 * [2503] [UI-R1] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620) (VIVO)
 
 ### Metaverse🌠
