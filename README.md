@@ -114,6 +114,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2504] [VideoChat-R1] [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.06958) (Shanghai AI Lab) [Model 🤗](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e) [Code 💻](https://github.com/OpenGVLab/VideoChat-R1)
 
+* [2504] [Spatial-R1] [Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) (PKU) [Model 🤗](https://huggingface.co/RUBBISHLIKE/Sptial-R1-exp-1500) [Dataset 🤗](https://github.com/OuyangKun10/Spatial-R1/blob/main/annotation/SR-91k.jsonl) [Code 💻](https://github.com/OuyangKun10/Spatial-R1)
+
 * [2503] [SEED-Bench-R1] [Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](https://arxiv.org/abs/2503.24376) (HKU) [Dataset 🤗](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)  [Code 💻](https://github.com/TencentARC/SEED-Bench-R1)
 
 * [2503] [Video-R1] [Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/abs/2503.21776) (CUHK) [Model 🤗](https://huggingface.co/Video-R1/Video-R1-7B) [Dataset 🤗](https://huggingface.co/datasets/Video-R1/Video-R1-data) [Code 💻](https://github.com/tulerfeng/Video-R1)
@@ -139,6 +141,8 @@ This repository provides valuable reference for researchers in the field of mult
 ### GUI📲
 
 * [2504] [InfiGUI-R1] [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://arxiv.org/pdf/2504.14239) (ZJU) [Model 🤗](https://huggingface.co/Reallm-Labs/InfiGUI-R1-3B) [Code 💻](https://github.com/Reallm-Labs/InfiGUI-R1)
+
+* [2504] [GUI-R1] [GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/abs/2504.10458) (SIAT) [Model 🤗](https://huggingface.co/ritzzai/GUI-R1) [Dataset 🤗](https://huggingface.co/datasets/ritzzai/GUI-R1) [Code 💻](https://github.com/ritzz-ai/GUI-R1)
 
 * [2503] [UI-R1] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620) (VIVO)
 
@@ -198,6 +202,10 @@ This repository provides valuable reference for researchers in the field of mult
 * [Temporal-R1 💻](https://github.com/appletea233/Temporal-R1)  ![Temporal-R1](https://img.shields.io/github/stars/appletea233/Temporal-R1) [Code 💻](https://github.com/appletea233/Temporal-R1) [Models 🤗](https://huggingface.co/appletea2333)
 
 * [Open-LLaVA-Video-R1 💻](https://github.com/Hui-design/Open-LLaVA-Video-R1) ![Open-LLaVA-Video-R1](https://img.shields.io/github/stars/Hui-design/Open-LLaVA-Video-R1) [Code 💻](https://github.com/Hui-design/Open-LLaVA-Video-R1)
+
+### Agent 👥
+
+* [VAGEN 💻](https://github.com/RAGEN-AI/VAGEN) ![VAGEN](https://img.shields.io/github/stars/RAGEN-AI/VAGEN) [Code 💻](https://github.com/RAGEN-AI/VAGEN)
 
 ## Contribution and Acknowledgment❤️
 
