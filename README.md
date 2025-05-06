@@ -26,6 +26,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/pdf/2505.02835) (CASIA) [Models 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
+
+* [2505] [T2I-R1 (generation)] [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) (CUHK) [Code 💻](https://github.com/CaraJ7/T2I-R1)
+
 * [2504] [FAST] [Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/pdf/2504.18458) (ZJU) [Code 💻](https://github.com/Mr-Loevan/FAST)
 
 * [2504] [Skywork R1V2] [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656) (Skywork AI) [Models 🤗](https://huggingface.co/collections/Skywork/skywork-r1v2-68075a3d947a5ae160272671)  [Code 💻](https://github.com/SkyworkAI/Skywork-R1V)
@@ -157,7 +161,11 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2505] [GDI-Bench] [GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling](https://www.arxiv.org/abs/2505.00063) (Shanghai AI Laboratory)
+
 * [2504] [VisuLogic] [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](http://arxiv.org/abs/2504.15279) (Shanghai AI Laboratory) [Project 🌐](https://visulogic-benchmark.github.io/VisuLogic) [🤗 Dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic) [💻 Code](https://github.com/VisuLogic-Benchmark) 
+
+* [2504] [Video-MMLU] [Video-MMLU: A Massive Multi-Discipline LectureUnderstanding Benchmark](https://arxiv.org/abs/2504.14693) (ZJU) [Project 🌐](https://enxinsong.com/Video-MMLU-web/) [🤗 Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU) [💻 Code](https://github.com/Espere-1119-Song/Video-MMLU) 
 
 * [2504] [GeoSense] [GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning](https://arxiv.org/abs/2504.12597) (Alibaba)
 
