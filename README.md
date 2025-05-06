@@ -26,7 +26,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
-* [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/pdf/2505.02835) (CASIA) [Models 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
+* [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/pdf/2505.02835) (CASIA) [Model 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
 
 * [2505] [T2I-R1 (generation)] [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) (CUHK) [Code 💻](https://github.com/CaraJ7/T2I-R1)
 
