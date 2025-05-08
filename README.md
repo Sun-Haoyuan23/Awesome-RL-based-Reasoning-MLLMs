@@ -28,6 +28,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [UnifiedReward-Think] [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.03318) (FDU) [Project 🌐](https://codegoat24.github.io/UnifiedReward/think) [Models 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-models-67c3008148c3a380d15ac63a) [Datasets 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede) [Code 💻](https://github.com/CodeGoat24/UnifiedReward)
+
 * [2505] [X-Reasoner] [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) (Microsoft) [Code 💻](https://github.com/microsoft/x-reasoner)
 
 * [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/pdf/2505.02835) (CASIA) [Model 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
