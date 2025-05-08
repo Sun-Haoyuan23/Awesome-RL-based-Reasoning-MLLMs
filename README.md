@@ -18,6 +18,8 @@ Recent advancements in leveraging reinforcement learning to enhance LLM reasonin
 
 This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs!
 
+Remark: For the conciseness and consistency in presentation, the annotated affiliation here is only the primary affiliation listed in the paper. Of course, in reality, the success of these awesome works is invariably attributable to collective efforts of all authors and all collaborating institutions.
+
 ## News 
 
 📧📧📧 Based on existing work in the community, we provide some insights into this field, which you can find in the [PowerPoint presentation file](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs/blob/main/Report_on_2025-4-10.pptx).
