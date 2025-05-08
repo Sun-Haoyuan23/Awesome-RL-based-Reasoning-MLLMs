@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7fdc8ef9-99ca-4cad-aa71-3e66b1d79b25)<div align="center">
+<div align="center">
 
 # Awesome RL-based Reasoning MLLMs
 
