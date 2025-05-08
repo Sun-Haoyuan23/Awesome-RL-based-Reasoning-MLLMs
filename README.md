@@ -146,6 +146,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Omni☺️
 
+* [2505] [EchoInk-R1] [EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning](https://arxiv.org/pdf/2505.04623) (CUHK) [Model 🤗](https://huggingface.co/harryhsing/EchoInk-R1-7B) [Dataset 🤗](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1) [Code 💻](https://github.com/HarryHsing/EchoInk)
+
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379) (Alibaba) [Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B) [Code 💻](https://github.com/HumanMLLM/R1-Omni)
 
 ### GUI📲
