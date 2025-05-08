@@ -60,8 +60,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2504] [MAYE] [Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](https://www.arxiv.org/abs/2504.02587) (SJTU) [Dataset 🤗](https://huggingface.co/datasets/ManTle/MAYE) [Code 💻](https://github.com/GAIR-NLP/MAYE)
 
-* [2504] [R1-Zero-VSI] [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://arxiv.org/abs/2504.00883) (SJTU) [Code 💻](https://github.com/zhijie-group/R1-Zero-VSI)
-
 * [2503] [Q-Insight] [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/abs/2503.22679) (PKU) [Code 💻](https://github.com/lwq20020127/Q-Insight)
 
 * [2503] [Embodied-Reasoner] [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696v1) (ZJU) [Project 🌐](https://embodied-reasoner.github.io/) [Dataset 🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner) [Code 💻](https://github.com/zwq2018/embodied_reasoner)
@@ -119,6 +117,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2504] [VideoChat-R1] [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.06958) (Shanghai AI Lab) [Model 🤗](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e) [Code 💻](https://github.com/OpenGVLab/VideoChat-R1)
 
 * [2504] [Spatial-R1] [Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805) (PKU) [Model 🤗](https://huggingface.co/RUBBISHLIKE/Sptial-R1-exp-1500) [Dataset 🤗](https://github.com/OuyangKun10/Spatial-R1/blob/main/annotation/SR-91k.jsonl) [Code 💻](https://github.com/OuyangKun10/Spatial-R1)
+
+* [2504] [R1-Zero-VSI] [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://arxiv.org/abs/2504.00883) (SJTU) [Code 💻](https://github.com/zhijie-group/R1-Zero-VSI)
 
 * [2503] [SEED-Bench-R1] [Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](https://arxiv.org/abs/2503.24376) (HKU) [Dataset 🤗](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)  [Code 💻](https://github.com/TencentARC/SEED-Bench-R1)
 
