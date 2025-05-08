@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/7fdc8ef9-99ca-4cad-aa71-3e66b1d79b25)<div align="center">
 
 # Awesome RL-based Reasoning MLLMs
 
@@ -40,8 +40,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2504] [NoisyRollout] [Reinforcing Visual Reasoning with Data Augmentation](https://arxiv.org/abs/2504.13055) (NUS) [Models 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)  [Datasets 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2) [Code 💻](https://github.com/John-AI-Lab/NoisyRollout)
 
-* [2504] [Embodied-R] [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) (THU) [Code 💻](https://github.com/EmbodiedCity/Embodied-R.code)
-
 * [2504] [SimpleAR (generation)] [SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](https://arxiv.org/pdf/2504.11455) (FDU) [Models 🤗](https://huggingface.co/collections/Daniel0724/simplear-6805053f5b4b9961ac025136)  [Code 💻](https://github.com/wdrink/SimpleAR)
 
 * [2504] [VL-Rethinker] [Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://arxiv.org/abs/2504.08837) (HKUST) [Project 🌐](https://tiger-ai-lab.github.io/VL-Rethinker/) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/vl-rethinker-67fdc54de07c90e9c6c69d09) [Dataset 🤗](https://huggingface.co/datasets/TIGER-Lab/ViRL39K) [Code 💻](https://github.com/TIGER-AI-Lab/VL-Rethinker)
@@ -61,8 +59,6 @@ This repository provides valuable reference for researchers in the field of mult
 * [2504] [MAYE] [Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](https://www.arxiv.org/abs/2504.02587) (SJTU) [Dataset 🤗](https://huggingface.co/datasets/ManTle/MAYE) [Code 💻](https://github.com/GAIR-NLP/MAYE)
 
 * [2503] [Q-Insight] [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/abs/2503.22679) (PKU) [Code 💻](https://github.com/lwq20020127/Q-Insight)
-
-* [2503] [Embodied-Reasoner] [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696v1) (ZJU) [Project 🌐](https://embodied-reasoner.github.io/) [Dataset 🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner) [Code 💻](https://github.com/zwq2018/embodied_reasoner)
 
 * [2503] [Reason-RFT] [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning](https://arxiv.org/abs/2503.20752) (PKU) [Project 🌐](https://tanhuajie.github.io/ReasonRFT) [Dataset 🤗](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) [Code 💻](https://github.com/tanhuajie/Reason-RFT)
 
@@ -126,13 +122,19 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [TimeZero] [TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM](https://arxiv.org/abs/2503.13377) (RUC) [Model 🤗](https://huggingface.co/wwwyyy/TimeZero-Charades-7B) [Code 💻](https://github.com/www-Ye/TimeZero)
 
-### Vision (Medical Image)🏥 
+### Medical Vision🏥 
 
 * [2504] [ChestX-Reasoner] [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/pdf/2504.20930) (SJTU) 
 
 * [2503] [Med-R1] [Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2503.13939v3) (Emory) [Model 🤗](https://huggingface.co/yuxianglai117/Med-R1) [Code 💻](https://github.com/Yuxiang-Lai117/Med-R1)
 
 * [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/abs/2502.19634) (TUM) [Model 🤗](https://huggingface.co/JZPeterPan/MedVLM-R1)
+
+### Embodied Vision🤖 
+
+* [2504] [Embodied-R] [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) (THU) [Code 💻](https://github.com/EmbodiedCity/Embodied-R.code)
+
+* [2503] [Embodied-Reasoner] [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696v1) (ZJU) [Project 🌐](https://embodied-reasoner.github.io/) [Dataset 🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner) [Code 💻](https://github.com/zwq2018/embodied_reasoner)
 
 ### Audio👂
 
