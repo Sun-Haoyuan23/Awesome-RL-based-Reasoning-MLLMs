@@ -105,14 +105,10 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 * [2501] [Virgo] [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904v2) (RUC) [Model 🤗](https://huggingface.co/RUC-AIBOX/Virgo-72B) [Code 💻](https://github.com/RUCAIBox/Virgo)
   
 * [2501] [Text-to-image COT] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/abs/2501.13926) (CUHK) [Project 🌐](https://github.com/ZiyuGuo99/Image-Generation-CoT) [Model 🤗](https://huggingface.co/ZiyuG/Image-Generation-CoT)  [Code 💻](https://github.com/ZiyuGuo99/Image-Generation-CoT)
-  
-* [2501] [LlamaV-o1] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186) (MBZUAI) [Project 🌐](https://mbzuai-oryx.github.io/LlamaV-o1/) [Model 🤗](https://huggingface.co/omkarthawakar/LlamaV-o1)  [Code 💻](https://github.com/mbzuai-oryx/LlamaV-o1)
 
 * [2411] [InternVL2-MPO] [Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization](https://arxiv.org/abs/2411.10442) (Shanghai AI Laboratory) [Project 🌐](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/) [Model 🤗](https://huggingface.co/OpenGVLab/InternVL2-8B-MPO) [Code 💻](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)
 
 * [2411] [Insight-V] [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432) (NTU) [Model 🤗](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035) [Code 💻](https://github.com/dongyh20/Insight-V)
-  
-* [2411] [LLaVA-CoT] [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440v4) (PKU) [Project 🌐](https://github.com/PKU-YuanGroup/LLaVA-CoT) [Model 🤗](https://huggingface.co/Xkev/Llama-3.2V-11B-cot) [Demo🤗](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot) [Code 💻](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 
 ### Vision (Video)📹 
 
