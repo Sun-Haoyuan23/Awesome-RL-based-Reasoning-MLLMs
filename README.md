@@ -221,7 +221,7 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Video)📹 
 
-* [Open R1 Video 💻](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open R1 Video](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video) [Models 🤗](https://huggingface.co/Xiaodong/Open-R1-Video-7B)  [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k) [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
+* [Open R1 Video 💻](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open R1 Video](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video) [Models 🤗](https://huggingface.co/Xiaodong/Open-R1-Video-7B)  [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 
 * [Temporal-R1 💻](https://github.com/appletea233/Temporal-R1)  ![Temporal-R1](https://img.shields.io/github/stars/appletea233/Temporal-R1) [Code 💻](https://github.com/appletea233/Temporal-R1) [Models 🤗](https://huggingface.co/appletea2333)
 
