@@ -173,7 +173,7 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2504] [VisuLogic] [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](http://arxiv.org/abs/2504.15279) (Shanghai AI Laboratory) [Project 🌐](https://visulogic-benchmark.github.io/VisuLogic) [🤗 Dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic) [💻 Code](https://github.com/VisuLogic-Benchmark) 
 
-* [2504] [Video-MMLU] [Video-MMLU: A Massive Multi-Discipline LectureUnderstanding Benchmark](https://arxiv.org/abs/2504.14693) (ZJU) [Project 🌐](https://enxinsong.com/Video-MMLU-web/) [🤗 Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU) [💻 Code](https://github.com/Espere-1119-Song/Video-MMLU) 
+* [2504] [Video-MMLU] [Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark](https://arxiv.org/abs/2504.14693) (ZJU) [Project 🌐](https://enxinsong.com/Video-MMLU-web/) [🤗 Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU) [💻 Code](https://github.com/Espere-1119-Song/Video-MMLU) 
 
 * [2504] [GeoSense] [GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning](https://arxiv.org/abs/2504.12597) (Alibaba)
 
