@@ -34,6 +34,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [Flow-GRPO (generation)] [Flow-GRPO: Training Flow Matching Models via Online RL](https://www.arxiv.org/pdf/2505.05470) (CUHK) [Models 🤗](https://huggingface.co/jieliu)  [Code 💻](https://github.com/yifan123/flow_grpo)
+
 * [2505] [X-Reasoner] [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) (Microsoft) [Code 💻](https://github.com/microsoft/x-reasoner)
 
 * [2505] [T2I-R1 (generation)] [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) (CUHK) [Code 💻](https://github.com/CaraJ7/T2I-R1)
