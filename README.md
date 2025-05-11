@@ -28,29 +28,29 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Multimodal Reward Model 💯
 
-* [2505] [UnifiedReward-Think] [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.03318) (FDU) [Project 🌐](https://codegoat24.github.io/UnifiedReward/think) [Models 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-models-67c3008148c3a380d15ac63a) [Datasets 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede) [Code 💻](https://github.com/CodeGoat24/UnifiedReward)
+* [2505] [UnifiedReward-Think] [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.03318) (FDU) [Project 🌐](https://codegoat24.github.io/UnifiedReward/think) [Models 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-models-67c3008148c3a380d15ac63a) [Datasets 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede) [Code 💻](https://github.com/CodeGoat24/UnifiedReward)
 
-* [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/pdf/2505.02835) (CASIA) [Model 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
+* [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/abs/2505.02835) (CASIA) [Model 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
 
 ### Vision (Image)👀 
 
-* [2505] [Flow-GRPO (generation)] [Flow-GRPO: Training Flow Matching Models via Online RL](https://www.arxiv.org/pdf/2505.05470) (CUHK) [Models 🤗](https://huggingface.co/jieliu)  [Code 💻](https://github.com/yifan123/flow_grpo)
+* [2505] [Flow-GRPO (generation)] [Flow-GRPO: Training Flow Matching Models via Online RL](https://www.arxiv.org/abs/2505.05470) (CUHK) [Models 🤗](https://huggingface.co/jieliu)  [Code 💻](https://github.com/yifan123/flow_grpo)
 
 * [2505] [X-Reasoner] [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) (Microsoft) [Code 💻](https://github.com/microsoft/x-reasoner)
 
 * [2505] [T2I-R1 (generation)] [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) (CUHK) [Code 💻](https://github.com/CaraJ7/T2I-R1)
 
-* [2504] [FAST] [Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/pdf/2504.18458) (ZJU) [Code 💻](https://github.com/Mr-Loevan/FAST)
+* [2504] [FAST] [Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/abs/2504.18458) (ZJU) [Code 💻](https://github.com/Mr-Loevan/FAST)
 
 * [2504] [Skywork R1V2] [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656) (Skywork AI) [Models 🤗](https://huggingface.co/collections/Skywork/skywork-r1v2-68075a3d947a5ae160272671)  [Code 💻](https://github.com/SkyworkAI/Skywork-R1V)
 
-* [2504] [Relation-R1] [Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension](https://arxiv.org/pdf/2504.14642) (HKUST) [Code 💻](https://github.com/HKUST-LongGroup/Relation-R1)
+* [2504] [Relation-R1] [Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension](https://arxiv.org/abs/2504.14642) (HKUST) [Code 💻](https://github.com/HKUST-LongGroup/Relation-R1)
 
-* [2504] [R1-SGG] [Compile Scene Graphs with Reinforcement Learning](https://www.arxiv.org/pdf/2504.13617) (HKPU) [Code 💻](https://github.com/gpt4vision/R1-SGG)
+* [2504] [R1-SGG] [Compile Scene Graphs with Reinforcement Learning](https://www.arxiv.org/abs/2504.13617) (HKPU) [Code 💻](https://github.com/gpt4vision/R1-SGG)
 
 * [2504] [NoisyRollout] [Reinforcing Visual Reasoning with Data Augmentation](https://arxiv.org/abs/2504.13055) (NUS) [Models 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)  [Datasets 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2) [Code 💻](https://github.com/John-AI-Lab/NoisyRollout)
 
-* [2504] [SimpleAR (generation)] [SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](https://arxiv.org/pdf/2504.11455) (FDU) [Models 🤗](https://huggingface.co/collections/Daniel0724/simplear-6805053f5b4b9961ac025136)  [Code 💻](https://github.com/wdrink/SimpleAR)
+* [2504] [SimpleAR (generation)] [SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](https://arxiv.org/abs/2504.11455) (FDU) [Models 🤗](https://huggingface.co/collections/Daniel0724/simplear-6805053f5b4b9961ac025136)  [Code 💻](https://github.com/wdrink/SimpleAR)
 
 * [2504] [VL-Rethinker] [Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://arxiv.org/abs/2504.08837) (HKUST) [Project 🌐](https://tiger-ai-lab.github.io/VL-Rethinker/) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/vl-rethinker-67fdc54de07c90e9c6c69d09) [Dataset 🤗](https://huggingface.co/datasets/TIGER-Lab/ViRL39K) [Code 💻](https://github.com/TIGER-AI-Lab/VL-Rethinker)
 
