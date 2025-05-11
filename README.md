@@ -217,6 +217,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [SeekWorld 💻](https://github.com/TheEighthDay/SeekWorld)  ![TheEighthDay/SeekWorld](https://img.shields.io/github/stars/TheEighthDay/SeekWorld) [Model 🤗](https://huggingface.co/TheEighthDay/SeekWorld_RL_PLUS) [Dataset 🤗](https://huggingface.co/datasets/TheEighthDay/SeekWorld) [Demo 🤗](https://huggingface.co/spaces/TheEighthDay/SeekWorld_APP)
 
+* [R1-Track 💻](https://github.com/Wangbiao2/R1-Track)  ![Wangbiao2/R1-Track](https://img.shields.io/github/stars/Wangbiao2/R1-Track) [Models 🤗](https://huggingface.co/WangBiao) [Datasets 🤗](https://huggingface.co/WangBiao)
+
 ### Vision (Video)📹 
 
 * [Open R1 Video 💻](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open R1 Video](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video) [Models 🤗](https://huggingface.co/Xiaodong/Open-R1-Video-7B)  [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
