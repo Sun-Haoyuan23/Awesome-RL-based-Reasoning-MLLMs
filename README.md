@@ -34,6 +34,9 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [DanceGRPO (generation)] [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/abs/2505.07818) (ByteDance) [Project 🌐](https://dancegrpo.github.io/) 
+ [Code 💻](https://github.com/XueZeyue/DanceGRPO)
+
 * [2505] [Flow-GRPO (generation)] [Flow-GRPO: Training Flow Matching Models via Online RL](https://www.arxiv.org/abs/2505.05470) (CUHK) [Models 🤗](https://huggingface.co/jieliu)  [Code 💻](https://github.com/yifan123/flow_grpo)
 
 * [2505] [X-Reasoner] [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) (Microsoft) [Code 💻](https://github.com/microsoft/x-reasoner)
