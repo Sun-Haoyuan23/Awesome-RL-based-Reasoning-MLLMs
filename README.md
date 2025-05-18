@@ -26,12 +26,6 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ## Papers (Sort by Time of Release)📄
 
-### Multimodal Reward Model 💯
-
-* [2505] [UnifiedReward-Think] [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.03318) (FDU) [Project 🌐](https://codegoat24.github.io/UnifiedReward/think) [Models 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-models-67c3008148c3a380d15ac63a) [Datasets 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede) [Code 💻](https://github.com/CodeGoat24/UnifiedReward)
-
-* [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/abs/2505.02835) (CASIA) [Model 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
-
 ### Vision (Image)👀 
 
 * [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) (CUHK) [Model 🤗](https://huggingface.co/Warrieryes/OpenThinkIMG-Chart-Qwen2-2B-VL)  [Datasets 🤗](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9) [Code 💻](https://github.com/zhaochen0110/OpenThinkIMG)
@@ -146,6 +140,15 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 * [2504] [Embodied-R] [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) (THU) [Code 💻](https://github.com/EmbodiedCity/Embodied-R.code)
 
 * [2503] [Embodied-Reasoner] [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696v1) (ZJU) [Project 🌐](https://embodied-reasoner.github.io/) [Dataset 🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner) [Code 💻](https://github.com/zwq2018/embodied_reasoner)
+
+
+### Multimodal Reward Model 💯
+
+* [2505] [Skywork-VL Reward] [Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning](https://arxiv.org/abs/2505.07263) (Skywork AI) [Models 🤗](https://huggingface.co/Skywork/Skywork-VL-Reward-7B) [Code 💻](https://github.com/SkyworkAI/Skywork-R1V)
+
+* [2505] [UnifiedReward-Think] [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.03318) (FDU) [Project 🌐](https://codegoat24.github.io/UnifiedReward/think) [Models 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-models-67c3008148c3a380d15ac63a) [Datasets 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede) [Code 💻](https://github.com/CodeGoat24/UnifiedReward)
+
+* [2505] [R1-Reward] [R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](https://arxiv.org/abs/2505.02835) (CASIA) [Model 🤗](https://huggingface.co/yifanzhang114/R1-Reward)  [Dataset 🤗](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL) [Code 💻](https://github.com/yfzhang114/r1_reward)
 
 ### Audio👂
 
