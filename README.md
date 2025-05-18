@@ -34,6 +34,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617)  [Model 🤗](https://huggingface.co/Warrieryes/OpenThinkIMG-Chart-Qwen2-2B-VL)  [Datasets 🤗](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9) [Code 💻](https://github.com/zhaochen0110/OpenThinkIMG)
+
 * [2505] [DanceGRPO (generation)] [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/abs/2505.07818) (ByteDance) [Project 🌐](https://dancegrpo.github.io/) 
  [Code 💻](https://github.com/XueZeyue/DanceGRPO)
 
@@ -238,7 +240,7 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 This is an active repository and your contributions are always welcome! If you have any question about this opinionated list, do not hesitate to contact me sun-hy23@mails.tsinghua.edu.cn. 
 
-I extend my sincere gratitude to all community members who provided valuable supplementary support. I would also like to express my sincere gratitude to my supervisor Prof. Xueqian Wang and group advisor Dr. Yongzhe Chang for their unwavering support and guidance. And I would also like to express my sincere gratitude to Jiaqi Wu, Dr. Bin Liang, Yifu Luo, Yifei Zhao, Kai Qin, Jinghui Xu, Bo Xia and Dr. Tiantian Zhang for helpful discussions.
+I extend my sincere gratitude to all community members who provided valuable supplementary support.
 
 ## Citation📑
 
