@@ -141,7 +141,6 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2503] [Embodied-Reasoner] [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696v1) (ZJU) [Project 🌐](https://embodied-reasoner.github.io/) [Dataset 🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner) [Code 💻](https://github.com/zwq2018/embodied_reasoner)
 
-
 ### Multimodal Reward Model 💯
 
 * [2505] [Skywork-VL Reward] [Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning](https://arxiv.org/abs/2505.07263) (Skywork AI) [Models 🤗](https://huggingface.co/Skywork/Skywork-VL-Reward-7B) [Code 💻](https://github.com/SkyworkAI/Skywork-R1V)
