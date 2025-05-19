@@ -30,7 +30,7 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2505] [VPRL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/abs/2505.11409) (Cantab) [Code 💻](https://github.com/yix8/VisualPlanning)
 
-* [2505] [GuardReasoner-VL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/pdf/2505.11049) (NUS) [Code 💻](https://github.com/yueliu1999/GuardReasoner-VL)
+* [2505] [GuardReasoner-VL] [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/pdf/2505.11049) (NUS) [Code 💻](https://github.com/yueliu1999/GuardReasoner-VL)
 
 * [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) (CUHK) [Model 🤗](https://huggingface.co/Warrieryes/OpenThinkIMG-Chart-Qwen2-2B-VL)  [Datasets 🤗](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9) [Code 💻](https://github.com/zhaochen0110/OpenThinkIMG)
 
