@@ -28,6 +28,10 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [VPRL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/abs/2505.11409) (Cantab) [Code 💻](https://github.com/yix8/VisualPlanning)
+
+* [2505] [GuardReasoner-VL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/pdf/2505.11049) (NUS) [Code 💻](https://github.com/yueliu1999/GuardReasoner-VL)
+
 * [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) (CUHK) [Model 🤗](https://huggingface.co/Warrieryes/OpenThinkIMG-Chart-Qwen2-2B-VL)  [Datasets 🤗](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9) [Code 💻](https://github.com/zhaochen0110/OpenThinkIMG)
 
 * [2505] [DanceGRPO (generation)] [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/abs/2505.07818) (ByteDance) [Project 🌐](https://dancegrpo.github.io/) 
@@ -196,7 +200,7 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2502] [MME-CoT] [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/abs/2502.09621) (CUHK) [Project 🌐](https://mmecot.github.io/) [Dataset 🤗](https://huggingface.co/datasets/CaraJ/MME-CoT) [Code 💻](https://github.com/CaraJ7/MME-CoT)
 
-* [2502] [ZeroBench] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models](https://arxiv.org/abs/2502.09696) (Cambridge) [Project 🌐](https://zerobench.github.io/) [Dataset 🤗](https://huggingface.co/datasets/jonathan-roberts1/zerobench) [Code 💻](https://github.com/jonathan-roberts1/zerobench/)
+* [2502] [ZeroBench] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models](https://arxiv.org/abs/2502.09696) (Cantab) [Project 🌐](https://zerobench.github.io/) [Dataset 🤗](https://huggingface.co/datasets/jonathan-roberts1/zerobench) [Code 💻](https://github.com/jonathan-roberts1/zerobench/)
 
 * [2502] [HumanEval-V] [HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks](https://arxiv.org/abs/2410.12381) (CUHK) [Project 🌐](https://humaneval-v.github.io/) [Dataset 🤗](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark) [Code 💻](https://github.com/HumanEval-V/HumanEval-V-Benchmark)
 
