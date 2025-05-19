@@ -133,6 +133,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Medical Vision🏥 
 
+* [2505] [Patho-R1] [Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](https://arxiv.org/abs/2505.11404) (SCU) [Code 💻](https://github.com/Wenchuan-Zhang/Patho-R1)
+
 * [2504] [ChestX-Reasoner] [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/pdf/2504.20930) (SJTU) 
 
 * [2503] [Med-R1] [Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2503.13939v3) (Emory) [Model 🤗](https://huggingface.co/yuxianglai117/Med-R1) [Code 💻](https://github.com/Yuxiang-Lai117/Med-R1)
