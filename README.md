@@ -20,6 +20,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 Remark: For the conciseness and consistency in presentation, the annotated affiliation here is only the primary affiliation listed in the paper. Of course, in reality, the success of these awesome works is invariably attributable to collective efforts of all authors and all collaborating institutions.
 
+![image](Multimodal.jpg)
+
+**Figure 1: An overview of the works done on reinforcement fine-tuning (RFT) for multimodal large language models (MLLMs). Works are sorted by release time and are collected up to May 15, 2025.** 
+
 ## News 
 
 📧📧📧 Based on existing work in the community, we provide some insights into this field, which you can find in the [PowerPoint presentation file](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs/blob/main/Report_on_2025-4-10.pptx).
