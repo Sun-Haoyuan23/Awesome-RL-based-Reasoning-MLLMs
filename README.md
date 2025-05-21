@@ -32,6 +32,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [Visual-ARFT] [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) (SJTU) [Models 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)  [Datasets 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f) [Code 💻](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
+
 * [2505] [VPRL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/abs/2505.11409) (Cantab) [Code 💻](https://github.com/yix8/VisualPlanning)
 
 * [2505] [GuardReasoner-VL] [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/pdf/2505.11049) (NUS) [Code 💻](https://github.com/yueliu1999/GuardReasoner-VL)
