@@ -123,6 +123,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Video)📹 
 
+* [2505] [SpaceR] [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/pdf/2504.01805v2) (PKU) [Model 🤗](https://huggingface.co/RUBBISHLIKE/SpaceR) [Dataset 🤗](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k) [Code 💻]( https://github.com/OuyangKun10/SpaceR)
+
 * [2504] [TinyLLaVA-Video-R1] [TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning](https://arxiv.org/abs/2504.09641) (BUAA) [Model 🤗](https://huggingface.co/Zhang199/TinyLLaVA-Video-R1) [Code 💻](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)
 
 * [2504] [VideoChat-R1] [VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.06958) (Shanghai AI Lab) [Model 🤗](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e) [Code 💻](https://github.com/OpenGVLab/VideoChat-R1)
