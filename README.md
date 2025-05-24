@@ -20,13 +20,15 @@ This repository provides valuable reference for researchers in the field of mult
 
 Remark: For the conciseness and consistency in presentation, the annotated affiliation here is only the primary affiliation listed in the paper. Of course, in reality, the success of these awesome works is invariably attributable to collective efforts of all authors and all collaborating institutions.
 
+## News 
+
+🔥🔥🔥[2025-5-24] We write the position paper [Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs/blob/main/Reinforcement_Fine-Tuning_Powers_Reasoning_Capability_of_Multimodal_Large_Language_Models.pdf) that summarizes recent advancements on the topic of RFT for MLLMs. We focus on answering the following three questions: ***1. What background should researchers interested in this field know?***  ***2. What has the community done?***  ***3. What could the community do next?***  We hope that this position paper will provide valuable insights to the community at this pivotal stage in the advancement toward AGI.
+
+📧📧📧[2025-4-10] Based on existing work in the community, we provide some insights into this field, which you can find in the [PowerPoint presentation file](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs/blob/main/Report_on_2025-4-10.pptx).
+
 ![image](Multimodal.jpg)
 
 **Figure 1: An overview of the works done on reinforcement fine-tuning (RFT) for multimodal large language models (MLLMs). Works are sorted by release time and are collected up to May 15, 2025.** 
-
-## News 
-
-📧📧📧 Based on existing work in the community, we provide some insights into this field, which you can find in the [PowerPoint presentation file](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs/blob/main/Report_on_2025-4-10.pptx).
 
 ## Papers (Sort by Time of Release)📄
 
