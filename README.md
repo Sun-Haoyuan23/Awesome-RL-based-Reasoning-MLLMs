@@ -34,13 +34,19 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [Pixel Reasoner] [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) (UWaterloo) [Project 🌐](https://tiger-ai-lab.github.io/Pixel-Reasoner/) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)  [Datasets 🤗](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e) [Demo 🤗](https://huggingface.co/spaces/TIGER-Lab/Pixel-Reasoner) [Code 💻](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)
+
 * [2505] [STAR-R1] [STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](https://arxiv.org/abs/2505.15804) (RUC) [Code 💻](https://github.com/zongzhao23/STAR-R1)
+
+* [2505] [VARD (Gen)] [VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL](https://arxiv.org/abs/2505.15791) (WU) 
 
 * [2505] [Visionary-R1] [Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](https://arxiv.org/pdf/2505.14677) (HKBU) [Code 💻](https://github.com/maifoundations/Visionary-R1)
 
 * [2505] [VisualQuality-R1] [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460) (CUHK) [Models 🤗](https://huggingface.co/TianheWu/VisualQuality-R1-7B) [Code 💻](https://github.com/TianheWu/VisualQuality-R1)
 
 * [2505] [Visual-ARFT] [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) (SJTU) [Models 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)  [Datasets 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f) [Code 💻](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
+
+* [2505] [UniVG-R1] [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/pdf/2505.14231) (THU) [Project 🌐](https://amap-ml.github.io/UniVG-R1-page/) [Model 🤗](https://huggingface.co/GD-ML/UniVG-R1)  [Dataset 🤗](https://huggingface.co/datasets/GD-ML/UniVG-R1-data)  [Code 💻](https://github.com/AMAP-ML/UniVG-R1)
 
 * [2505] [VisionReasoner] [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081) (CUHK) [Models 🤗](https://huggingface.co/Ricky06662)  [Datasets 🤗](https://huggingface.co/Ricky06662) [Code 💻](https://github.com/dvlab-research/VisionReasoner)
 
