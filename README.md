@@ -40,6 +40,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2505] [SophiaVL-R1] [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/pdf/2505.17018) (CUHK)  [Models 🤗](https://huggingface.co/bunny127)  [Datasets 🤗](https://huggingface.co/bunny127)  [Code 💻](https://github.com/kxfan2002/SophiaVL-R1)
 
+* [2505] [R1-ShareVL] [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673) (NTU) [Code 💻](https://github.com/HJYao00/R1-ShareVL)
+
 * [2505] [VLM-R^3] [VLM-R^3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.16192) (PKU) 
 
 * [2505] [TON] [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://arxiv.org/pdf/2505.16854) (NUS) [Models 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)  [Datasets 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)  [Code 💻](https://github.com/kokolerk/TON)
@@ -55,6 +57,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 * [2505] [Visionary-R1] [Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](https://arxiv.org/pdf/2505.14677) (HKBU) [Code 💻](https://github.com/maifoundations/Visionary-R1)
 
 * [2505] [VisualQuality-R1] [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460) (CUHK) [Models 🤗](https://huggingface.co/TianheWu/VisualQuality-R1-7B) [Code 💻](https://github.com/TianheWu/VisualQuality-R1)
+
+* [2505] [DeepEyes] [Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) (Xiaohongshu) [Project 🌐](https://visual-agent.github.io/) [Model 🤗](https://huggingface.co/ChenShawn/DeepEyes-7B)  [Dataset 🤗](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k) [Code 💻](https://github.com/Visual-Agent/DeepEyes)
 
 * [2505] [Visual-ARFT] [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) (SJTU) [Models 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)  [Datasets 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f) [Code 💻](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
 
@@ -208,6 +212,12 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379) (Alibaba) [Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B) [Code 💻](https://github.com/HumanMLLM/R1-Omni)
 
 ### GUI📲
+
+* [2505] [ARPO] [ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay](https://www.arxiv.org/pdf/2505.16282) (CUHK)  [Model 🤗](https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B)  [Code 💻](https://github.com/dvlab-research/ARPO)
+
+* [2505] [GUI-G1] [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/abs/2505.15810) (RUC) [Code 💻](https://github.com/Yuqi-Zhou/GUI-G1)
+
+* [2505] [UIShift] [UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](https://arxiv.org/pdf/2505.12493) (BUPT) 
 
 * [2504] [InfiGUI-R1] [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://arxiv.org/pdf/2504.14239) (ZJU) [Model 🤗](https://huggingface.co/Reallm-Labs/InfiGUI-R1-3B) [Code 💻](https://github.com/Reallm-Labs/InfiGUI-R1)
 
