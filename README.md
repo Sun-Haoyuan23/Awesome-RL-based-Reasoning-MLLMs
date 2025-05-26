@@ -34,7 +34,19 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [V-Triune] [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) (MiniMax-AI) [Models 🤗](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)  [Dataset 🤗](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)  [Code 💻](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)
+
+* [2505] [GoT-R1 (Gen)] [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) (HKU) [Models 🤗](https://huggingface.co/gogoduan) [Code 💻](https://github.com/gogoduan/GoT-R1)
+
+* [2505] [SophiaVL-R1] [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/pdf/2505.17018) (CUHK)  [Models 🤗](https://huggingface.co/bunny127)  [Datasets 🤗](https://huggingface.co/bunny127)  [Code 💻](https://github.com/kxfan2002/SophiaVL-R1)
+
+* [2505] [VLM-R^3] [VLM-R^3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.16192) (PKU) 
+
+* [2505] [TON] [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://arxiv.org/pdf/2505.16854) (NUS) [Models 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)  [Datasets 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)  [Code 💻](https://github.com/kokolerk/TON)
+
 * [2505] [Pixel Reasoner] [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) (UWaterloo) [Project 🌐](https://tiger-ai-lab.github.io/Pixel-Reasoner/) [Models 🤗](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)  [Datasets 🤗](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e) [Demo 🤗](https://huggingface.co/spaces/TIGER-Lab/Pixel-Reasoner) [Code 💻](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)
+
+* [2505] [GRIT] [GRIT: Teaching MLLMs to Think with Images](https://arxiv.org/abs/2505.15879) (UCSC) [Project 🌐](https://grounded-reasoning.github.io/)  [Demo 🤗](https://b86dd615e41b242e22.gradio.live/) [Code 💻](https://github.com/eric-ai-lab/GRIT)
 
 * [2505] [STAR-R1] [STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](https://arxiv.org/abs/2505.15804) (RUC) [Code 💻](https://github.com/zongzhao23/STAR-R1)
 
