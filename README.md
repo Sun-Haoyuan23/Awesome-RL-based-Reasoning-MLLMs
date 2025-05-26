@@ -36,7 +36,13 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2505] [STAR-R1] [STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](https://arxiv.org/abs/2505.15804) (RUC) [Code 💻](https://github.com/zongzhao23/STAR-R1)
 
+* [2505] [Visionary-R1] [Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](https://arxiv.org/pdf/2505.14677) (HKBU) [Code 💻](https://github.com/maifoundations/Visionary-R1)
+
+* [2505] [VisualQuality-R1] [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460) (CUHK) [Models 🤗](https://huggingface.co/TianheWu/VisualQuality-R1-7B) [Code 💻](https://github.com/TianheWu/VisualQuality-R1)
+
 * [2505] [Visual-ARFT] [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) (SJTU) [Models 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)  [Datasets 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f) [Code 💻](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
+
+* [2505] [VisionReasoner] [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081) (CUHK) [Models 🤗](https://huggingface.co/Ricky06662)  [Datasets 🤗](https://huggingface.co/Ricky06662) [Code 💻](https://github.com/dvlab-research/VisionReasoner)
 
 * [2505] [VPRL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/abs/2505.11409) (Cantab) [Code 💻](https://github.com/yix8/VisualPlanning)
 
@@ -176,6 +182,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 * [2503] [Audio-Reasoner] [Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models](https://arxiv.org/abs/2503.02318) (NTU) [Project 🌐](https://xzf-thu.github.io/Audio-Reasoner/) [Model 🤗](https://huggingface.co/zhifeixie/Audio-Reasoner) [Code 💻](https://github.com/xzf-thu/Audio-Reasoner)
 
 ### Omni☺️
+
+* [2505] [Omni-R1] [Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](https://arxiv.org/pdf/2505.09439) (MIT) 
 
 * [2505] [EchoInk-R1] [EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning](https://arxiv.org/pdf/2505.04623) (CUHK) [Model 🤗](https://huggingface.co/harryhsing/EchoInk-R1-7B) [Dataset 🤗](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1) [Code 💻](https://github.com/HarryHsing/EchoInk)
 
