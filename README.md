@@ -54,6 +54,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2505] [VARD (Gen)] [VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL](https://arxiv.org/abs/2505.15791) (WU) 
 
+* [2505] [Chain-of-Focus] [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/abs/2505.15436) (BIGAI) [Project 🌐](https://cof-reasoning.github.io/)
+
 * [2505] [Visionary-R1] [Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](https://arxiv.org/pdf/2505.14677) (HKBU) [Code 💻](https://github.com/maifoundations/Visionary-R1)
 
 * [2505] [VisualQuality-R1] [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460) (CUHK) [Models 🤗](https://huggingface.co/TianheWu/VisualQuality-R1-7B) [Code 💻](https://github.com/TianheWu/VisualQuality-R1)
@@ -211,13 +213,15 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379) (Alibaba) [Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B) [Code 💻](https://github.com/HumanMLLM/R1-Omni)
 
-### GUI📲
+### GUI Agent📲
 
 * [2505] [ARPO] [ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay](https://www.arxiv.org/pdf/2505.16282) (CUHK)  [Model 🤗](https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B)  [Code 💻](https://github.com/dvlab-research/ARPO)
 
 * [2505] [GUI-G1] [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/abs/2505.15810) (RUC) [Code 💻](https://github.com/Yuqi-Zhou/GUI-G1)
 
 * [2505] [UIShift] [UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](https://arxiv.org/pdf/2505.12493) (BUPT) 
+
+* [2505] [MobileIPL] [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/pdf/2505.12299) (XiaoMi) 
 
 * [2504] [InfiGUI-R1] [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://arxiv.org/pdf/2504.14239) (ZJU) [Model 🤗](https://huggingface.co/Reallm-Labs/InfiGUI-R1-3B) [Code 💻](https://github.com/Reallm-Labs/InfiGUI-R1)
 
