@@ -22,7 +22,7 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ## News 
 
-🔥🔥🔥[2025-5-24] We write the position paper [Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs/blob/main/Reinforcement_Fine-Tuning_Powers_Reasoning_Capability_of_Multimodal_Large_Language_Models.pdf) that summarizes recent advancements on the topic of RFT for MLLMs. We focus on answering the following three questions: ***1. What background should researchers interested in this field know?***  ***2. What has the community done?***  ***3. What could the community do next?***  We hope that this position paper will provide valuable insights to the community at this pivotal stage in the advancement toward AGI.
+🔥🔥🔥[2025-5-24] We write the position paper [Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models](https://huggingface.co/papers/2505.18536)  that summarizes recent advancements on the topic of RFT for MLLMs. We focus on answering the following three questions: ***1. What background should researchers interested in this field know?***  ***2. What has the community done?***  ***3. What could the community do next?***  We hope that this position paper will provide valuable insights to the community at this pivotal stage in the advancement toward AGI.
 
 📧📧📧[2025-4-10] Based on existing work in the community, we provide some insights into this field, which you can find in the [PowerPoint presentation file](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs/blob/main/Report_on_2025-4-10.pptx).
 
