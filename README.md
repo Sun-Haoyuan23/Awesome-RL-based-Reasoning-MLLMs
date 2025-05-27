@@ -229,6 +229,14 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2503] [UI-R1] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620) (VIVO)
 
+### Web Agent🌏
+
+* [2505] [Web-Shepherd] [Web-Shepherd: Advancing PRMs for Reinforcing Web Agents](https://arxiv.org/abs/2505.15277) (Yonsei University) [Models 🤗](https://huggingface.co/collections/LangAGI-Lab/web-shepherd-advancing-prms-for-reinforcing-web-agents-682b4f4ad607fc27c4dc49e8) [Datasets 🤗](https://huggingface.co/collections/LangAGI-Lab/web-shepherd-advancing-prms-for-reinforcing-web-agents-682b4f4ad607fc27c4dc49e8) [Code 💻](https://github.com/kyle8581/Web-Shepherd)
+
+### Autonomous Driving🚙
+
+* [2505] [AgentThink] [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2505.15298) (THU)
+
 ### Metaverse🌠
 
 * [2503] [MetaSpatial] [MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse](https://arxiv.org/abs/2503.18470) (NU) [Dataset 🤗](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning) [Code 💻](https://github.com/PzySeere/MetaSpatial)
