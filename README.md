@@ -66,6 +66,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 * [2505] [UniVG-R1] [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/pdf/2505.14231) (THU) [Project 🌐](https://amap-ml.github.io/UniVG-R1-page/) [Model 🤗](https://huggingface.co/GD-ML/UniVG-R1)  [Dataset 🤗](https://huggingface.co/datasets/GD-ML/UniVG-R1-data)  [Code 💻](https://github.com/AMAP-ML/UniVG-R1)
 
+* [2505] [G1] [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/abs/2505.13426) (PKU)  [Code 💻](https://github.com/chenllliang/G1)
+
 * [2505] [VisionReasoner] [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081) (CUHK) [Models 🤗](https://huggingface.co/Ricky06662)  [Datasets 🤗](https://huggingface.co/Ricky06662) [Code 💻](https://github.com/dvlab-research/VisionReasoner)
 
 * [2505] [VPRL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/abs/2505.11409) (Cantab) [Code 💻](https://github.com/yix8/VisualPlanning)
@@ -207,6 +209,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Omni☺️
 
+* [2505] [Omni-R1] [Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration](https://arxiv.org/abs/2505.20256) (ZJU) [Project 🌐](https://aim-uofa.github.io/OmniR1/) [Model 🤗](https://huggingface.co/Haoz0206/Omni-R1) [Code 💻](https://github.com/aim-uofa/Omni-R1)
+
 * [2505] [Omni-R1] [Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](https://arxiv.org/pdf/2505.09439) (MIT) 
 
 * [2505] [EchoInk-R1] [EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning](https://arxiv.org/pdf/2505.04623) (CUHK) [Model 🤗](https://huggingface.co/harryhsing/EchoInk-R1-7B) [Dataset 🤗](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1) [Code 💻](https://github.com/HarryHsing/EchoInk)
@@ -243,6 +247,10 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 
 ## Benchmarks📊
+
+* [2505] [ReasonMap] [Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps](https://arxiv.org/abs/2505.18675) (WU) [Project 🌐](https://fscdc.github.io/Reason-Map/) [🤗 Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap) [💻 Code](https://github.com/fscdc/ReasonMap) 
+
+* [2505] [PhyX] [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) (UHK) [Project 🌐](https://phyx-bench.github.io/) [🤗 Dataset](https://huggingface.co/datasets/Cloudriver/PhyX) [💻 Code](https://github.com/NastyMarcus/PhyX) 
 
 * [2505] [GDI-Bench] [GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling](https://www.arxiv.org/abs/2505.00063) (Shanghai AI Laboratory)
 
