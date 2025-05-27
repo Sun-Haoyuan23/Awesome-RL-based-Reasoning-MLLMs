@@ -323,9 +323,21 @@ I extend my sincere gratitude to all community members who provided valuable sup
 If you find this repository useful for your research and applications, please star us ⭐ and consider citing:
 
 ```tex
+@misc{sun2025reinforcementfinetuningpowersreasoning,
+      title={Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models}, 
+      author={Haoyuan Sun and Jiaqi Wu and Bo Xia and Yifu Luo and Yifei Zhao and Kai Qin and Xufei Lv and Tiantian Zhang and Yongzhe Chang and Xueqian Wang},
+      year={2025},
+      eprint={2505.18536},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.18536}, 
+}
+```
+and
+```tex
 @misc{sun2025RL-Reasoning-MLLMs,
   title={Awesome RL-based Reasoning MLLMs},
-  author={Haoyuan Sun, Yongzhe Chang, Xueqian Wang},
+  author={Haoyuan Sun, Xueqian Wang},
   year={2025},
   howpublished={\url{https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs}},
   note={Github Repository},
