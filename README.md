@@ -34,6 +34,8 @@ Remark: For the conciseness and consistency in presentation, the annotated affil
 
 ### Vision (Image)👀 
 
+* [2505] [URSA] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/abs/2501.04686) (THU) [Model 🤗](https://huggingface.co/URSA-MATH/URSA-8B-PS-GRPO)  [Datasets 🤗](https://huggingface.co/URSA-MATH)  [Code 💻](https://github.com/URSA-MATH)
+
 * [2505] [V-Triune] [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) (MiniMax-AI) [Models 🤗](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)  [Dataset 🤗](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)  [Code 💻](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)
 
 * [2505] [GoT-R1 (Gen)] [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) (HKU) [Models 🤗](https://huggingface.co/gogoduan) [Code 💻](https://github.com/gogoduan/GoT-R1)
