@@ -113,7 +113,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2504] [MAYE] [Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](https://www.arxiv.org/abs/2504.02587) [[Dataset 🤗](https://huggingface.co/datasets/ManTle/MAYE)]  [[Code 💻](https://github.com/GAIR-NLP/MAYE)]
 
-* [2503] [Q-Insight] [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/abs/2503.22679) [[Code 💻](https://github.com/lwq20020127/Q-Insight)]
+* [2503] [Q-Insight] [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/abs/2503.22679) [[Code 💻](https://github.com/bytedance/Q-Insight)] [[Model 🤗](https://huggingface.co/ByteDance/Q-Insight)]
 
 * [2503] [Reason-RFT] [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning](https://arxiv.org/abs/2503.20752) [[Project 🌐](https://tanhuajie.github.io/ReasonRFT)] [[Dataset 🤗](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset)] [[Code 💻](https://github.com/tanhuajie/Reason-RFT)]
 
