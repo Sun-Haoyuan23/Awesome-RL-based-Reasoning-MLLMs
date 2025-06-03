@@ -85,8 +85,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [T2I-R1 (generation)] [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) [[Code 💻](https://github.com/CaraJ7/T2I-R1)]
 
-* [2504] [Qwen-AD] [Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning](https://arxiv.org/abs/2404.12966) [[Code 💻](https://github.com/LeeeeTX/Qwen-AD)]
-
 * [2504] [FAST] [Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/abs/2504.18458) [[Code 💻](https://github.com/Mr-Loevan/FAST)]
 
 * [2504] [Skywork R1V2] [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656) [[Models 🤗](https://huggingface.co/collections/Skywork/skywork-r1v2-68075a3d947a5ae160272671)]  [[Code 💻](https://github.com/SkyworkAI/Skywork-R1V)]
@@ -96,6 +94,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2504] [R1-SGG] [Compile Scene Graphs with Reinforcement Learning](https://www.arxiv.org/abs/2504.13617) [[Code 💻](https://github.com/gpt4vision/R1-SGG)]
 
 * [2504] [NoisyRollout] [Reinforcing Visual Reasoning with Data Augmentation](https://arxiv.org/abs/2504.13055) [[Models 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)]  [[Datasets 🤗](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)] [[Code 💻](https://github.com/John-AI-Lab/NoisyRollout)]
+
+* [2504] [Qwen-AD] [Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning](https://arxiv.org/abs/2404.12966) [[Code 💻](https://github.com/LeeeeTX/Qwen-AD)]
 
 * [2504] [SimpleAR (generation)] [SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](https://arxiv.org/abs/2504.11455) [[Models 🤗](https://huggingface.co/collections/Daniel0724/simplear-6805053f5b4b9961ac025136)]  [[Code 💻](https://github.com/wdrink/SimpleAR)]
 
