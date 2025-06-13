@@ -260,7 +260,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [RBench-V] [RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs](https://arxiv.org/abs/2505.16770) [[Project 🌐](https://evalmodels.github.io/rbenchv/)] [[🤗 Dataset](https://huggingface.co/datasets/R-Bench/R-Bench-V)] [[💻 Code](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V)] 
 
-* [2505] [MMMR] [MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks](https://arxiv.org/abs/2505.16459) [[Project 🌐](https://evalmodels.github.io/rbenchv)] [[🤗 Dataset](https://huggingface.co/datasets/csegirl/MMMR)] [[💻 Code](https://github.com/CsEgir/MMMR)]
+* [2505] [MMMR] [MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks](https://arxiv.org/abs/2505.16459) [[Project 🌐](https://mmmr-benchmark.github.io)] [[🤗 Dataset](https://huggingface.co/datasets/csegirl/MMMR)] [[💻 Code](https://github.com/CsEgir/MMMR)]
 
 * [2505] [ReasonMap] [Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps](https://arxiv.org/abs/2505.18675) [[Project 🌐](https://fscdc.github.io/Reason-Map/)] [[🤗 Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap)] [[💻 Code](https://github.com/fscdc/ReasonMap)] 
 
