@@ -36,7 +36,11 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2505] [Spatial-MLLM] [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  [[Project 🌐](https://diankun-wu.github.io/Spatial-MLLM/)]  [[Model 🤗](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)]  [[Code 💻](https://github.com/diankun-wu/Spatial-MLLM)]
+
 * [2505] [PixelThink] [PixelThink: Towards Efficient Chain-of-Pixel Reasoning](https://arxiv.org/abs/2505.23727)  [[Project 🌐](https://pixelthink.github.io/)]  [[Code 💻](https://github.com/songw-zju/PixelThink)]
+
+* [2505] [ViGoRL] [Grounded Reinforcement Learning for Visual Reasoning](https://arxiv.org/abs/2505.23678)  [[Project 🌐](https://visually-grounded-rl.github.io/)]  [[Code 💻](https://github.com/Gabesarch/grounded-rl)]
 
 * [2505] [MM-UPT] [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453) [[Model 🤗](https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1)]  [[Dataset 🤗](https://huggingface.co/datasets/WaltonFuture/MMR1-direct-synthesizing)]  [[Code 💻](https://github.com/waltonfuture/MM-UPT)]
 
@@ -281,6 +285,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2505] [VideoReasonBench] [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/abs/2505.23359) [[Project 🌐](https://llyx97.github.io/video_reason_bench/)] [[🤗 Dataset](https://huggingface.co/datasets/lyx97/reasoning_videos)] [[💻 Code](https://github.com/llyx97/video_reason_bench)]
 
 * [2505] [Video-Holmes] [Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?](https://arxiv.org/abs/2505.21374) [[Project 🌐](https://video-holmes.github.io/Page.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/TencentARC/Video-Holmes)] [[💻 Code](https://github.com/TencentARC/Video-Holmes)]
 
