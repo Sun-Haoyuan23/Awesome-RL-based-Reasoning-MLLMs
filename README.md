@@ -175,6 +175,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2505] [TW-GRPO] [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) [[Model 🤗](https://huggingface.co/Falconss1/TW-GRPO)] [[Code 💻](https://github.com/longmalongma/TW-GRPO)]
+
 * [2505] [VerIPO] [VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization](https://arxiv.org/abs/2505.19000) [[Model 🤗](https://huggingface.co/Uni-MoE/VerIPO-7B-v1.0)] [[Code 💻](https://github.com/HITsz-TMG/VerIPO)]
 
 * [2505] [SpaceR] [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805v2) [[Model 🤗](https://huggingface.co/RUBBISHLIKE/SpaceR)] [[Dataset 🤗](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k)] [[Code 💻](https://github.com/OuyangKun10/SpaceR)]
