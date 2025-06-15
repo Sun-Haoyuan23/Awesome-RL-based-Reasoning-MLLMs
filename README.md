@@ -36,6 +36,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2505] [MM-UPT] [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453) [[Model 🤗](https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1)]  [[Dataset 🤗](https://huggingface.co/datasets/WaltonFuture/MMR1-direct-synthesizing)]  [[Code 💻](https://github.com/waltonfuture/MM-UPT)]
+
+* [2505] [RL-with-Cold-Start] [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334) [[Models 🤗](https://huggingface.co/WaltonFuture)]  [[Datasets 🤗](https://huggingface.co/WaltonFuture)]  [[Code 💻](https://github.com/waltonfuture/RL-with-Cold-Start)]
+
 * [2505] [Active-O3] [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) [[Project 🌐](https://aim-uofa.github.io/ACTIVE-o3/)] [[Model 🤗](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)]  [[Code 💻](https://github.com/aim-uofa/Active-o3)]
 
 * [2505] [RLRF (generation)] [Rendering-Aware Reinforcement Learning for Vector Graphics Generation](https://arxiv.org/abs/2505.20793) 
