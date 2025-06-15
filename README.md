@@ -36,9 +36,13 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2505] [PixelThink] [PixelThink: Towards Efficient Chain-of-Pixel Reasoning](https://arxiv.org/abs/2505.23727)  [[Project 🌐](https://pixelthink.github.io/)]  [[Code 💻](https://github.com/songw-zju/PixelThink)]
+
 * [2505] [MM-UPT] [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453) [[Model 🤗](https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1)]  [[Dataset 🤗](https://huggingface.co/datasets/WaltonFuture/MMR1-direct-synthesizing)]  [[Code 💻](https://github.com/waltonfuture/MM-UPT)]
 
 * [2505] [RL-with-Cold-Start] [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334) [[Models 🤗](https://huggingface.co/WaltonFuture)]  [[Datasets 🤗](https://huggingface.co/WaltonFuture)]  [[Code 💻](https://github.com/waltonfuture/RL-with-Cold-Start)]
+
+* [2505] [VRAG-RL] [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) [[Models 🤗](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)]  [[Code 💻](https://github.com/Alibaba-NLP/VRAG)]
 
 * [2505] [Active-O3] [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) [[Project 🌐](https://aim-uofa.github.io/ACTIVE-o3/)] [[Model 🤗](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)]  [[Code 💻](https://github.com/aim-uofa/Active-o3)]
 
@@ -49,6 +53,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [SATORI-R1] [SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards](https://arxiv.org/abs/2505.19094) [[Model 🤗](https://huggingface.co/justairr/SATORI)]  [[Dataset 🤗](https://huggingface.co/datasets/justairr/VQA-Verify)]  [[Code 💻](https://github.com/justairr/SATORI-R1)]
 
 * [2505] [URSA] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/abs/2501.04686) [[Model 🤗](https://huggingface.co/URSA-MATH/URSA-8B-PS-GRPO)]  [[Datasets 🤗](https://huggingface.co/URSA-MATH)]  [[Code 💻](https://github.com/URSA-MATH)]
+
+* [2505] [GRE Suite] [GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains](https://arxiv.org/pdf/2505.18700)  [[Code 💻](https://github.com/Thorin215/GRE)]
 
 * [2505] [V-Triune] [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) [[Models 🤗](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)]  [[Dataset 🤗](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)]  [[Code 💻](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)]
 
