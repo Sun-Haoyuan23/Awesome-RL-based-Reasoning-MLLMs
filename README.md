@@ -74,7 +74,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [G1] [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/abs/2505.13426)  [[Code 💻](https://github.com/chenllliang/G1)]
 
-* [2505] [VisionReasoner] [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081) [[Model 🤗](https://huggingface.co/Ricky06662/VisionReasoner-7B)] [[Datasets 🤗](https://huggingface.co/datasets/Ricky06662/VisionReasoner_multi_object_1k_840)]  [[Code 💻](https://github.com/dvlab-research/VisionReasoner)]
+* [2505] [VisionReasoner] [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081) [[Model 🤗](https://huggingface.co/Ricky06662/VisionReasoner-7B)] [[Dataset 🤗](https://huggingface.co/datasets/Ricky06662/VisionReasoner_multi_object_1k_840)]  [[Code 💻](https://github.com/dvlab-research/VisionReasoner)]
 
 * [2505] [VPRL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/abs/2505.11409) [[Code 💻](https://github.com/yix8/VisualPlanning)]
 
