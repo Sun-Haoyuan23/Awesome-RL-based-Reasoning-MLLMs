@@ -36,6 +36,12 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2505] [Active-O3] [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) [[Project 🌐](https://aim-uofa.github.io/ACTIVE-o3/)] [[Model 🤗](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)]  [[Code 💻](https://github.com/aim-uofa/Active-o3)]
+
+* [2505] [RLRF (generation)] [Rendering-Aware Reinforcement Learning for Vector Graphics Generation](https://arxiv.org/abs/2505.20793) 
+
+* [2505] [VisTA] [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/abs/2505.20289) [[Project 🌐](https://oodbag.github.io/vista_web/)]  [[Code 💻](https://github.com/OoDBag/VisTA)]
+
 * [2505] [URSA] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/abs/2501.04686) [[Model 🤗](https://huggingface.co/URSA-MATH/URSA-8B-PS-GRPO)]  [[Datasets 🤗](https://huggingface.co/URSA-MATH)]  [[Code 💻](https://github.com/URSA-MATH)]
 
 * [2505] [V-Triune] [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) [[Models 🤗](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)]  [[Dataset 🤗](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)]  [[Code 💻](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)]
@@ -167,7 +173,9 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
-* [2505] [SpaceR] [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/pdf/2504.01805v2) [[Model 🤗](https://huggingface.co/RUBBISHLIKE/SpaceR)] [[Dataset 🤗](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k)] [[Code 💻]( https://github.com/OuyangKun10/SpaceR)]
+* [2505] [VerIPO] [VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization](https://arxiv.org/abs/2505.19000) [[Model 🤗](https://huggingface.co/Uni-MoE/VerIPO-7B-v1.0)] [[Code 💻](https://github.com/HITsz-TMG/VerIPO)]
+
+* [2505] [SpaceR] [SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://arxiv.org/abs/2504.01805v2) [[Model 🤗](https://huggingface.co/RUBBISHLIKE/SpaceR)] [[Dataset 🤗](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k)] [[Code 💻](https://github.com/OuyangKun10/SpaceR)]
 
 * [2504] [TinyLLaVA-Video-R1] [TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning](https://arxiv.org/abs/2504.09641)  [[Model 🤗](https://huggingface.co/Zhang199/TinyLLaVA-Video-R1)] [[Code 💻](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)]
 
@@ -227,6 +235,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### GUI Agent📲
 
+* [2505] [UI-Genie] [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://arxiv.org/abs/2505.21496)  [[Models 🤗](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B)]  [[Dataset 🤗](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)]  [[Code 💻](https://github.com/Euphoria16/UI-Genie)]
+
 * [2505] [ARPO] [ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay](https://www.arxiv.org/pdf/2505.16282)  [[Model 🤗](https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B)]  [[Code 💻](https://github.com/dvlab-research/ARPO)]
 
 * [2505] [GUI-G1] [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/abs/2505.15810) [[Code 💻](https://github.com/Yuqi-Zhou/GUI-G1)]
@@ -256,6 +266,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2505] [Video-Holmes] [Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?](https://arxiv.org/abs/2505.21374) [[Project 🌐](https://video-holmes.github.io/Page.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/TencentARC/Video-Holmes)] [[💻 Code](https://github.com/TencentARC/Video-Holmes)]
+
 * [2505] [MME-Reasoning] [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://arxiv.org/abs/2505.21327) [[Project 🌐](https://alpha-innovator.github.io/mmereasoning.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/U4R/MME-Reasoning)] [[💻 Code](https://github.com/Alpha-Innovator/MME-Reasoning)]
 
 * [2505] [RBench-V] [RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs](https://arxiv.org/abs/2505.16770) [[Project 🌐](https://evalmodels.github.io/rbenchv/)] [[🤗 Dataset](https://huggingface.co/datasets/R-Bench/R-Bench-V)] [[💻 Code](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V)] 
@@ -265,6 +277,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [ReasonMap] [Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps](https://arxiv.org/abs/2505.18675) [[Project 🌐](https://fscdc.github.io/Reason-Map/)] [[🤗 Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap)] [[💻 Code](https://github.com/fscdc/ReasonMap)] 
 
 * [2505] [PhyX] [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) [[Project 🌐](https://phyx-bench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/Cloudriver/PhyX)] [[💻 Code](https://github.com/NastyMarcus/PhyX)] 
+
+* [2505] [NOVA] [NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI](https://arxiv.org/abs/2505.14064) 
 
 * [2505] [GDI-Bench] [GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling](https://www.arxiv.org/abs/2505.00063)
 
