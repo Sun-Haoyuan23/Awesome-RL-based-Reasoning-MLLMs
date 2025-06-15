@@ -40,7 +40,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [MM-UPT] [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453) [[Model 🤗](https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1)]  [[Dataset 🤗](https://huggingface.co/datasets/WaltonFuture/MMR1-direct-synthesizing)]  [[Code 💻](https://github.com/waltonfuture/MM-UPT)]
 
-* [2505] [RL-with-Cold-Start] [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334) [[Models 🤗](https://huggingface.co/WaltonFuture)]  [[Datasets 🤗](https://huggingface.co/WaltonFuture)]  [[Code 💻](https://github.com/waltonfuture/RL-with-Cold-Start)]
+* [2505] [RL-with-Cold-Start] [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334) [[Models 🤗](https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RLCS)]  [[Datasets 🤗](https://huggingface.co/datasets/WaltonFuture/Multimodal-Cold-Start)]  [[Code 💻](https://github.com/waltonfuture/RL-with-Cold-Start)]
 
 * [2505] [VRAG-RL] [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) [[Models 🤗](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)]  [[Code 💻](https://github.com/Alibaba-NLP/VRAG)]
 
@@ -186,6 +186,8 @@ This repository provides valuable reference for researchers in the field of mult
 ### Vision (Video)📹 
 
 * [2505] [TW-GRPO] [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) [[Model 🤗](https://huggingface.co/Falconss1/TW-GRPO)] [[Code 💻](https://github.com/longmalongma/TW-GRPO)]
+
+* [2505] [MUSEG] [MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding](https://arxiv.org/abs/2505.20715) [[Models 🤗](https://huggingface.co/Darwin-Project)] [[Code 💻](https://github.com/THUNLP-MT/MUSEG)]
 
 * [2505] [VerIPO] [VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization](https://arxiv.org/abs/2505.19000) [[Model 🤗](https://huggingface.co/Uni-MoE/VerIPO-7B-v1.0)] [[Code 💻](https://github.com/HITsz-TMG/VerIPO)]
 
