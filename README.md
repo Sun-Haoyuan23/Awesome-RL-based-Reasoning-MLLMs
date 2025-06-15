@@ -42,6 +42,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [VisTA] [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/abs/2505.20289) [[Project 🌐](https://oodbag.github.io/vista_web/)]  [[Code 💻](https://github.com/OoDBag/VisTA)]
 
+* [2505] [SATORI-R1] [SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards](https://arxiv.org/abs/2505.19094) [[Model 🤗](https://huggingface.co/justairr/SATORI)]  [[Dataset 🤗](https://huggingface.co/datasets/justairr/VQA-Verify)]  [[Code 💻](https://github.com/justairr/SATORI-R1)]
+
 * [2505] [URSA] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/abs/2501.04686) [[Model 🤗](https://huggingface.co/URSA-MATH/URSA-8B-PS-GRPO)]  [[Datasets 🤗](https://huggingface.co/URSA-MATH)]  [[Code 💻](https://github.com/URSA-MATH)]
 
 * [2505] [V-Triune] [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) [[Models 🤗](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)]  [[Dataset 🤗](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)]  [[Code 💻](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)]
@@ -269,6 +271,10 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [Video-Holmes] [Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?](https://arxiv.org/abs/2505.21374) [[Project 🌐](https://video-holmes.github.io/Page.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/TencentARC/Video-Holmes)] [[💻 Code](https://github.com/TencentARC/Video-Holmes)]
 
 * [2505] [MME-Reasoning] [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://arxiv.org/abs/2505.21327) [[Project 🌐](https://alpha-innovator.github.io/mmereasoning.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/U4R/MME-Reasoning)] [[💻 Code](https://github.com/Alpha-Innovator/MME-Reasoning)]
+
+* [2505] [MMPerspective] [MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness](https://arxiv.org/abs/2505.20426) [[Project 🌐](https://yunlong10.github.io/MMPerspective/)] [[💻 Code](https://github.com/yunlong10/MMPerspective)]
+
+* [2505] [SeePhys] [SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning](https://arxiv.org/abs/2505.19099) [[Project 🌐](https://seephys.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/SeePhys/SeePhys)] [[💻 Code](https://github.com/SeePhys/seephys-project)] 
 
 * [2505] [RBench-V] [RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs](https://arxiv.org/abs/2505.16770) [[Project 🌐](https://evalmodels.github.io/rbenchv/)] [[🤗 Dataset](https://huggingface.co/datasets/R-Bench/R-Bench-V)] [[💻 Code](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V)] 
 
