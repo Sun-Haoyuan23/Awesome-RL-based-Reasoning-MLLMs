@@ -46,8 +46,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [VisualSphinx] [VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL](https://arxiv.org/abs/2505.23977)  [[Project 🌐](https://visualsphinx.github.io/)]  [[Model 🤗](https://huggingface.co/VisualSphinx/VisualSphinx-Difficulty-Tagging)]  [[Datasets 🤗](https://huggingface.co/collections/VisualSphinx/visualsphinx-v1-6837658bb93aa1e23aef1c3f)]  [[Code 💻](https://github.com/VisualSphinx/VisualSphinx)]
 
-* [2505] [Spatial-MLLM] [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  [[Project 🌐](https://diankun-wu.github.io/Spatial-MLLM/)]  [[Model 🤗](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)]  [[Code 💻](https://github.com/diankun-wu/Spatial-MLLM)]
-
 * [2505] [PixelThink] [PixelThink: Towards Efficient Chain-of-Pixel Reasoning](https://arxiv.org/abs/2505.23727)  [[Project 🌐](https://pixelthink.github.io/)]  [[Code 💻](https://github.com/songw-zju/PixelThink)]
 
 * [2505] [ViGoRL] [Grounded Reinforcement Learning for Visual Reasoning](https://arxiv.org/abs/2505.23678)  [[Project 🌐](https://visually-grounded-rl.github.io/)]  [[Code 💻](https://github.com/Gabesarch/grounded-rl)]
@@ -79,7 +77,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [v1] [Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/abs/2505.18842)  [[Model 🤗](https://huggingface.co/kjunh/v1-7B)]  [[Code 💻](https://github.com/jun297/v1)]
 
-* [2505] [GRE Suite] [GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains](https://arxiv.org/pdf/2505.18700)  [[Code 💻](https://github.com/Thorin215/GRE)]
+* [2505] [GRE Suite] [GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains](https://arxiv.org/abs/2505.18700)  [[Code 💻](https://github.com/Thorin215/GRE)]
 
 * [2505] [V-Triune] [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) [[Models 🤗](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)]  [[Dataset 🤗](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)]  [[Code 💻](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)]
 
@@ -87,13 +85,13 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [GoT-R1 (generation)] [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) [[Models 🤗](https://huggingface.co/gogoduan)] [[Code 💻](https://github.com/gogoduan/GoT-R1)]
 
-* [2505] [SophiaVL-R1] [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/pdf/2505.17018) [[Models 🤗](https://huggingface.co/bunny127)]  [[Datasets 🤗](https://huggingface.co/bunny127)]  [[Code 💻](https://github.com/kxfan2002/SophiaVL-R1)]
+* [2505] [SophiaVL-R1] [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/abs/2505.17018) [[Models 🤗](https://huggingface.co/bunny127)]  [[Datasets 🤗](https://huggingface.co/bunny127)]  [[Code 💻](https://github.com/kxfan2002/SophiaVL-R1)]
 
-* [2505] [R1-ShareVL] [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673) [[Code 💻](https://github.com/HJYao00/R1-ShareVL)]
+* [2505] [R1-ShareVL] [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/abs/2505.16673) [[Code 💻](https://github.com/HJYao00/R1-ShareVL)]
 
 * [2505] [VLM-R^3] [VLM-R^3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.16192) 
 
-* [2505] [TON] [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://arxiv.org/pdf/2505.16854) [[Models 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)]  [[Datasets 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)]  [[Code 💻](https://github.com/kokolerk/TON)]
+* [2505] [TON] [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://arxiv.org/abs/2505.16854) [[Models 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)]  [[Datasets 🤗](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)]  [[Code 💻](https://github.com/kokolerk/TON)]
 
 * [2505] [Pixel Reasoner] [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) [[Project 🌐](https://tiger-ai-lab.github.io/Pixel-Reasoner/)] [[Models 🤗](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)]  [[Datasets 🤗](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)] [[Demo 🤗](https://huggingface.co/spaces/TIGER-Lab/Pixel-Reasoner)] [[Code 💻](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)]
 
@@ -105,7 +103,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [Chain-of-Focus] [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/abs/2505.15436) [[Project 🌐](https://cof-reasoning.github.io/)]
 
-* [2505] [Visionary-R1] [Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](https://arxiv.org/pdf/2505.14677) [[Code 💻](https://github.com/maifoundations/Visionary-R1)]
+* [2505] [Visionary-R1] [Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.14677) [[Code 💻](https://github.com/maifoundations/Visionary-R1)]
 
 * [2505] [VisualQuality-R1] [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460) [[Models 🤗](https://huggingface.co/TianheWu/VisualQuality-R1-7B)] [[Code 💻](https://github.com/TianheWu/VisualQuality-R1)]
 
@@ -113,7 +111,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [Visual-ARFT] [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) [[Models 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)] [[Datasets 🤗](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)] [[Code 💻](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)]
 
-* [2505] [UniVG-R1] [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/pdf/2505.14231) [[Project 🌐](https://amap-ml.github.io/UniVG-R1-page/)] [[Model 🤗](https://huggingface.co/GD-ML/UniVG-R1)]  [[Dataset 🤗](https://huggingface.co/datasets/GD-ML/UniVG-R1-data)]  [[Code 💻](https://github.com/AMAP-ML/UniVG-R1)]
+* [2505] [UniVG-R1] [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) [[Project 🌐](https://amap-ml.github.io/UniVG-R1-page/)] [[Model 🤗](https://huggingface.co/GD-ML/UniVG-R1)]  [[Dataset 🤗](https://huggingface.co/datasets/GD-ML/UniVG-R1-data)]  [[Code 💻](https://github.com/AMAP-ML/UniVG-R1)]
 
 * [2505] [G1] [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/abs/2505.13426)  [[Code 💻](https://github.com/chenllliang/G1)]
 
@@ -121,7 +119,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [VPRL] [Visual Planning: Let’s Think Only with Images](https://arxiv.org/abs/2505.11409) [[Code 💻](https://github.com/yix8/VisualPlanning)]
 
-* [2505] [GuardReasoner-VL] [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/pdf/2505.11049) [[Code 💻](https://github.com/yueliu1999/GuardReasoner-VL)]
+* [2505] [GuardReasoner-VL] [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049) [[Code 💻](https://github.com/yueliu1999/GuardReasoner-VL)]
 
 * [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) [[Model 🤗](https://huggingface.co/Warrieryes/OpenThinkIMG-Chart-Qwen2-2B-VL)]  [[Datasets 🤗](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9)] [[Code 💻](https://github.com/zhaochen0110/OpenThinkIMG)]
 
@@ -212,6 +210,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [TW-GRPO] [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) [[Model 🤗](https://huggingface.co/Falconss1/TW-GRPO)] [[Code 💻](https://github.com/longmalongma/TW-GRPO)]
 
+* [2505] [Spatial-MLLM] [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  [[Project 🌐](https://diankun-wu.github.io/Spatial-MLLM/)]  [[Model 🤗](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)]  [[Code 💻](https://github.com/diankun-wu/Spatial-MLLM)]
+
 * [2505] [MUSEG] [MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding](https://arxiv.org/abs/2505.20715) [[Models 🤗](https://huggingface.co/Darwin-Project)] [[Code 💻](https://github.com/THUNLP-MT/MUSEG)]
 
 * [2505] [VerIPO] [VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization](https://arxiv.org/abs/2505.19000) [[Model 🤗](https://huggingface.co/Uni-MoE/VerIPO-7B-v1.0)] [[Code 💻](https://github.com/HITsz-TMG/VerIPO)]
@@ -236,7 +236,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [Patho-R1] [Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](https://arxiv.org/abs/2505.11404) [[Code 💻](https://github.com/Wenchuan-Zhang/Patho-R1)]
 
-* [2504] [ChestX-Reasoner] [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/pdf/2504.20930) 
+* [2504] [ChestX-Reasoner] [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/abs/2504.20930) 
 
 * [2503] [Med-R1] [Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2503.13939v3) [[Model 🤗](https://huggingface.co/yuxianglai117/Med-R1)]  [[Code 💻](https://github.com/Yuxiang-Lai117/Med-R1)]
 
@@ -258,7 +258,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Audio👂
 
-* [2504] [SARI] [SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning](https://arxiv.org/pdf/2504.15900)  
+* [2504] [SARI] [SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning](https://arxiv.org/abs/2504.15900)  
 
 * [2503] [R1-AQA] [Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering](https://arxiv.org/abs/2503.11197v2) [[Model 🤗](https://huggingface.co/mispeech/r1-aqa)]  [[Code 💻](https://github.com/xiaomi-research/r1-aqa)]
 
@@ -268,9 +268,9 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [Omni-R1 (ZJU)] [Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration](https://arxiv.org/abs/2505.20256)  [Project 🌐](https://aim-uofa.github.io/OmniR1/) [Model 🤗](https://huggingface.co/Haoz0206/Omni-R1) [Code 💻](https://github.com/aim-uofa/Omni-R1)
 
-* [2505] [Omni-R1 (MIT)] [Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](https://arxiv.org/pdf/2505.09439)  
+* [2505] [Omni-R1 (MIT)] [Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](https://arxiv.org/abs/2505.09439)  
 
-* [2505] [EchoInk-R1] [EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning](https://arxiv.org/pdf/2505.04623) [[Model 🤗](https://huggingface.co/harryhsing/EchoInk-R1-7B)] [[Dataset 🤗](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1)] [[Code 💻](https://github.com/HarryHsing/EchoInk)]
+* [2505] [EchoInk-R1] [EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.04623) [[Model 🤗](https://huggingface.co/harryhsing/EchoInk-R1-7B)] [[Dataset 🤗](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1)] [[Code 💻](https://github.com/HarryHsing/EchoInk)]
 
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)  [[Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)] [[Code 💻](https://github.com/HumanMLLM/R1-Omni)]
 
@@ -278,15 +278,15 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [UI-Genie] [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://arxiv.org/abs/2505.21496)  [[Models 🤗](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B)]  [[Dataset 🤗](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)]  [[Code 💻](https://github.com/Euphoria16/UI-Genie)]
 
-* [2505] [ARPO] [ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay](https://www.arxiv.org/pdf/2505.16282)  [[Model 🤗](https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B)]  [[Code 💻](https://github.com/dvlab-research/ARPO)]
+* [2505] [ARPO] [ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay](https://www.arxiv.org/abs/2505.16282)  [[Model 🤗](https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B)]  [[Code 💻](https://github.com/dvlab-research/ARPO)]
 
 * [2505] [GUI-G1] [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/abs/2505.15810) [[Code 💻](https://github.com/Yuqi-Zhou/GUI-G1)]
 
-* [2505] [UIShift] [UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](https://arxiv.org/pdf/2505.12493) 
+* [2505] [UIShift] [UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](https://arxiv.org/abs/2505.12493) 
 
-* [2505] [MobileIPL] [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/pdf/2505.12299) 
+* [2505] [MobileIPL] [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/abs/2505.12299) 
 
-* [2504] [InfiGUI-R1] [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://arxiv.org/pdf/2504.14239) [[Model 🤗](https://huggingface.co/Reallm-Labs/InfiGUI-R1-3B)]  [[Code 💻](https://github.com/Reallm-Labs/InfiGUI-R1)]
+* [2504] [InfiGUI-R1] [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://arxiv.org/abs/2504.14239) [[Model 🤗](https://huggingface.co/Reallm-Labs/InfiGUI-R1-3B)]  [[Code 💻](https://github.com/Reallm-Labs/InfiGUI-R1)]
 
 * [2504] [GUI-R1] [GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/abs/2504.10458) [[Model 🤗](https://huggingface.co/ritzzai/GUI-R1)]  [[Dataset 🤗](https://huggingface.co/datasets/ritzzai/GUI-R1)]  [[Code 💻](https://github.com/ritzz-ai/GUI-R1)]
 
