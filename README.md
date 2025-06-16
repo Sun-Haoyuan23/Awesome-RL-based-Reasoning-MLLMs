@@ -212,6 +212,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [Spatial-MLLM] [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  [[Project 🌐](https://diankun-wu.github.io/Spatial-MLLM/)]  [[Model 🤗](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)]  [[Code 💻](https://github.com/diankun-wu/Spatial-MLLM)]
 
+* [2505] [VAU-R1] [VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.23504)  [[Project 🌐](https://q1xiangchen.github.io/VAU-R1/)]  [[Dataset 🤗](https://huggingface.co/datasets/7xiang/VAU-Bench)]  [[Code 💻](https://github.com/GVCLab/VAU-R1)]
+
 * [2505] [MUSEG] [MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding](https://arxiv.org/abs/2505.20715) [[Models 🤗](https://huggingface.co/Darwin-Project)] [[Code 💻](https://github.com/THUNLP-MT/MUSEG)]
 
 * [2505] [VerIPO] [VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization](https://arxiv.org/abs/2505.19000) [[Model 🤗](https://huggingface.co/Uni-MoE/VerIPO-7B-v1.0)] [[Code 💻](https://github.com/HITsz-TMG/VerIPO)]
