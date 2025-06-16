@@ -36,15 +36,24 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2506] [SRPO] [SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](https://arxiv.org/abs/2506.01713)  [[Project 🌐](https://srpo.pages.dev/)]  [[Dataset 🤗](https://huggingface.co/datasets/SRPOMLLMs/srpo-sft-data)]  [[Code 💻](https://github.com/SUSTechBruce/SRPO_MLLMs)]
+
+* [2505] [ReasonGen-R1 (generation)] [ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL](https://arxiv.org/abs/2505.24875)  [[Project 🌐](https://reasongen-r1.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)]  [[Datasets 🤗](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)]  [[Code 💻](https://github.com/Franklin-Zhang0/ReasonGen-R1)]
+
 * [2505] [MoDoMoDo] [MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning](https://arxiv.org/abs/2505.24871) [[Project 🌐](https://modomodo-rl.github.io/)] [[Datasets 🤗](https://huggingface.co/yiqingliang)]  [[Code 💻](https://github.com/lynl7130/MoDoMoDo)]
 
 * [2505] [DINO-R1] [DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models](https://arxiv.org/abs/2505.24025)  [[Project 🌐](https://christinepan881.github.io/DINO-R1/)]  
+
+* [2505] [VisualSphinx] [VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL](https://arxiv.org/abs/2505.23977)  [[Project 🌐](https://visualsphinx.github.io/)]  [[Model 🤗](https://huggingface.co/VisualSphinx/VisualSphinx-Difficulty-Tagging)]  [[Datasets 🤗](https://huggingface.co/collections/VisualSphinx/visualsphinx-v1-6837658bb93aa1e23aef1c3f)]  [[Code 💻](https://github.com/VisualSphinx/VisualSphinx)]
 
 * [2505] [Spatial-MLLM] [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  [[Project 🌐](https://diankun-wu.github.io/Spatial-MLLM/)]  [[Model 🤗](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)]  [[Code 💻](https://github.com/diankun-wu/Spatial-MLLM)]
 
 * [2505] [PixelThink] [PixelThink: Towards Efficient Chain-of-Pixel Reasoning](https://arxiv.org/abs/2505.23727)  [[Project 🌐](https://pixelthink.github.io/)]  [[Code 💻](https://github.com/songw-zju/PixelThink)]
 
 * [2505] [ViGoRL] [Grounded Reinforcement Learning for Visual Reasoning](https://arxiv.org/abs/2505.23678)  [[Project 🌐](https://visually-grounded-rl.github.io/)]  [[Code 💻](https://github.com/Gabesarch/grounded-rl)]
+
+* [2505] [Jigsaw-R1] [Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles](https://arxiv.org/abs/2505.23590) [[Datasets 🤗](https://huggingface.co/jigsaw-r1)]   [[Code 💻](https://github.com/zifuwanggg/Jigsaw-R1)]
+
 
 * [2505] [UniRL] [UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.23380) [[Model 🤗](https://huggingface.co/benzweijia/UniRL)]   [[Code 💻](https://github.com/showlab/UniRL)]
 
