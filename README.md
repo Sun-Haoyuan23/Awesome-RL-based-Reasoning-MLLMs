@@ -42,6 +42,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [ViGoRL] [Grounded Reinforcement Learning for Visual Reasoning](https://arxiv.org/abs/2505.23678)  [[Project 🌐](https://visually-grounded-rl.github.io/)]  [[Code 💻](https://github.com/Gabesarch/grounded-rl)]
 
+* [2505] [UniRL] [UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.23380) [[Model 🤗](https://huggingface.co/benzweijia/UniRL)]   [[Code 💻](https://github.com/showlab/UniRL)]
+
+* [2505] [cadrille (generation)] [cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](https://arxiv.org/abs/2505.22914) 
+
 * [2505] [MM-UPT] [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453) [[Model 🤗](https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1)]  [[Dataset 🤗](https://huggingface.co/datasets/WaltonFuture/MMR1-direct-synthesizing)]  [[Code 💻](https://github.com/waltonfuture/MM-UPT)]
 
 * [2505] [RL-with-Cold-Start] [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334) [[Models 🤗](https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RLCS)]  [[Datasets 🤗](https://huggingface.co/datasets/WaltonFuture/Multimodal-Cold-Start)]  [[Code 💻](https://github.com/waltonfuture/RL-with-Cold-Start)]
@@ -295,6 +299,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [MMPerspective] [MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness](https://arxiv.org/abs/2505.20426) [[Project 🌐](https://yunlong10.github.io/MMPerspective/)] [[💻 Code](https://github.com/yunlong10/MMPerspective)]
 
 * [2505] [SeePhys] [SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning](https://arxiv.org/abs/2505.19099) [[Project 🌐](https://seephys.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/SeePhys/SeePhys)] [[💻 Code](https://github.com/SeePhys/seephys-project)] 
+
+* [2505] [CXReasonBench] [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://arxiv.org/abs/2505.18087)  [[💻 Code](https://github.com/ttumyche/CXReasonBench)] 
 
 * [2505] [RBench-V] [RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs](https://arxiv.org/abs/2505.16770) [[Project 🌐](https://evalmodels.github.io/rbenchv/)] [[🤗 Dataset](https://huggingface.co/datasets/R-Bench/R-Bench-V)] [[💻 Code](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V)] 
 
