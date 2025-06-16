@@ -52,7 +52,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [Jigsaw-R1] [Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles](https://arxiv.org/abs/2505.23590) [[Datasets 🤗](https://huggingface.co/jigsaw-r1)]   [[Code 💻](https://github.com/zifuwanggg/Jigsaw-R1)]
 
-
 * [2505] [UniRL] [UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.23380) [[Model 🤗](https://huggingface.co/benzweijia/UniRL)]   [[Code 💻](https://github.com/showlab/UniRL)]
 
 * [2505] [cadrille (generation)] [cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](https://arxiv.org/abs/2505.22914) 
@@ -308,6 +307,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2506] [VS-Bench] [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments](https://arxiv.org/abs/2506.02387) [[Project 🌐](https://vs-bench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/zelaix/VS-Bench)] [[💻 Code](https://github.com/zelaix/VS-Bench)]
 
 * [2505] [Open CaptchaWorld] [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://arxiv.org/abs/2505.24878)  [[🤗 Dataset](https://huggingface.co/datasets/YaxinLuo/Open_CaptchaWorld)] [[💻 Code](https://github.com/MetaAgentX/OpenCaptchaWorld)]
 
