@@ -36,6 +36,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2505] [MoDoMoDo] [MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning](https://arxiv.org/abs/2505.24871) [[Project 🌐](https://modomodo-rl.github.io/)] [[Datasets 🤗](https://huggingface.co/yiqingliang)]  [[Code 💻](https://github.com/lynl7130/MoDoMoDo)]
+
+* [2505] [DINO-R1] [DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models](https://arxiv.org/abs/2505.24025)  [[Project 🌐](https://christinepan881.github.io/DINO-R1/)]  
+
 * [2505] [Spatial-MLLM] [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  [[Project 🌐](https://diankun-wu.github.io/Spatial-MLLM/)]  [[Model 🤗](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)]  [[Code 💻](https://github.com/diankun-wu/Spatial-MLLM)]
 
 * [2505] [PixelThink] [PixelThink: Towards Efficient Chain-of-Pixel Reasoning](https://arxiv.org/abs/2505.23727)  [[Project 🌐](https://pixelthink.github.io/)]  [[Code 💻](https://github.com/songw-zju/PixelThink)]
@@ -61,6 +65,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [SATORI-R1] [SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards](https://arxiv.org/abs/2505.19094) [[Model 🤗](https://huggingface.co/justairr/SATORI)]  [[Dataset 🤗](https://huggingface.co/datasets/justairr/VQA-Verify)]  [[Code 💻](https://github.com/justairr/SATORI-R1)]
 
 * [2505] [URSA] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/abs/2501.04686) [[Model 🤗](https://huggingface.co/URSA-MATH/URSA-8B-PS-GRPO)]  [[Datasets 🤗](https://huggingface.co/URSA-MATH)]  [[Code 💻](https://github.com/URSA-MATH)]
+
+* [2505] [v1] [Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/abs/2505.18842)  [[Model 🤗](https://huggingface.co/kjunh/v1-7B)]  [[Code 💻](https://github.com/jun297/v1)]
 
 * [2505] [GRE Suite] [GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains](https://arxiv.org/pdf/2505.18700)  [[Code 💻](https://github.com/Thorin215/GRE)]
 
@@ -289,6 +295,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2505] [Open CaptchaWorld] [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://arxiv.org/abs/2505.24878)  [[🤗 Dataset](https://huggingface.co/datasets/YaxinLuo/Open_CaptchaWorld)] [[💻 Code](https://github.com/MetaAgentX/OpenCaptchaWorld)]
 
 * [2505] [VideoReasonBench] [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/abs/2505.23359) [[Project 🌐](https://llyx97.github.io/video_reason_bench/)] [[🤗 Dataset](https://huggingface.co/datasets/lyx97/reasoning_videos)] [[💻 Code](https://github.com/llyx97/video_reason_bench)]
 
