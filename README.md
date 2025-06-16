@@ -56,6 +56,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [VRAG-RL] [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) [[Models 🤗](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)]  [[Code 💻](https://github.com/Alibaba-NLP/VRAG)]
 
+* [2505] [MLRM-Halu] [More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models](https://arxiv.org/abs/2505.21523) [[Project 🌐](https://mlrm-halu.github.io/)] [[Benchmark 🤗](https://huggingface.co/datasets/LCZZZZ/RH-Bench)]  [[Code 💻](https://github.com/MLRM-Halu/MLRM-Halu)]
+
 * [2505] [Active-O3] [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) [[Project 🌐](https://aim-uofa.github.io/ACTIVE-o3/)] [[Model 🤗](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)]  [[Code 💻](https://github.com/aim-uofa/Active-o3)]
 
 * [2505] [RLRF (generation)] [Rendering-Aware Reinforcement Learning for Vector Graphics Generation](https://arxiv.org/abs/2505.20793) 
