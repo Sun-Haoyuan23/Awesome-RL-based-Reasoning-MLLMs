@@ -34,6 +34,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [Vision-Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
 
+* [2506] [RAP] [Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning](https://arxiv.org/abs/2506.04755)  [[Code 💻](https://github.com/Leo-ssl/RAP)]
+
 * [2506] [RACRO] [Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning](https://arxiv.org/abs/2506.04559)  [[Models 🤗](https://huggingface.co/collections/KaiChen1998/racro-6848ec8c65b3a0bf33d0fbdb)] [[Demo 🤗](https://huggingface.co/spaces/Emova-ollm/RACRO-demo)] [[Code 💻](https://github.com/gyhdog99/RACRO2/)]
 
 * [2506] [Revisual-R1] [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/abs/2506.04207)  [[Models 🤗](https://huggingface.co/collections/csfufu/revisual-r1-6841b748f08ee6780720c00e)]  [[Code 💻](https://github.com/CSfufu/Revisual-R1)]
@@ -245,6 +247,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Medical Vision🏥 
 
+* [2506] [Lingshu] [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044) [[Project 🌐](https://alibaba-damo-academy.github.io/lingshu/)] [[Models 🤗](https://huggingface.co/collections/lingshu-medical-mllm/lingshu-mllms-6847974ca5b5df750f017dad)]  [[Code 💻](https://github.com/alibaba-damo-academy/MedEvalKit)]
+
 * [2505] [Patho-R1] [Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](https://arxiv.org/abs/2505.11404) [[Code 💻](https://github.com/Wenchuan-Zhang/Patho-R1)]
 
 * [2504] [ChestX-Reasoner] [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/abs/2504.20930) 
@@ -323,6 +327,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2506] [MORSE-500] [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) [[Project 🌐](https://morse-500.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/video-reasoning/morse-500)] [[💻 Code](https://github.com/morse-benchmark/morse-500)]
 
 * [2506] [VideoMathQA] [VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos](https://arxiv.org/abs/2506.05349) [[Project 🌐](https://mbzuai-oryx.github.io/VideoMathQA/)] [[🤗 Dataset](https://huggingface.co/datasets/MBZUAI/VideoMathQA)] [[💻 Code](https://github.com/mbzuai-oryx/VideoMathQA)]
 
