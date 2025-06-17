@@ -255,7 +255,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Embodied Vision🤖 
 
-* [2506] [RoboRefer] [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)  [[Dataset 🤗](https://huggingface.co/datasets/BAAI/RefSpatial-Bench)]  [[Code 💻](https://github.com/Zhoues/RoboRefer)]
+* [2506] [RoboRefer] [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) [[Project 🌐](https://zhoues.github.io/RoboRefer/)] [[Dataset 🤗](https://huggingface.co/datasets/BAAI/RefSpatial-Bench)]  [[Code 💻](https://github.com/Zhoues/RoboRefer)]
 
 * [2506] [Robot-R1] [Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070) 
 
