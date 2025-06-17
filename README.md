@@ -32,7 +32,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
-* [2506] [Vision-Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
+* [2506] [Vision Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/Yuting6/Vision-Matters-7B)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
 
 * [2506] [ViGaL] [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011)  [[Project 🌐](https://yunfeixie233.github.io/ViGaL/)]  [[Model 🤗](https://huggingface.co/yunfeixie/ViGaL-7B)] [[Code 💻](https://github.com/yunfeixie233/ViGaL)]
 
@@ -298,6 +298,10 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)  [[Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)] [[Code 💻](https://github.com/HumanMLLM/R1-Omni)]
 
 ### GUI Agent📲
+
+* [2506] [ComfyUI-R1] [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) [[Project 🌐](https://github.com/AIDC-AI/ComfyUI-Copilot)]
+
+* [2506] [GUI-Critic-R1] [Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation](https://arxiv.org/abs/2506.04614)  [[Code 💻](https://github.com/X-PLUG/MobileAgent/tree/main/GUI-Critic-R1)]
 
 * [2505] [UI-Genie] [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://arxiv.org/abs/2505.21496)  [[Models 🤗](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B)]  [[Dataset 🤗](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)]  [[Code 💻](https://github.com/Euphoria16/UI-Genie)]
 
