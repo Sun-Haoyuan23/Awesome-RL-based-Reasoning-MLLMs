@@ -34,6 +34,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [Vision-Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
 
+* [2506] [ViGaL] [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011)  [[Project 🌐](https://yunfeixie233.github.io/ViGaL/)]  [[Model 🤗](https://huggingface.co/yunfeixie/ViGaL-7B)] [[Code 💻](https://github.com/yunfeixie233/ViGaL)]
+
 * [2506] [RAP] [Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning](https://arxiv.org/abs/2506.04755)  [[Code 💻](https://github.com/Leo-ssl/RAP)]
 
 * [2506] [RACRO] [Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning](https://arxiv.org/abs/2506.04559)  [[Models 🤗](https://huggingface.co/collections/KaiChen1998/racro-6848ec8c65b3a0bf33d0fbdb)] [[Demo 🤗](https://huggingface.co/spaces/Emova-ollm/RACRO-demo)] [[Code 💻](https://github.com/gyhdog99/RACRO2/)]
