@@ -34,6 +34,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [Vision-Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
 
+* [2506] [Revisual-R1] [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/abs/2506.04207)  [[Models 🤗](https://huggingface.co/collections/csfufu/revisual-r1-6841b748f08ee6780720c00e)]  [[Code 💻](https://github.com/CSfufu/Revisual-R1)]
+
+* [2506] [Rex-Thinker] [Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning](https://arxiv.org/abs/2506.04034)  [[Project 🌐](https://rexthinker.github.io/)]  [[Model 🤗](https://huggingface.co/IDEA-Research/Rex-Thinker-GRPO-7B)]  [[Dataset 🤗](https://huggingface.co/datasets/IDEA-Research/HumanRef-CoT-45k)]  [[Demo 🤗](https://huggingface.co/spaces/Mountchicken/Rex-Thinker-Demo)]  [[Code 💻](https://github.com/IDEA-Research/Rex-Thinker)]
+
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
 * [2506] [SynthRL] [SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis](https://arxiv.org/abs/2506.02096)  [[Model 🤗](https://huggingface.co/Jakumetsu/SynthRL-A-MMK12-8K-7B)]  [[Datasets 🤗](https://huggingface.co/collections/Jakumetsu/synthrl-6839d265136fa9ca717105c5)]  [[Code 💻](https://github.com/NUS-TRAIL/SynthRL)]
@@ -313,6 +317,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2506] [MMR-V] [MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos](https://arxiv.org/abs/2506.04141) [[Project 🌐](https://mmr-v.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/JokerJan/MMR-VBench)] [[💻 Code](https://github.com/GaryStack/MMR-V)]
 
 * [2506] [OmniSpatial] [OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](https://arxiv.org/abs/2506.03135) [[Project 🌐](https://qizekun.github.io/omnispatial/)] [[🤗 Dataset](https://huggingface.co/datasets/qizekun/OmniSpatial)] [[💻 Code](https://github.com/qizekun/OmniSpatial)]
 
