@@ -36,6 +36,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2506] [SynthRL] [SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis](https://arxiv.org/abs/2506.02096)  [[Model 🤗](https://huggingface.co/Jakumetsu/SynthRL-A-MMK12-8K-7B)]  [[Datasets 🤗](https://huggingface.co/collections/Jakumetsu/synthrl-6839d265136fa9ca717105c5)]  [[Code 💻](https://github.com/NUS-TRAIL/SynthRL)]
+
 * [2506] [SRPO] [SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](https://arxiv.org/abs/2506.01713)  [[Project 🌐](https://srpo.pages.dev/)]  [[Dataset 🤗](https://huggingface.co/datasets/SRPOMLLMs/srpo-sft-data)]  [[Code 💻](https://github.com/SUSTechBruce/SRPO_MLLMs)]
 
 * [2505] [ReasonGen-R1 (generation)] [ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL](https://arxiv.org/abs/2505.24875)  [[Project 🌐](https://reasongen-r1.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)]  [[Datasets 🤗](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)]  [[Code 💻](https://github.com/Franklin-Zhang0/ReasonGen-R1)]
@@ -207,6 +209,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2506] [ReFoCUS] [ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding](https://arxiv.org/abs/2506.01274) 
+
 * [2505] [TW-GRPO] [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) [[Model 🤗](https://huggingface.co/Falconss1/TW-GRPO)] [[Code 💻](https://github.com/longmalongma/TW-GRPO)]
 
 * [2505] [Spatial-MLLM] [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/abs/2505.23747)  [[Project 🌐](https://diankun-wu.github.io/Spatial-MLLM/)]  [[Model 🤗](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)]  [[Code 💻](https://github.com/diankun-wu/Spatial-MLLM)]
@@ -244,6 +248,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/abs/2502.19634) [[Model 🤗](https://huggingface.co/JZPeterPan/MedVLM-R1)]
 
 ### Embodied Vision🤖 
+
+* [2506] [Robot-R1] [Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070) 
 
 * [2504] [Embodied-R] [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) [[Code 💻](https://github.com/EmbodiedCity/Embodied-R.code)]
 
@@ -308,9 +314,15 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2506] [OmniSpatial] [OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](https://arxiv.org/abs/2506.03135) [[Project 🌐](https://qizekun.github.io/omnispatial/)] [[🤗 Dataset](https://huggingface.co/datasets/qizekun/OmniSpatial)] [[💻 Code](https://github.com/qizekun/OmniSpatial)]
+
 * [2506] [VS-Bench] [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments](https://arxiv.org/abs/2506.02387) [[Project 🌐](https://vs-bench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/zelaix/VS-Bench)] [[💻 Code](https://github.com/zelaix/VS-Bench)]
 
 * [2505] [Open CaptchaWorld] [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://arxiv.org/abs/2505.24878)  [[🤗 Dataset](https://huggingface.co/datasets/YaxinLuo/Open_CaptchaWorld)] [[💻 Code](https://github.com/MetaAgentX/OpenCaptchaWorld)]
+
+* [2505] [FinMME] [FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation](https://arxiv.org/abs/2505.24714)  [[🤗 Dataset](https://huggingface.co/datasets/luojunyu/FinMME)] [[💻 Code](https://github.com/luo-junyu/FinMME)]
+
+* [2505] [CSVQA] [CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning Capabilities of VLMs](https://arxiv.org/abs/2505.24120)  [[🤗 Dataset](https://huggingface.co/datasets/Skywork/CSVQA)] [[💻 Code](https://github.com/SkyworkAI/CSVQA)]
 
 * [2505] [VideoReasonBench] [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/abs/2505.23359) [[Project 🌐](https://llyx97.github.io/video_reason_bench/)] [[🤗 Dataset](https://huggingface.co/datasets/lyx97/reasoning_videos)] [[💻 Code](https://github.com/llyx97/video_reason_bench)]
 
