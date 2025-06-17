@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2506] [ViCrit] [ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs](https://arxiv.org/abs/2506.10128) [[Models 🤗](https://huggingface.co/collections/russwang/vicrit-68489e13f223c00a6b6d5732)]  [[Datasets 🤗](https://huggingface.co/collections/russwang/vicrit-68489e13f223c00a6b6d5732)]  [[Code 💻](https://github.com/si0wang/ViCrit)]
+
 * [2506] [Vision Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/Yuting6/Vision-Matters-7B)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
 
 * [2506] [ViGaL] [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011)  [[Project 🌐](https://yunfeixie233.github.io/ViGaL/)]  [[Model 🤗](https://huggingface.co/yunfeixie/ViGaL-7B)] [[Code 💻](https://github.com/yunfeixie233/ViGaL)]
@@ -219,6 +221,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2506] [DeepVideo-R1] [DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/abs/2506.07464)  [[Code 💻](https://github.com/mlvlab/DeepVideoR1)]
+
 * [2506] [ReFoCUS] [ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding](https://arxiv.org/abs/2506.01274) 
 
 * [2505] [TW-GRPO] [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) [[Model 🤗](https://huggingface.co/Falconss1/TW-GRPO)] [[Code 💻](https://github.com/longmalongma/TW-GRPO)]
@@ -248,6 +252,10 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [TimeZero] [TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM](https://arxiv.org/abs/2503.13377) [[Model 🤗](https://huggingface.co/wwwyyy/TimeZero-Charades-7B)] [[Code 💻](https://github.com/www-Ye/TimeZero)]
 
 ### Medical Vision🏥 
+
+* [2506] [ReasonMed] [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning](https://arxiv.org/abs/2506.09513) [[Model 🤗](https://huggingface.co/YuSun-AI/ReasonMed)] [[Dataset 🤗](https://huggingface.co/datasets/lingshu-medical-mllm/ReasonMed)] [[Code 💻](https://github.com/YuSun-Work/ReasonMed)]
+
+* [2506] [Med-PRM] [Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards](https://arxiv.org/abs/2506.11474) [[Project 🌐](https://med-prm.github.io/)] [[Model 🤗](https://huggingface.co/dmis-lab/llama-3.1-medprm-reward-v1.0)] [[Dataset 🤗](https://huggingface.co/datasets/dmis-lab/llama-3.1-medprm-reward-training-set)] [[Code 💻](https://github.com/eth-medical-ai-lab/Med-PRM)]
 
 * [2506] [Lingshu] [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044) [[Project 🌐](https://alibaba-damo-academy.github.io/lingshu/)] [[Models 🤗](https://huggingface.co/collections/lingshu-medical-mllm/lingshu-mllms-6847974ca5b5df750f017dad)]  [[Code 💻](https://github.com/alibaba-damo-academy/MedEvalKit)]
 
