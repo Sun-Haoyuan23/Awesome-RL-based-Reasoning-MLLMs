@@ -34,6 +34,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [Vision-Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
 
+* [2506] [RACRO] [Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning](https://arxiv.org/abs/2506.04559)  [[Models 🤗](https://huggingface.co/collections/KaiChen1998/racro-6848ec8c65b3a0bf33d0fbdb)] [[Demo 🤗](https://huggingface.co/spaces/Emova-ollm/RACRO-demo)] [[Code 💻](https://github.com/gyhdog99/RACRO2/)]
+
 * [2506] [Revisual-R1] [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/abs/2506.04207)  [[Models 🤗](https://huggingface.co/collections/csfufu/revisual-r1-6841b748f08ee6780720c00e)]  [[Code 💻](https://github.com/CSfufu/Revisual-R1)]
 
 * [2506] [Rex-Thinker] [Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning](https://arxiv.org/abs/2506.04034)  [[Project 🌐](https://rexthinker.github.io/)]  [[Model 🤗](https://huggingface.co/IDEA-Research/Rex-Thinker-GRPO-7B)]  [[Dataset 🤗](https://huggingface.co/datasets/IDEA-Research/HumanRef-CoT-45k)]  [[Demo 🤗](https://huggingface.co/spaces/Mountchicken/Rex-Thinker-Demo)]  [[Code 💻](https://github.com/IDEA-Research/Rex-Thinker)]
@@ -253,6 +255,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Embodied Vision🤖 
 
+* [2506] [RoboRefer] [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)  [[Dataset 🤗](https://huggingface.co/datasets/BAAI/RefSpatial-Bench)]  [[Code 💻](https://github.com/Zhoues/RoboRefer)]
+
 * [2506] [Robot-R1] [Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070) 
 
 * [2504] [Embodied-R] [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) [[Code 💻](https://github.com/EmbodiedCity/Embodied-R.code)]
@@ -276,6 +280,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [Audio-Reasoner] [Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models](https://arxiv.org/abs/2503.02318) [[Project 🌐](https://xzf-thu.github.io/Audio-Reasoner/)] [[Model 🤗](https://huggingface.co/zhifeixie/Audio-Reasoner)]  [[Code 💻](https://github.com/xzf-thu/Audio-Reasoner)]
 
 ### Omni☺️
+
+* [2506] [AV-Reasoner] [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](https://arxiv.org/abs/2506.05328) [[Project 🌐](https://av-reasoner.github.io/)] [[🤗 Model](https://huggingface.co/lulidong/AV-Reasoner-7B)] [[🤗 Dataset](https://huggingface.co/datasets/CG-Bench/CG-AV-Counting)] [[💻 Code](https://github.com/AV-Reasoner/AV-Reasoner)]
 
 * [2505] [Omni-R1 (ZJU)] [Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration](https://arxiv.org/abs/2505.20256)  [Project 🌐](https://aim-uofa.github.io/OmniR1/) [Model 🤗](https://huggingface.co/Haoz0206/Omni-R1) [Code 💻](https://github.com/aim-uofa/Omni-R1)
 
@@ -317,6 +323,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2506] [VideoMathQA] [VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos](https://arxiv.org/abs/2506.05349) [[Project 🌐](https://mbzuai-oryx.github.io/VideoMathQA/)] [[🤗 Dataset](https://huggingface.co/datasets/MBZUAI/VideoMathQA)] [[💻 Code](https://github.com/mbzuai-oryx/VideoMathQA)]
 
 * [2506] [MMR-V] [MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos](https://arxiv.org/abs/2506.04141) [[Project 🌐](https://mmr-v.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/JokerJan/MMR-VBench)] [[💻 Code](https://github.com/GaryStack/MMR-V)]
 
