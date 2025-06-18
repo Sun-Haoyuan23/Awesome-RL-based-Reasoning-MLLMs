@@ -342,6 +342,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2506] [VRBench] [VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos](https://arxiv.org/abs/2506.10857) [[Project 🌐](https://vrbench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/OpenGVLab/VRBench)] [[💻 Code](https://github.com/OpenGVLab/VRBench)]
+
 * [2506] [MORSE-500] [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) [[Project 🌐](https://morse-500.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/video-reasoning/morse-500)] [[💻 Code](https://github.com/morse-benchmark/morse-500)]
 
 * [2506] [VideoMathQA] [VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos](https://arxiv.org/abs/2506.05349) [[Project 🌐](https://mbzuai-oryx.github.io/VideoMathQA/)] [[🤗 Dataset](https://huggingface.co/datasets/MBZUAI/VideoMathQA)] [[💻 Code](https://github.com/mbzuai-oryx/VideoMathQA)]
