@@ -48,6 +48,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [ControlThinker (generation)] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)  [[Code 💻](https://github.com/Maplebb/ControlThinker)]
 
+* [2506] [Multimodal DeepResearcher] [Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454)  [[Project 🌐](https://rickyang1114.github.io/multimodal-deepresearcher/)]
+
 * [2506] [SynthRL] [SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis](https://arxiv.org/abs/2506.02096)  [[Model 🤗](https://huggingface.co/Jakumetsu/SynthRL-A-MMK12-8K-7B)]  [[Datasets 🤗](https://huggingface.co/collections/Jakumetsu/synthrl-6839d265136fa9ca717105c5)]  [[Code 💻](https://github.com/NUS-TRAIL/SynthRL)]
 
 * [2506] [SRPO] [SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](https://arxiv.org/abs/2506.01713)  [[Project 🌐](https://srpo.pages.dev/)]  [[Dataset 🤗](https://huggingface.co/datasets/SRPOMLLMs/srpo-sft-data)]  [[Code 💻](https://github.com/SUSTechBruce/SRPO_MLLMs)]
@@ -103,6 +105,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [GoT-R1 (generation)] [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) [[Models 🤗](https://huggingface.co/gogoduan)] [[Code 💻](https://github.com/gogoduan/GoT-R1)]
 
 * [2505] [SophiaVL-R1] [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/abs/2505.17018) [[Models 🤗](https://huggingface.co/bunny127)]  [[Datasets 🤗](https://huggingface.co/bunny127)]  [[Code 💻](https://github.com/kxfan2002/SophiaVL-R1)]
+
+* [2505] [DPO-vs-GRPO] [Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](https://arxiv.org/abs/2505.17017)  [[Code 💻](https://github.com/ZiyuGuo99/Image-Generation-CoT)]
 
 * [2505] [R1-ShareVL] [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/abs/2505.16673) [[Code 💻](https://github.com/HJYao00/R1-ShareVL)]
 
@@ -225,6 +229,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2506] [Ego-R1] [Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](https://arxiv.org/abs/2506.13654)  [[Project 🌐](https://egolife-ai.github.io/Ego-R1/)]  [[Models 🤗](https://huggingface.co/Ego-R1)]  [[Datasets 🤗](https://huggingface.co/Ego-R1)]  [[Code 💻](https://github.com/egolife-ai/Ego-R1)]
+
+* [2506] [VersaVid-R1] [VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks](https://arxiv.org/abs/2506.09079)  [[Code 💻](https://github.com/VersaVid-R1/VersaVid-R1)]
+
 * [2506] [DeepVideo-R1] [DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/abs/2506.07464)  [[Code 💻](https://github.com/mlvlab/DeepVideoR1)]
 
 * [2506] [EgoVLM] [EgoVLM: Policy Optimization for Egocentric Video Understanding](https://arxiv.org/abs/2506.03097) 
@@ -299,11 +307,13 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Audio👂
 
+* [2506] [SoundMind] [SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models](https://arxiv.org/abs/2506.12935) [[Model 🤗](https://www.dropbox.com/scl/fi/f24wyecnycfu6g6ip10ac/qwen2_5_omni_logic.zip?rlkey=xlixctyr8cbfpv85arhka0b8c&e=1&st=wd5rlh9b&dl=0)] [[Dataset 🤗](https://huggingface.co/datasets/SoundMind-RL/SoundMindDataset)] [[Code 💻](https://github.com/xid32/SoundMind)]
+
 * [2504] [SARI] [SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning](https://arxiv.org/abs/2504.15900)  
 
 * [2503] [R1-AQA] [Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering](https://arxiv.org/abs/2503.11197v2) [[Model 🤗](https://huggingface.co/mispeech/r1-aqa)]  [[Code 💻](https://github.com/xiaomi-research/r1-aqa)]
 
-* [2503] [Audio-Reasoner] [Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models](https://arxiv.org/abs/2503.02318) [[Project 🌐](https://xzf-thu.github.io/Audio-Reasoner/)] [[Model 🤗](https://huggingface.co/zhifeixie/Audio-Reasoner)]  [[Code 💻](https://github.com/xzf-thu/Audio-Reasoner)]
+* [2503] [Audio-Reasoner] [Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models](https://arxiv.org/abs/2503.02318)  [[Model 🤗](https://huggingface.co/zhifeixie/Audio-Reasoner)]  [[Code 💻](https://github.com/xid32/SoundMind)]
 
 ### Omni☺️
 
@@ -322,6 +332,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2506] [ComfyUI-R1] [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) [[Project 🌐](https://github.com/AIDC-AI/ComfyUI-Copilot)]
 
 * [2506] [GUI-Critic-R1] [Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation](https://arxiv.org/abs/2506.04614)  [[Code 💻](https://github.com/X-PLUG/MobileAgent/tree/main/GUI-Critic-R1)]
+
+* [2506] [AgentCPM-GUI] [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.01391)  [[Model 🤗](https://huggingface.co/openbmb/AgentCPM-GUI)]  [[Dataset 🤗](https://huggingface.co/datasets/openbmb/CAGUI)]  [[Code 💻](https://github.com/OpenBMB/AgentCPM-GUI)]
 
 * [2505] [UI-Genie] [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://arxiv.org/abs/2505.21496)  [[Models 🤗](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B)]  [[Dataset 🤗](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)]  [[Code 💻](https://github.com/Euphoria16/UI-Genie)]
 
