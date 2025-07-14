@@ -70,6 +70,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [cadrille (generation)] [cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](https://arxiv.org/abs/2505.22914) 
 
+* [2505] [Thinking with Generated Images] [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) [[Models 🤗](https://huggingface.co/GAIR/twgi-subgoal-anole-7b)]  [[Code 💻](https://github.com/GAIR-NLP/thinking-with-generated-images)]
+
 * [2505] [MM-UPT] [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453) [[Model 🤗](https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1)]  [[Dataset 🤗](https://huggingface.co/datasets/WaltonFuture/MMR1-direct-synthesizing)]  [[Code 💻](https://github.com/waltonfuture/MM-UPT)]
 
 * [2505] [RL-with-Cold-Start] [Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start](https://arxiv.org/abs/2505.22334) [[Models 🤗](https://huggingface.co/WaltonFuture/Qwen2.5VL-7b-RLCS)]  [[Datasets 🤗](https://huggingface.co/datasets/WaltonFuture/Multimodal-Cold-Start)]  [[Code 💻](https://github.com/waltonfuture/RL-with-Cold-Start)]
@@ -83,6 +85,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [RLRF (generation)] [Rendering-Aware Reinforcement Learning for Vector Graphics Generation](https://arxiv.org/abs/2505.20793) 
 
 * [2505] [VisTA] [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/abs/2505.20289) [[Project 🌐](https://oodbag.github.io/vista_web/)]  [[Code 💻](https://github.com/OoDBag/VisTA)]
+
+* [2505] [Point-RFT] [Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](https://arxiv.org/abs/2505.19702)
 
 * [2505] [SATORI-R1] [SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards](https://arxiv.org/abs/2505.19094) [[Model 🤗](https://huggingface.co/justairr/SATORI)]  [[Dataset 🤗](https://huggingface.co/datasets/justairr/VQA-Verify)]  [[Code 💻](https://github.com/justairr/SATORI-R1)]
 
@@ -223,6 +227,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [DeepVideo-R1] [DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/abs/2506.07464)  [[Code 💻](https://github.com/mlvlab/DeepVideoR1)]
 
+* [2506] [EgoVLM] [EgoVLM: Policy Optimization for Egocentric Video Understanding](https://arxiv.org/abs/2506.03097) 
+
 * [2506] [ReFoCUS] [ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding](https://arxiv.org/abs/2506.01274) 
 
 * [2505] [TW-GRPO] [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) [[Model 🤗](https://huggingface.co/Falconss1/TW-GRPO)] [[Code 💻](https://github.com/longmalongma/TW-GRPO)]
@@ -259,7 +265,11 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [Lingshu] [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044) [[Project 🌐](https://alibaba-damo-academy.github.io/lingshu/)] [[Models 🤗](https://huggingface.co/collections/lingshu-medical-mllm/lingshu-mllms-6847974ca5b5df750f017dad)]  [[Code 💻](https://github.com/alibaba-damo-academy/MedEvalKit)]
 
+* [2505] [MedCCO] [Improving Medical Reasoning with Curriculum-Aware Reinforcement Learning](https://arxiv.org/abs/2505.19213)  [[Code 💻](https://github.com/shaohao011/MedCCO)]
+
 * [2505] [Patho-R1] [Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](https://arxiv.org/abs/2505.11404) [[Code 💻](https://github.com/Wenchuan-Zhang/Patho-R1)]
+
+* [2505] [RCMed] [Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant](https://arxiv.org/abs/2505.03380) 
 
 * [2504] [ChestX-Reasoner] [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/abs/2504.20930) 
 
@@ -272,6 +282,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2506] [RoboRefer] [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) [[Project 🌐](https://zhoues.github.io/RoboRefer/)] [[Dataset 🤗](https://huggingface.co/datasets/BAAI/RefSpatial-Bench)]  [[Code 💻](https://github.com/Zhoues/RoboRefer)]
 
 * [2506] [Robot-R1] [Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070) 
+
+* [2505] [VLA RL Study] [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) [[Project 🌐](https://rlvla.github.io/)]  [[Models 🤗](https://huggingface.co/collections/gen-robot/rlvla-684bc48aa6cf28bac37c57a2)] [[Code 💻](https://github.com/gen-robot/RL4VLA)]
 
 * [2504] [Embodied-R] [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) [[Code 💻](https://github.com/EmbodiedCity/Embodied-R.code)]
 
@@ -347,6 +359,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2506] [MORSE-500] [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) [[Project 🌐](https://morse-500.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/video-reasoning/morse-500)] [[💻 Code](https://github.com/morse-benchmark/morse-500)]
 
 * [2506] [VideoMathQA] [VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos](https://arxiv.org/abs/2506.05349) [[Project 🌐](https://mbzuai-oryx.github.io/VideoMathQA/)] [[🤗 Dataset](https://huggingface.co/datasets/MBZUAI/VideoMathQA)] [[💻 Code](https://github.com/mbzuai-oryx/VideoMathQA)]
+
+* [2506] [MMRB] [Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](https://arxiv.org/abs/2506.04280) [[Project 🌐](https://mmrb-benchmark.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/HarrytheOrange/MMRB)] [[💻 Code](https://github.com/LesterGong/MMRB)]
 
 * [2506] [MMR-V] [MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos](https://arxiv.org/abs/2506.04141) [[Project 🌐](https://mmr-v.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/JokerJan/MMR-VBench)] [[💻 Code](https://github.com/GaryStack/MMR-V)]
 
