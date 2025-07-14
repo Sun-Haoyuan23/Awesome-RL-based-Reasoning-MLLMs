@@ -32,7 +32,13 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2506] [PeRL] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [[Code 💻](https://github.com/alchemistyzz/PeRL)]
+
+* [2506] [MM-R5] [MM-R5: MultiModal Reasoning-Enhanced ReRanker via Reinforcement Learning for Document Retrieval](https://arxiv.org/abs/2506.12364) [[Model 🤗](https://huggingface.co/i2vec/MM-R5)]  [[Code 💻](https://github.com/i2vec/MM-R5)]
+
 * [2506] [ViCrit] [ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs](https://arxiv.org/abs/2506.10128) [[Models 🤗](https://huggingface.co/collections/russwang/vicrit-68489e13f223c00a6b6d5732)]  [[Datasets 🤗](https://huggingface.co/collections/russwang/vicrit-68489e13f223c00a6b6d5732)]  [[Code 💻](https://github.com/si0wang/ViCrit)]
+
+* [2506] [ViLaSR] [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) [[Models 🤗](https://huggingface.co/collections/AntResearchNLP/vilasr-684a6ebbbbabe96eb77bbd6e)]  [[Datasets 🤗](https://huggingface.co/collections/AntResearchNLP/vilasr-684a6ebbbbabe96eb77bbd6e)]  [[Code 💻](https://github.com/AntResearchNLP/ViLaSR)]
 
 * [2506] [Vision Matters] [Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning](https://arxiv.org/abs/2506.09736) [[Model 🤗](https://huggingface.co/Yuting6/Vision-Matters-7B)]  [[Datasets 🤗](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)]  [[Code 💻](https://github.com/YutingLi0606/Vision-Matters)]
 
@@ -237,6 +243,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [EgoVLM] [EgoVLM: Policy Optimization for Egocentric Video Understanding](https://arxiv.org/abs/2506.03097) 
 
+* [2506] [ReAgent-V] [ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding](https://arxiv.org/abs/2506.01300)  [[Code 💻](https://github.com/aiming-lab/ReAgent-V)]
+
 * [2506] [ReFoCUS] [ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding](https://arxiv.org/abs/2506.01274) 
 
 * [2505] [TW-GRPO] [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) [[Model 🤗](https://huggingface.co/Falconss1/TW-GRPO)] [[Code 💻](https://github.com/longmalongma/TW-GRPO)]
@@ -266,6 +274,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [TimeZero] [TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM](https://arxiv.org/abs/2503.13377) [[Model 🤗](https://huggingface.co/wwwyyy/TimeZero-Charades-7B)] [[Code 💻](https://github.com/www-Ye/TimeZero)]
 
 ### Medical Vision🏥 
+
+* [2506] [Medical-VIE-RLVR] [Efficient Medical VIE via Reinforcement Learning](https://arxiv.org/abs/2506.13363) 
 
 * [2506] [ReasonMed] [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning](https://arxiv.org/abs/2506.09513) [[Model 🤗](https://huggingface.co/YuSun-AI/ReasonMed)] [[Dataset 🤗](https://huggingface.co/datasets/lingshu-medical-mllm/ReasonMed)] [[Code 💻](https://github.com/YuSun-Work/ReasonMed)]
 
