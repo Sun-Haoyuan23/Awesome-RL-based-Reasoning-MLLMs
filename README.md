@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2506] [MMSearch-R1] [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)  [[Code 💻](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)]
+
 * [2506] [PeRL] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [[Code 💻](https://github.com/alchemistyzz/PeRL)]
 
 * [2506] [MM-R5] [MM-R5: MultiModal Reasoning-Enhanced ReRanker via Reinforcement Learning for Document Retrieval](https://arxiv.org/abs/2506.12364) [[Model 🤗](https://huggingface.co/i2vec/MM-R5)]  [[Code 💻](https://github.com/i2vec/MM-R5)]
@@ -97,6 +99,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [VisTA] [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/abs/2505.20289) [[Project 🌐](https://oodbag.github.io/vista_web/)]  [[Code 💻](https://github.com/OoDBag/VisTA)]
 
 * [2505] [Point-RFT] [Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](https://arxiv.org/abs/2505.19702)
+
+* [2505] [VTool-R1] [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255) [[Project 🌐](https://vtool-r1.github.io/)] [[Models 🤗](https://huggingface.co/VTOOL)]  [[Code 💻](https://github.com/VTOOL-R1/vtool-r1)]
 
 * [2505] [SATORI-R1] [SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards](https://arxiv.org/abs/2505.19094) [[Model 🤗](https://huggingface.co/justairr/SATORI)]  [[Dataset 🤗](https://huggingface.co/datasets/justairr/VQA-Verify)]  [[Code 💻](https://github.com/justairr/SATORI-R1)]
 
@@ -213,6 +217,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2503] [LMM-R1] [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/abs/2503.07536) [[Code 💻](https://github.com/TideDra/lmm-r1)]
 
+* [2503] [VisRL] [VisRL: Intention-Driven Visual Perception via Reinforced Reasoning](https://arxiv.org/abs/2503.07523) [[Project 🌐](https://tsinghua88.github.io/visrl.github.io/)] [[Code 💻](https://github.com/zhangquanchen/VisRL)]
+
 * [2503] [Curr-ReFT] [Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning](https://arxiv.org/abs/2503.07065)  [[Models 🤗](https://huggingface.co/ZTE-AIM)] [[Dataset 🤗](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data)] [[Code 💻](https://github.com/ding523/Curr_REFT)]
 
 * [2503] [VisualThinker-R1-Zero] [R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132)  [[Code 💻](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
@@ -291,11 +297,15 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [MedCCO] [Improving Medical Reasoning with Curriculum-Aware Reinforcement Learning](https://arxiv.org/abs/2505.19213)  [[Code 💻](https://github.com/shaohao011/MedCCO)]
 
+* [2505] [Medical-VQA-GRPO] [Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models](https://arxiv.org/abs/2505.13973) 
+
 * [2505] [Patho-R1] [Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](https://arxiv.org/abs/2505.11404) [[Code 💻](https://github.com/Wenchuan-Zhang/Patho-R1)]
 
 * [2505] [RCMed] [Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant](https://arxiv.org/abs/2505.03380) 
 
 * [2504] [ChestX-Reasoner] [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/abs/2504.20930) 
+
+* [2504] [PathVLM-R1] [PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks](https://arxiv.org/abs/2504.09258) 
 
 * [2503] [Med-R1] [Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2503.13939v3) [[Model 🤗](https://huggingface.co/yuxianglai117/Med-R1)]  [[Code 💻](https://github.com/Yuxiang-Lai117/Med-R1)]
 
@@ -312,6 +322,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2506] [Robot-R1] [Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070) 
 
 * [2505] [VLA RL Study] [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) [[Project 🌐](https://rlvla.github.io/)]  [[Models 🤗](https://huggingface.co/collections/gen-robot/rlvla-684bc48aa6cf28bac37c57a2)] [[Code 💻](https://github.com/gen-robot/RL4VLA)]
+
+* [2505] [ManipLVM-R1] [ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models](https://arxiv.org/abs/2505.16517) 
 
 * [2504] [Embodied-R] [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/abs/2504.12680) [[Code 💻](https://github.com/EmbodiedCity/Embodied-R.code)]
 
