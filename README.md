@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2507] [GLM-4.1V-Thinking] [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006) [[Models 🤗](https://huggingface.co/collections/THUDM/glm-41v-thinking-6862bbfc44593a8601c2578d)] [[Demo 🤗](https://huggingface.co/spaces/THUDM/GLM-4.1V-9B-Thinking-API-Demo)] [[Code 💻](https://github.com/THUDM/GLM-4.1V-Thinking)]
+
 * [2506] [MiCo] [MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434) 
 
 * [2506] [Visual-Structures] [Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](https://arxiv.org/abs/2506.22146) 
@@ -326,6 +328,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2506] [Robot-R1] [Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070) 
 
 * [2505] [VLA RL Study] [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789) [[Project 🌐](https://rlvla.github.io/)]  [[Models 🤗](https://huggingface.co/collections/gen-robot/rlvla-684bc48aa6cf28bac37c57a2)] [[Code 💻](https://github.com/gen-robot/RL4VLA)]
+
+* [2505] [VLA-RL] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) [[Code 💻](https://github.com/GuanxingLu/vlarl)]
 
 * [2505] [ManipLVM-R1] [ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models](https://arxiv.org/abs/2505.16517) 
 
