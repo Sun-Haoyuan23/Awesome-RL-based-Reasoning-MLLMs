@@ -339,6 +339,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Multimodal Reward Model 💯
 
+* [2506] [Listener-Rewarded Thinking] [Listener-Rewarded Thinking in VLMs for Image Preferences](https://arxiv.org/abs/2506.22832) [[Model 🤗](https://huggingface.co/alexgambashidze/qwen2.5vl_image_preference_reasoner)] 
+
 * [2505] [Skywork-VL Reward] [Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning](https://arxiv.org/abs/2505.07263) [[Models 🤗](https://huggingface.co/Skywork/Skywork-VL-Reward-7B)] [[Code 💻](https://github.com/SkyworkAI/Skywork-R1V)]
 
 * [2505] [UnifiedReward-Think] [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.03318)  [[Project 🌐](https://codegoat24.github.io/UnifiedReward/think)] [[Models 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-models-67c3008148c3a380d15ac63a)] [[Datasets 🤗](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede)] [[Code 💻](https://github.com/CodeGoat24/UnifiedReward)]
