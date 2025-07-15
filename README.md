@@ -32,6 +32,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2507] [Skywork-R1V3] [Skywork-R1V3 Technical Report](https://arxiv.org/abs/2507.06167)  [[Model 🤗](https://huggingface.co/Skywork/Skywork-R1V3-38B)]  [[Code 💻](https://github.com/SkyworkAI/Skywork-R1V)]
+
+* [2507] [Open-Vision-Reasoner] [Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning](https://arxiv.org/abs/2507.05255) [[Project 🌐](https://weiyana.github.io/Open-Vision-Reasoner/)] [[Models 🤗](https://huggingface.co/collections/Kangheng/ovr-686646849f9b43daccbe2fe0)]  [[Code 💻](https://github.com/Open-Reasoner-Zero/Open-Vision-Reasoner)]
+
 * [2507] [GLM-4.1V-Thinking] [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006) [[Models 🤗](https://huggingface.co/collections/THUDM/glm-41v-thinking-6862bbfc44593a8601c2578d)] [[Demo 🤗](https://huggingface.co/spaces/THUDM/GLM-4.1V-9B-Thinking-API-Demo)] [[Code 💻](https://github.com/THUDM/GLM-4.1V-Thinking)]
 
 * [2506] [MiCo] [MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434) 
@@ -370,6 +374,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)  [[Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)] [[Code 💻](https://github.com/HumanMLLM/R1-Omni)]
 
 ### GUI Agent📲
+
+* [2506] [Mobile-R1] [Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards](https://arxiv.org/abs/2506.20332) [[Project 🌐](https://mobile-r1.github.io/Mobile-R1/)]  [[Dataset 🤗](https://huggingface.co/datasets/PG23/Mobile-R1)] 
 
 * [2506] [ComfyUI-R1] [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) [[Project 🌐](https://github.com/AIDC-AI/ComfyUI-Copilot)]
 
