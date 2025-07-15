@@ -60,6 +60,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [SRPO] [SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](https://arxiv.org/abs/2506.01713)  [[Project 🌐](https://srpo.pages.dev/)]  [[Dataset 🤗](https://huggingface.co/datasets/SRPOMLLMs/srpo-sft-data)]  [[Code 💻](https://github.com/SUSTechBruce/SRPO_MLLMs)]
 
+* [2506] [GThinker] [GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking](https://arxiv.org/abs/2506.01078)  [[Model 🤗](https://huggingface.co/JefferyZhan/GThinker-7B)]  [[Datasets 🤗](https://huggingface.co/collections/JefferyZhan/gthinker-683e920eff706ead8fde3fc0)]  [[Code 💻](https://github.com/jefferyZhan/GThinker)]
+
 * [2505] [ReasonGen-R1 (generation)] [ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL](https://arxiv.org/abs/2505.24875)  [[Project 🌐](https://reasongen-r1.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)]  [[Datasets 🤗](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)]  [[Code 💻](https://github.com/Franklin-Zhang0/ReasonGen-R1)]
 
 * [2505] [MoDoMoDo] [MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning](https://arxiv.org/abs/2505.24871) [[Project 🌐](https://modomodo-rl.github.io/)] [[Datasets 🤗](https://huggingface.co/yiqingliang)]  [[Code 💻](https://github.com/lynl7130/MoDoMoDo)]
@@ -107,6 +109,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [V-Triune] [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) [[Models 🤗](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)]  [[Dataset 🤗](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)]  [[Code 💻](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)]
 
 * [2505] [RePrompt (generation)] [RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2505.17540) [[Code 💻](https://github.com/microsoft/DKI_LLM/tree/main/RePrompt)]
+
+* [2505] [ULM-R1 (Unified)] [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.17534)  [[Datasets 🤗](https://huggingface.co/collections/mm-vl/corl-67e0f23d6ecbdc3a9fb747e9)]  [[Code 💻](https://github.com/mm-vl/ULM-R1)]
 
 * [2505] [GoT-R1 (generation)] [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) [[Models 🤗](https://huggingface.co/gogoduan)] [[Code 💻](https://github.com/gogoduan/GoT-R1)]
 
@@ -235,6 +239,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2506] [GRPO-CARE] [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning](https://arxiv.org/abs/2506.16141) [[Model 🤗](https://huggingface.co/TencentARC/GRPO-CARE)] [[Dataset 🤗](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)] [[Code 💻](https://github.com/TencentARC/GRPO-CARE)]
+
 * [2506] [Ego-R1] [Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](https://arxiv.org/abs/2506.13654)  [[Project 🌐](https://egolife-ai.github.io/Ego-R1/)]  [[Models 🤗](https://huggingface.co/Ego-R1)]  [[Datasets 🤗](https://huggingface.co/Ego-R1)]  [[Code 💻](https://github.com/egolife-ai/Ego-R1)]
 
 * [2506] [VersaVid-R1] [VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks](https://arxiv.org/abs/2506.09079)  [[Code 💻](https://github.com/VersaVid-R1/VersaVid-R1)]
@@ -296,6 +302,10 @@ This repository provides valuable reference for researchers in the field of mult
 * [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/abs/2502.19634) [[Model 🤗](https://huggingface.co/JZPeterPan/MedVLM-R1)]
 
 ### Embodied Vision🤖 
+
+* [2506] [VLN-R1] [VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.17221) [[Project 🌐](https://vlnr1.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/alexzyqi/VLN-Ego)]  [[Code 💻](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1)]
+
+* [2506] [VIKI-R] [VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://arxiv.org/abs/2506.09049) [[Project 🌐](https://faceong.github.io/VIKI-R/)] [[Dataset 🤗](https://huggingface.co/datasets/henggg/VIKI-R)]  [[Code 💻](https://github.com/MARS-EAI/VIKI-R)]
 
 * [2506] [RoboRefer] [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) [[Project 🌐](https://zhoues.github.io/RoboRefer/)] [[Dataset 🤗](https://huggingface.co/datasets/BAAI/RefSpatial-Bench)]  [[Code 💻](https://github.com/Zhoues/RoboRefer)]
 
