@@ -32,6 +32,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2506] [MiCo] [MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434) 
+
+* [2506] [Visual-Structures] [Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](https://arxiv.org/abs/2506.22146) 
+
 * [2506] [MMSearch-R1] [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)  [[Code 💻](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)]
 
 * [2506] [PeRL] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [[Code 💻](https://github.com/alchemistyzz/PeRL)]
@@ -389,6 +393,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Autonomous Driving🚙
 
+* [2506] [Drive-R1] [Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning](https://arxiv.org/abs/2506.18234) 
+
 * [2505] [AgentThink] [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2505.15298)
 
 ### Metaverse🌠
@@ -397,6 +403,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2506] [MMReason] [MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](https://arxiv.org/abs/2506.23563)  [[💻 Code](https://github.com/HJYao00/MMReason)]
+
+* [2506] [MindCube] [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458) [[Project 🌐](https://mind-cube.github.io/)]  [[Models 🤗](https://huggingface.co/MLL-Lab/models)]  [[🤗 Dataset](https://huggingface.co/datasets/MLL-Lab/MindCube)] [[💻 Code](https://github.com/mll-lab-nu/MindCube)]
 
 * [2506] [VRBench] [VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos](https://arxiv.org/abs/2506.10857) [[Project 🌐](https://vrbench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/OpenGVLab/VRBench)] [[💻 Code](https://github.com/OpenGVLab/VRBench)]
 
@@ -429,6 +439,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [SeePhys] [SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning](https://arxiv.org/abs/2505.19099) [[Project 🌐](https://seephys.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/SeePhys/SeePhys)] [[💻 Code](https://github.com/SeePhys/seephys-project)] 
 
 * [2505] [CXReasonBench] [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://arxiv.org/abs/2505.18087)  [[💻 Code](https://github.com/ttumyche/CXReasonBench)] 
+
+* [2505] [OCR-Reasoning] [OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning](https://arxiv.org/abs/2505.17163) [[Project 🌐](https://ocr-reasoning.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/mx262/OCR-Reasoning)] [[💻 Code](https://github.com/SCUT-DLVCLab/OCR-Reasoning)] 
 
 * [2505] [RBench-V] [RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs](https://arxiv.org/abs/2505.16770) [[Project 🌐](https://evalmodels.github.io/rbenchv/)] [[🤗 Dataset](https://huggingface.co/datasets/R-Bench/R-Bench-V)] [[💻 Code](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V)] 
 
