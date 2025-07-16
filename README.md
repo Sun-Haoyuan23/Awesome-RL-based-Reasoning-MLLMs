@@ -32,6 +32,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2507] [M2-Reasoning] [M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning](https://arxiv.org/abs/2507.08306)  [[Model 🤗](https://huggingface.co/inclusionAI/M2-Reasoning)]  [[Code 💻](https://github.com/inclusionAI/M2-Reasoning)]
+
+* [2507] [SFT-RL-SynergyDilemma] [The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs](https://arxiv.org/abs/2507.07562)   [[Models 🤗](https://huggingface.co/JierunChen)]  [[Datasets 🤗](https://huggingface.co/JierunChen)]  [[Code 💻](https://github.com/JierunChen/SFT-RL-SynergyDilemma)]
+
 * [2507] [PAPO] [PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2507.06448)  [[Project 🌐](https://mikewangwzhl.github.io/PAPO/)]  [[Models 🤗](https://huggingface.co/collections/PAPOGalaxy/papo-qwen-686d92dd3d43b1ce698f851a)]  [[Datasets 🤗](https://huggingface.co/collections/PAPOGalaxy/data-686da53d67664506f652774f)]  [[Code 💻](https://github.com/MikeWangWZHL/PAPO)]
 
 * [2507] [Skywork-R1V3] [Skywork-R1V3 Technical Report](https://arxiv.org/abs/2507.06167)  [[Model 🤗](https://huggingface.co/Skywork/Skywork-R1V3-38B)]  [[Code 💻](https://github.com/SkyworkAI/Skywork-R1V)]
@@ -266,6 +270,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2506] [GRPO-CARE] [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning](https://arxiv.org/abs/2506.16141) [[Model 🤗](https://huggingface.co/TencentARC/GRPO-CARE)] [[Dataset 🤗](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)] [[Code 💻](https://github.com/TencentARC/GRPO-CARE)]
 
 * [2506] [Ego-R1] [Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](https://arxiv.org/abs/2506.13654)  [[Project 🌐](https://egolife-ai.github.io/Ego-R1/)]  [[Models 🤗](https://huggingface.co/Ego-R1)]  [[Datasets 🤗](https://huggingface.co/Ego-R1)]  [[Code 💻](https://github.com/egolife-ai/Ego-R1)]
+
+* [2506] [Motion-R1 (Human Motion Generation)] [Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation](https://arxiv.org/abs/2506.10353)  [[Project 🌐](https://motion-r1.github.io/)]  [[Code 💻](https://github.com/GigaAI-Research/Motion-R1)]
 
 * [2506] [VersaVid-R1] [VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks](https://arxiv.org/abs/2506.09079)  [[Code 💻](https://github.com/VersaVid-R1/VersaVid-R1)]
 
