@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2507] [PAPO] [PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2507.06448)  [[Project 🌐](https://mikewangwzhl.github.io/PAPO/)]  [[Models 🤗](https://huggingface.co/collections/PAPOGalaxy/papo-qwen-686d92dd3d43b1ce698f851a)]  [[Datasets 🤗](https://huggingface.co/collections/PAPOGalaxy/data-686da53d67664506f652774f)]  [[Code 💻](https://github.com/MikeWangWZHL/PAPO)]
+
 * [2507] [Skywork-R1V3] [Skywork-R1V3 Technical Report](https://arxiv.org/abs/2507.06167)  [[Model 🤗](https://huggingface.co/Skywork/Skywork-R1V3-38B)]  [[Code 💻](https://github.com/SkyworkAI/Skywork-R1V)]
 
 * [2507] [Open-Vision-Reasoner] [Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning](https://arxiv.org/abs/2507.05255) [[Project 🌐](https://weiyana.github.io/Open-Vision-Reasoner/)] [[Models 🤗](https://huggingface.co/collections/Kangheng/ovr-686646849f9b43daccbe2fe0)]  [[Code 💻](https://github.com/Open-Reasoner-Zero/Open-Vision-Reasoner)]
@@ -41,6 +43,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2506] [MiCo] [MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434) 
 
 * [2506] [Visual-Structures] [Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](https://arxiv.org/abs/2506.22146) 
+
+* [2506] [APO] [APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization](https://arxiv.org/abs/2506.21655) [[Code 💻](https://github.com/Indolent-Kawhi/View-R1)]
 
 * [2506] [MMSearch-R1] [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)  [[Code 💻](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)]
 
@@ -91,6 +95,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [UniRL] [UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.23380) [[Model 🤗](https://huggingface.co/benzweijia/UniRL)]   [[Code 💻](https://github.com/showlab/UniRL)]
 
 * [2505] [cadrille (generation)] [cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](https://arxiv.org/abs/2505.22914) 
+
+* [2505] [SAM-R1] [SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](https://arxiv.org/abs/2505.22596) 
 
 * [2505] [Thinking with Generated Images] [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) [[Models 🤗](https://huggingface.co/GAIR/twgi-subgoal-anole-7b)]  [[Code 💻](https://github.com/GAIR-NLP/thinking-with-generated-images)]
 
@@ -255,6 +261,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2507] [LongVILA-R1] [Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)  [[Code 💻](https://github.com/NVlabs/Long-RL)]
+
 * [2506] [GRPO-CARE] [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning](https://arxiv.org/abs/2506.16141) [[Model 🤗](https://huggingface.co/TencentARC/GRPO-CARE)] [[Dataset 🤗](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)] [[Code 💻](https://github.com/TencentARC/GRPO-CARE)]
 
 * [2506] [Ego-R1] [Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](https://arxiv.org/abs/2506.13654)  [[Project 🌐](https://egolife-ai.github.io/Ego-R1/)]  [[Models 🤗](https://huggingface.co/Ego-R1)]  [[Datasets 🤗](https://huggingface.co/Ego-R1)]  [[Code 💻](https://github.com/egolife-ai/Ego-R1)]
@@ -375,6 +383,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### GUI Agent📲
 
+* [2507] [MobileGUI-RL] [MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](https://arxiv.org/abs/2507.05720) 
+
 * [2506] [Mobile-R1] [Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards](https://arxiv.org/abs/2506.20332) [[Project 🌐](https://mobile-r1.github.io/Mobile-R1/)]  [[Dataset 🤗](https://huggingface.co/datasets/PG23/Mobile-R1)] 
 
 * [2506] [ComfyUI-R1] [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) [[Project 🌐](https://github.com/AIDC-AI/ComfyUI-Copilot)]
@@ -406,6 +416,8 @@ This repository provides valuable reference for researchers in the field of mult
 ### Autonomous Driving🚙
 
 * [2506] [Drive-R1] [Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning](https://arxiv.org/abs/2506.18234) 
+
+* [2506] [AutoVLA] [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.13757) [[Project 🌐](https://autovla.github.io/)]  [[💻 Code](https://github.com/ucla-mobility/AutoVLA)]
 
 * [2505] [AgentThink] [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2505.15298)
 
