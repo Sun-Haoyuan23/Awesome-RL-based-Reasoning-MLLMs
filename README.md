@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2507] [VisionThink] [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) [[Models 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Datasets 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Code 💻](https://github.com/dvlab-research/VisionThink)]
+
 * [2507] [M2-Reasoning] [M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning](https://arxiv.org/abs/2507.08306)  [[Model 🤗](https://huggingface.co/inclusionAI/M2-Reasoning)]  [[Code 💻](https://github.com/inclusionAI/M2-Reasoning)]
 
 * [2507] [SFT-RL-SynergyDilemma] [The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs](https://arxiv.org/abs/2507.07562)   [[Models 🤗](https://huggingface.co/JierunChen)]  [[Datasets 🤗](https://huggingface.co/JierunChen)]  [[Code 💻](https://github.com/JierunChen/SFT-RL-SynergyDilemma)]
@@ -433,6 +435,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2507] [EmbRACE-3K] [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548) [[Project 🌐](https://mxllc.github.io/EmbRACE-3K/)] [[💻 Code](https://github.com/mxllc/EmbRACE-3K)]
 
 * [2506] [MMReason] [MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](https://arxiv.org/abs/2506.23563)  [[💻 Code](https://github.com/HJYao00/MMReason)]
 
