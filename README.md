@@ -100,6 +100,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [UniRL] [UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.23380) [[Model 🤗](https://huggingface.co/benzweijia/UniRL)]   [[Code 💻](https://github.com/showlab/UniRL)]
 
+* [2505] [Infi-MMR] [Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091) [[Models 🤗](https://huggingface.co/InfiX-ai/Infi-MMR-3B)] [[Code 💻](https://github.com/InfiXAI/Infi-MMR)]
+
 * [2505] [cadrille (generation)] [cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](https://arxiv.org/abs/2505.22914) 
 
 * [2505] [SAM-R1] [SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](https://arxiv.org/abs/2505.22596) 
