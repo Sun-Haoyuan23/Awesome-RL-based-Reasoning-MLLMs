@@ -32,6 +32,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2507] [X-Omni (generation)] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058) [[Project 🌐](https://x-omni-team.github.io/)] [[Models 🤗](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)] [[Dataset 🤗](https://huggingface.co/datasets/X-Omni/LongText-Bench)] [[Code 💻](https://github.com/X-Omni-Team/X-Omni)]
+
+* [2507] [Spatial-VLM-Investigator] [Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning](https://arxiv.org/abs/2507.13362)  [[Code 💻](https://github.com/Yvonne511/spatial-vlm-investigator)]
+
 * [2507] [VisionThink] [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) [[Models 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Datasets 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Code 💻](https://github.com/dvlab-research/VisionThink)]
 
 * [2507] [M2-Reasoning] [M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning](https://arxiv.org/abs/2507.08306)  [[Model 🤗](https://huggingface.co/inclusionAI/M2-Reasoning)]  [[Code 💻](https://github.com/inclusionAI/M2-Reasoning)]
@@ -315,6 +319,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Medical Vision🏥 
 
+* [2507] [SmartPath-R1] [A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](https://www.arxiv.org/abs/2507.17303) 
+
 * [2506] [Medical-VIE-RLVR] [Efficient Medical VIE via Reinforcement Learning](https://arxiv.org/abs/2506.13363) 
 
 * [2506] [ReasonMed] [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning](https://arxiv.org/abs/2506.09513) [[Model 🤗](https://huggingface.co/YuSun-AI/ReasonMed)] [[Dataset 🤗](https://huggingface.co/datasets/lingshu-medical-mllm/ReasonMed)] [[Code 💻](https://github.com/YuSun-Work/ReasonMed)]
@@ -340,6 +346,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2502] [MedVLM-R1] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/abs/2502.19634) [[Model 🤗](https://huggingface.co/JZPeterPan/MedVLM-R1)]
 
 ### Embodied Vision🤖 
+
+* [2507] [ThinkAct] [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
 
 * [2506] [VLN-R1] [VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.17221) [[Project 🌐](https://vlnr1.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/alexzyqi/VLN-Ego)]  [[Code 💻](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1)]
 
@@ -584,3 +592,4 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
