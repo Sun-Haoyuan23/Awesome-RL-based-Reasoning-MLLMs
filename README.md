@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2507] [VL-Cogito] [VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning](https://arxiv.org/abs/2507.22607) [[Model 🤗](https://huggingface.co/csyrf/VL-Cogito)] [[Dataset 🤗](https://huggingface.co/datasets/csyrf/VL-Cogito)] [[Code 💻](https://github.com/alibaba-damo-academy/VL-Cogito)]
+
 * [2507] [X-Omni (generation)] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058) [[Project 🌐](https://x-omni-team.github.io/)] [[Models 🤗](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)] [[Dataset 🤗](https://huggingface.co/datasets/X-Omni/LongText-Bench)] [[Code 💻](https://github.com/X-Omni-Team/X-Omni)]
 
 * [2507] [Spatial-VLM-Investigator] [Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning](https://arxiv.org/abs/2507.13362)  [[Code 💻](https://github.com/Yvonne511/spatial-vlm-investigator)]
@@ -433,13 +435,17 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Autonomous Driving🚙
 
+* [2507] [DriveAgent-R1] [DriveAgent-R1: Advancing VLM-based Autonomous Driving with Hybrid Thinking and Active Perception](https://arxiv.org/abs/2507.20879) 
+
 * [2506] [Drive-R1] [Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning](https://arxiv.org/abs/2506.18234) 
 
 * [2506] [AutoVLA] [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.13757) [[Project 🌐](https://autovla.github.io/)]  [[💻 Code](https://github.com/ucla-mobility/AutoVLA)]
 
 * [2505] [AgentThink] [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2505.15298)
 
-### Metaverse🌠
+### 3D & Metaverse🌠
+
+* [2507] [3D-R1] [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478) [[Project 🌐](https://aigeeksgroup.github.io/3D-R1/)] [[Models 🤗](https://huggingface.co/AIGeeksGroup/3D-R1)] [[Dataset 🤗](https://huggingface.co/datasets/AIGeeksGroup/Scene-30K)] [[Code 💻](https://github.com/AIGeeksGroup/3D-R1)]
 
 * [2503] [MetaSpatial] [MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse](https://arxiv.org/abs/2503.18470) [[Dataset 🤗](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] [[Code 💻](https://github.com/PzySeere/MetaSpatial)]
 
@@ -592,4 +598,5 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
