@@ -472,6 +472,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
+* [2507] [Video-TT] [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/abs/2507.15028) [[Project 🌐](https://zhangyuanhan-ai.github.io/video-tt/)]  [[🤗 Dataset](https://huggingface.co/datasets/lmms-lab/video-tt)] 
+
 * [2507] [EmbRACE-3K] [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548) [[Project 🌐](https://mxllc.github.io/EmbRACE-3K/)] [[💻 Code](https://github.com/mxllc/EmbRACE-3K)]
 
 * [2506] [PhysUniBench] [PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models](https://arxiv.org/abs/2506.17667) [[Project 🌐](https://prismax-team.github.io/PhysUniBenchmark/)]  [[🤗 Dataset](https://huggingface.co/datasets/PrismaX/PhysUniBench)]  [[💻 Code](https://github.com/PrismaX-Team/PhysUniBenchmark)]
@@ -620,6 +622,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
