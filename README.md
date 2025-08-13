@@ -36,6 +36,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2507] [X-Omni (generation)] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058) [[Project 🌐](https://x-omni-team.github.io/)] [[Models 🤗](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)] [[Dataset 🤗](https://huggingface.co/datasets/X-Omni/LongText-Bench)] [[Code 💻](https://github.com/X-Omni-Team/X-Omni)]
 
+* [2507] [MixGRPO (generation)] [MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE](https://arxiv.org/abs/2507.21802) [[Project 🌐](https://tulvgengenr.github.io/MixGRPO-Project-Page/)] [[Model 🤗](https://huggingface.co/tulvgengenr/MixGRPO)] [[Code 💻](https://github.com/Tencent-Hunyuan/MixGRPO)]
+
 * [2507] [Spatial-VLM-Investigator] [Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning](https://arxiv.org/abs/2507.13362)  [[Code 💻](https://github.com/Yvonne511/spatial-vlm-investigator)]
 
 * [2507] [VisionThink] [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) [[Models 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Datasets 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Code 💻](https://github.com/dvlab-research/VisionThink)]
@@ -150,7 +152,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [SophiaVL-R1] [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/abs/2505.17018) [[Models 🤗](https://huggingface.co/bunny127)]  [[Datasets 🤗](https://huggingface.co/bunny127)]  [[Code 💻](https://github.com/kxfan2002/SophiaVL-R1)]
 
-* [2505] [DPO-vs-GRPO] [Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](https://arxiv.org/abs/2505.17017)  [[Code 💻](https://github.com/ZiyuGuo99/Image-Generation-CoT)]
+* [2505] [DPO-vs-GRPO (generation)] [Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](https://arxiv.org/abs/2505.17017)  [[Code 💻](https://github.com/ZiyuGuo99/Image-Generation-CoT)]
 
 * [2505] [R1-ShareVL] [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/abs/2505.16673) [[Code 💻](https://github.com/HJYao00/R1-ShareVL)]
 
@@ -447,6 +449,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2507] [3D-R1] [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478) [[Project 🌐](https://aigeeksgroup.github.io/3D-R1/)] [[Models 🤗](https://huggingface.co/AIGeeksGroup/3D-R1)] [[Dataset 🤗](https://huggingface.co/datasets/AIGeeksGroup/Scene-30K)] [[Code 💻](https://github.com/AIGeeksGroup/3D-R1)]
 
+* [2506] [Scene-R1] [Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations](https://arxiv.org/abs/2506.17545) 
+
 * [2503] [MetaSpatial] [MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse](https://arxiv.org/abs/2503.18470) [[Dataset 🤗](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] [[Code 💻](https://github.com/PzySeere/MetaSpatial)]
 
 
@@ -598,5 +602,6 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
