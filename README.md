@@ -409,7 +409,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [AV-Reasoner] [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](https://arxiv.org/abs/2506.05328) [[Project 🌐](https://av-reasoner.github.io/)] [[🤗 Model](https://huggingface.co/lulidong/AV-Reasoner-7B)] [[🤗 Dataset](https://huggingface.co/datasets/CG-Bench/CG-AV-Counting)] [[💻 Code](https://github.com/AV-Reasoner/AV-Reasoner)]
 
-* [2505] [Omni-R1 (ZJU)] [Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration](https://arxiv.org/abs/2505.20256)  [Project 🌐](https://aim-uofa.github.io/OmniR1/) [Model 🤗](https://huggingface.co/Haoz0206/Omni-R1) [Code 💻](https://github.com/aim-uofa/Omni-R1)
+* [2505] [Omni-R1 (ZJU)] [Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration](https://arxiv.org/abs/2505.20256)  [[Project 🌐](https://aim-uofa.github.io/OmniR1/)] [[Model 🤗](https://huggingface.co/Haoz0206/Omni-R1)] [[Code 💻](https://github.com/aim-uofa/Omni-R1)] 
 
 * [2505] [Omni-R1 (MIT)] [Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](https://arxiv.org/abs/2505.09439)  
 
@@ -457,7 +457,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [Drive-R1] [Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning](https://arxiv.org/abs/2506.18234) 
 
-* [2506] [AutoVLA] [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.13757) [[Project 🌐](https://autovla.github.io/)]  [[💻 Code](https://github.com/ucla-mobility/AutoVLA)]
+* [2506] [AutoVLA] [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.13757) [[Project 🌐](https://autovla.github.io/)]  [[Code 💻](https://github.com/ucla-mobility/AutoVLA)]
 
 * [2505] [AgentThink] [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2505.15298)
 
@@ -472,65 +472,65 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks📊
 
-* [2507] [Video-TT] [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/abs/2507.15028) [[Project 🌐](https://zhangyuanhan-ai.github.io/video-tt/)]  [[🤗 Dataset](https://huggingface.co/datasets/lmms-lab/video-tt)] 
+* [2507] [Video-TT] [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/abs/2507.15028) [[Project 🌐](https://zhangyuanhan-ai.github.io/video-tt/)]  [[Dataset 🤗](https://huggingface.co/datasets/lmms-lab/video-tt)] 
 
-* [2507] [EmbRACE-3K] [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548) [[Project 🌐](https://mxllc.github.io/EmbRACE-3K/)] [[💻 Code](https://github.com/mxllc/EmbRACE-3K)]
+* [2507] [EmbRACE-3K] [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548) [[Project 🌐](https://mxllc.github.io/EmbRACE-3K/)] [[Code 💻](https://github.com/mxllc/EmbRACE-3K)]
 
-* [2506] [PhysUniBench] [PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models](https://arxiv.org/abs/2506.17667) [[Project 🌐](https://prismax-team.github.io/PhysUniBenchmark/)]  [[🤗 Dataset](https://huggingface.co/datasets/PrismaX/PhysUniBench)]  [[💻 Code](https://github.com/PrismaX-Team/PhysUniBenchmark)]
+* [2506] [PhysUniBench] [PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models](https://arxiv.org/abs/2506.17667) [[Project 🌐](https://prismax-team.github.io/PhysUniBenchmark/)]  [[Dataset 🤗](https://huggingface.co/datasets/PrismaX/PhysUniBench)]  [[Code 💻](https://github.com/PrismaX-Team/PhysUniBenchmark)]
 
-* [2506] [MMReason] [MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](https://arxiv.org/abs/2506.23563)  [[💻 Code](https://github.com/HJYao00/MMReason)]
+* [2506] [MMReason] [MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](https://arxiv.org/abs/2506.23563)  [[Code 💻](https://github.com/HJYao00/MMReason)]
 
-* [2506] [MindCube] [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458) [[Project 🌐](https://mind-cube.github.io/)]  [[Models 🤗](https://huggingface.co/MLL-Lab/models)]  [[🤗 Dataset](https://huggingface.co/datasets/MLL-Lab/MindCube)] [[💻 Code](https://github.com/mll-lab-nu/MindCube)]
+* [2506] [MindCube] [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458) [[Project 🌐](https://mind-cube.github.io/)]  [[Models 🤗](https://huggingface.co/MLL-Lab/models)]  [[Dataset 🤗](https://huggingface.co/datasets/MLL-Lab/MindCube)] [[Code 💻](https://github.com/mll-lab-nu/MindCube)]
 
-* [2506] [VRBench] [VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos](https://arxiv.org/abs/2506.10857) [[Project 🌐](https://vrbench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/OpenGVLab/VRBench)] [[💻 Code](https://github.com/OpenGVLab/VRBench)]
+* [2506] [VRBench] [VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos](https://arxiv.org/abs/2506.10857) [[Project 🌐](https://vrbench.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/OpenGVLab/VRBench)] [[Code 💻](https://github.com/OpenGVLab/VRBench)]
 
-* [2506] [MORSE-500] [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) [[Project 🌐](https://morse-500.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/video-reasoning/morse-500)] [[💻 Code](https://github.com/morse-benchmark/morse-500)]
+* [2506] [MORSE-500] [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) [[Project 🌐](https://morse-500.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/video-reasoning/morse-500)] [[Code 💻](https://github.com/morse-benchmark/morse-500)]
 
-* [2506] [VideoMathQA] [VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos](https://arxiv.org/abs/2506.05349) [[Project 🌐](https://mbzuai-oryx.github.io/VideoMathQA/)] [[🤗 Dataset](https://huggingface.co/datasets/MBZUAI/VideoMathQA)] [[💻 Code](https://github.com/mbzuai-oryx/VideoMathQA)]
+* [2506] [VideoMathQA] [VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos](https://arxiv.org/abs/2506.05349) [[Project 🌐](https://mbzuai-oryx.github.io/VideoMathQA/)] [[Dataset 🤗](https://huggingface.co/datasets/MBZUAI/VideoMathQA)] [[Code 💻](https://github.com/mbzuai-oryx/VideoMathQA)]
 
-* [2506] [MMRB] [Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](https://arxiv.org/abs/2506.04280) [[Project 🌐](https://mmrb-benchmark.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/HarrytheOrange/MMRB)] [[💻 Code](https://github.com/LesterGong/MMRB)]
+* [2506] [MMRB] [Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](https://arxiv.org/abs/2506.04280) [[Project 🌐](https://mmrb-benchmark.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/HarrytheOrange/MMRB)] [[Code 💻](https://github.com/LesterGong/MMRB)]
 
-* [2506] [MMR-V] [MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos](https://arxiv.org/abs/2506.04141) [[Project 🌐](https://mmr-v.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/JokerJan/MMR-VBench)] [[💻 Code](https://github.com/GaryStack/MMR-V)]
+* [2506] [MMR-V] [MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos](https://arxiv.org/abs/2506.04141) [[Project 🌐](https://mmr-v.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/JokerJan/MMR-VBench)] [[Code 💻](https://github.com/GaryStack/MMR-V)]
 
-* [2506] [OmniSpatial] [OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](https://arxiv.org/abs/2506.03135) [[Project 🌐](https://qizekun.github.io/omnispatial/)] [[🤗 Dataset](https://huggingface.co/datasets/qizekun/OmniSpatial)] [[💻 Code](https://github.com/qizekun/OmniSpatial)]
+* [2506] [OmniSpatial] [OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](https://arxiv.org/abs/2506.03135) [[Project 🌐](https://qizekun.github.io/omnispatial/)] [[Dataset 🤗](https://huggingface.co/datasets/qizekun/OmniSpatial)] [[Code 💻](https://github.com/qizekun/OmniSpatial)]
 
-* [2506] [VS-Bench] [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments](https://arxiv.org/abs/2506.02387) [[Project 🌐](https://vs-bench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/zelaix/VS-Bench)] [[💻 Code](https://github.com/zelaix/VS-Bench)]
+* [2506] [VS-Bench] [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments](https://arxiv.org/abs/2506.02387) [[Project 🌐](https://vs-bench.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/zelaix/VS-Bench)] [[Code 💻](https://github.com/zelaix/VS-Bench)]
 
-* [2505] [Open CaptchaWorld] [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://arxiv.org/abs/2505.24878)  [[🤗 Dataset](https://huggingface.co/datasets/YaxinLuo/Open_CaptchaWorld)] [[💻 Code](https://github.com/MetaAgentX/OpenCaptchaWorld)]
+* [2505] [Open CaptchaWorld] [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://arxiv.org/abs/2505.24878)  [[Dataset 🤗](https://huggingface.co/datasets/YaxinLuo/Open_CaptchaWorld)] [[Code 💻](https://github.com/MetaAgentX/OpenCaptchaWorld)]
 
-* [2505] [FinMME] [FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation](https://arxiv.org/abs/2505.24714)  [[🤗 Dataset](https://huggingface.co/datasets/luojunyu/FinMME)] [[💻 Code](https://github.com/luo-junyu/FinMME)]
+* [2505] [FinMME] [FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation](https://arxiv.org/abs/2505.24714)  [[Dataset 🤗](https://huggingface.co/datasets/luojunyu/FinMME)] [[Code 💻](https://github.com/luo-junyu/FinMME)]
 
-* [2505] [CSVQA] [CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning Capabilities of VLMs](https://arxiv.org/abs/2505.24120)  [[🤗 Dataset](https://huggingface.co/datasets/Skywork/CSVQA)] [[💻 Code](https://github.com/SkyworkAI/CSVQA)]
+* [2505] [CSVQA] [CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning Capabilities of VLMs](https://arxiv.org/abs/2505.24120)  [[Dataset 🤗](https://huggingface.co/datasets/Skywork/CSVQA)] [[Code 💻](https://github.com/SkyworkAI/CSVQA)]
 
-* [2505] [VideoReasonBench] [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/abs/2505.23359) [[Project 🌐](https://llyx97.github.io/video_reason_bench/)] [[🤗 Dataset](https://huggingface.co/datasets/lyx97/reasoning_videos)] [[💻 Code](https://github.com/llyx97/video_reason_bench)]
+* [2505] [VideoReasonBench] [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/abs/2505.23359) [[Project 🌐](https://llyx97.github.io/video_reason_bench/)] [[Dataset 🤗](https://huggingface.co/datasets/lyx97/reasoning_videos)] [[Code 💻](https://github.com/llyx97/video_reason_bench)]
 
-* [2505] [Video-Holmes] [Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?](https://arxiv.org/abs/2505.21374) [[Project 🌐](https://video-holmes.github.io/Page.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/TencentARC/Video-Holmes)] [[💻 Code](https://github.com/TencentARC/Video-Holmes)]
+* [2505] [Video-Holmes] [Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?](https://arxiv.org/abs/2505.21374) [[Project 🌐](https://video-holmes.github.io/Page.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/TencentARC/Video-Holmes)] [[Code 💻](https://github.com/TencentARC/Video-Holmes)]
 
-* [2505] [MME-Reasoning] [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://arxiv.org/abs/2505.21327) [[Project 🌐](https://alpha-innovator.github.io/mmereasoning.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/U4R/MME-Reasoning)] [[💻 Code](https://github.com/Alpha-Innovator/MME-Reasoning)]
+* [2505] [MME-Reasoning] [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://arxiv.org/abs/2505.21327) [[Project 🌐](https://alpha-innovator.github.io/mmereasoning.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/U4R/MME-Reasoning)] [[Code 💻](https://github.com/Alpha-Innovator/MME-Reasoning)]
 
-* [2505] [MMPerspective] [MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness](https://arxiv.org/abs/2505.20426) [[Project 🌐](https://yunlong10.github.io/MMPerspective/)] [[💻 Code](https://github.com/yunlong10/MMPerspective)]
+* [2505] [MMPerspective] [MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness](https://arxiv.org/abs/2505.20426) [[Project 🌐](https://yunlong10.github.io/MMPerspective/)] [[Code 💻](https://github.com/yunlong10/MMPerspective)]
 
-* [2505] [SeePhys] [SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning](https://arxiv.org/abs/2505.19099) [[Project 🌐](https://seephys.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/SeePhys/SeePhys)] [[💻 Code](https://github.com/SeePhys/seephys-project)] 
+* [2505] [SeePhys] [SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning](https://arxiv.org/abs/2505.19099) [[Project 🌐](https://seephys.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/SeePhys/SeePhys)] [[Code 💻](https://github.com/SeePhys/seephys-project)] 
 
-* [2505] [CXReasonBench] [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://arxiv.org/abs/2505.18087)  [[💻 Code](https://github.com/ttumyche/CXReasonBench)] 
+* [2505] [CXReasonBench] [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://arxiv.org/abs/2505.18087)  [[Code 💻](https://github.com/ttumyche/CXReasonBench)] 
 
-* [2505] [OCR-Reasoning] [OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning](https://arxiv.org/abs/2505.17163) [[Project 🌐](https://ocr-reasoning.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/mx262/OCR-Reasoning)] [[💻 Code](https://github.com/SCUT-DLVCLab/OCR-Reasoning)] 
+* [2505] [OCR-Reasoning] [OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning](https://arxiv.org/abs/2505.17163) [[Project 🌐](https://ocr-reasoning.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/mx262/OCR-Reasoning)] [[Code 💻](https://github.com/SCUT-DLVCLab/OCR-Reasoning)] 
 
-* [2505] [RBench-V] [RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs](https://arxiv.org/abs/2505.16770) [[Project 🌐](https://evalmodels.github.io/rbenchv/)] [[🤗 Dataset](https://huggingface.co/datasets/R-Bench/R-Bench-V)] [[💻 Code](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V)] 
+* [2505] [RBench-V] [RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs](https://arxiv.org/abs/2505.16770) [[Project 🌐](https://evalmodels.github.io/rbenchv/)] [[Dataset 🤗](https://huggingface.co/datasets/R-Bench/R-Bench-V)] [[Code 💻](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V)] 
 
-* [2505] [MMMR] [MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks](https://arxiv.org/abs/2505.16459) [[Project 🌐](https://mmmr-benchmark.github.io)] [[🤗 Dataset](https://huggingface.co/datasets/csegirl/MMMR)] [[💻 Code](https://github.com/CsEgir/MMMR)]
+* [2505] [MMMR] [MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks](https://arxiv.org/abs/2505.16459) [[Project 🌐](https://mmmr-benchmark.github.io)] [[Dataset 🤗](https://huggingface.co/datasets/csegirl/MMMR)] [[Code 💻](https://github.com/CsEgir/MMMR)]
 
-* [2505] [ReasonMap] [Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps](https://arxiv.org/abs/2505.18675) [[Project 🌐](https://fscdc.github.io/Reason-Map/)] [[🤗 Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap)] [[💻 Code](https://github.com/fscdc/ReasonMap)] 
+* [2505] [ReasonMap] [Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps](https://arxiv.org/abs/2505.18675) [[Project 🌐](https://fscdc.github.io/Reason-Map/)] [[Dataset 🤗](https://huggingface.co/datasets/FSCCS/ReasonMap)] [[Code 💻](https://github.com/fscdc/ReasonMap)] 
 
-* [2505] [PhyX] [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) [[Project 🌐](https://phyx-bench.github.io/)] [[🤗 Dataset](https://huggingface.co/datasets/Cloudriver/PhyX)] [[💻 Code](https://github.com/NastyMarcus/PhyX)] 
+* [2505] [PhyX] [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) [[Project 🌐](https://phyx-bench.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/Cloudriver/PhyX)] [[Code 💻](https://github.com/NastyMarcus/PhyX)] 
 
 * [2505] [NOVA] [NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI](https://arxiv.org/abs/2505.14064) 
 
 * [2505] [GDI-Bench] [GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling](https://www.arxiv.org/abs/2505.00063)
 
-* [2504] [VisuLogic] [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](http://arxiv.org/abs/2504.15279)  [[Project 🌐](https://visulogic-benchmark.github.io/VisuLogic)] [[🤗 Dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic)] [[💻 Code](https://github.com/VisuLogic-Benchmark)] 
+* [2504] [VisuLogic] [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](http://arxiv.org/abs/2504.15279)  [[Project 🌐](https://visulogic-benchmark.github.io/VisuLogic)] [[Dataset 🤗](https://huggingface.co/datasets/VisuLogic/VisuLogic)] [[Code 💻](https://github.com/VisuLogic-Benchmark)] 
 
-* [2504] [Video-MMLU] [Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark](https://arxiv.org/abs/2504.14693) [[Project 🌐](https://enxinsong.com/Video-MMLU-web/)] [[🤗 Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU)] [[💻 Code](https://github.com/Espere-1119-Song/Video-MMLU)] 
+* [2504] [Video-MMLU] [Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark](https://arxiv.org/abs/2504.14693) [[Project 🌐](https://enxinsong.com/Video-MMLU-web/)] [[Dataset 🤗](https://huggingface.co/datasets/Enxin/Video-MMLU)] [[Code 💻](https://github.com/Espere-1119-Song/Video-MMLU)] 
 
 * [2504] [GeoSense] [GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning](https://arxiv.org/abs/2504.12597)
 
@@ -622,6 +622,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
