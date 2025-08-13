@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2508] [M2IO-R1] [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328) 
+
 * [2508] [Shuffle-R1] [Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](https://arxiv.org/abs/2508.05612) [[Code 💻](https://github.com/XenoZLH/Shuffle-R1)] 
 
 * [2508] [TempFlow-GRPO (generation)] [TempFlow-GRPO: When Timing Matters for GRPO in Flow Models](https://arxiv.org/abs/2508.04324) 
@@ -357,6 +359,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Embodied Vision🤖 
 
+* [2508] [Affordance-R1] [Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model](https://arxiv.org/abs/2508.06206) [[Model 🤗](https://huggingface.co/hqking/affordance-r1)]  [[Code 💻](https://github.com/hq-King/Affordance-R1)]
+
 * [2507] [ThinkAct] [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
 
 * [2506] [VLN-R1] [VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.17221) [[Project 🌐](https://vlnr1.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/alexzyqi/VLN-Ego)]  [[Code 💻](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1)]
@@ -410,6 +414,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)  [[Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)] [[Code 💻](https://github.com/HumanMLLM/R1-Omni)]
 
 ### GUI Agent📲
+
+* [2508] [InfiGUI-G1] [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731)  [[Models 🤗](https://huggingface.co/collections/InfiX-ai/infigui-g1-6899532c9a9dd5e1aaf62a8b)]  [[Code 💻](https://github.com/InfiXAI/InfiGUI-G1)]
 
 * [2507] [MobileGUI-RL] [MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](https://arxiv.org/abs/2507.05720) 
 
@@ -610,6 +616,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
