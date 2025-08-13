@@ -32,11 +32,17 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2508] [Shuffle-R1] [Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](https://arxiv.org/abs/2508.05612) [[Code 💻](https://github.com/XenoZLH/Shuffle-R1)] 
+
+* [2508] [TempFlow-GRPO (generation)] [TempFlow-GRPO: When Timing Matters for GRPO in Flow Models](https://arxiv.org/abs/2508.04324) 
+
 * [2507] [VL-Cogito] [VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning](https://arxiv.org/abs/2507.22607) [[Model 🤗](https://huggingface.co/csyrf/VL-Cogito)] [[Dataset 🤗](https://huggingface.co/datasets/csyrf/VL-Cogito)] [[Code 💻](https://github.com/alibaba-damo-academy/VL-Cogito)]
 
 * [2507] [X-Omni (generation)] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058) [[Project 🌐](https://x-omni-team.github.io/)] [[Models 🤗](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)] [[Dataset 🤗](https://huggingface.co/datasets/X-Omni/LongText-Bench)] [[Code 💻](https://github.com/X-Omni-Team/X-Omni)]
 
 * [2507] [MixGRPO (generation)] [MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE](https://arxiv.org/abs/2507.21802) [[Project 🌐](https://tulvgengenr.github.io/MixGRPO-Project-Page/)] [[Model 🤗](https://huggingface.co/tulvgengenr/MixGRPO)] [[Code 💻](https://github.com/Tencent-Hunyuan/MixGRPO)]
+
+* [2507] [RRVF] [Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](https://arxiv.org/abs/2507.20766)  [[Model 🤗](https://huggingface.co/chenzju/rrvf_chartmimic)] [[Dataset 🤗](https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa)] [[Code 💻](https://github.com/L-O-I/RRVF)]
 
 * [2507] [Spatial-VLM-Investigator] [Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning](https://arxiv.org/abs/2507.13362)  [[Code 💻](https://github.com/Yvonne511/spatial-vlm-investigator)]
 
@@ -458,6 +464,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2507] [EmbRACE-3K] [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548) [[Project 🌐](https://mxllc.github.io/EmbRACE-3K/)] [[💻 Code](https://github.com/mxllc/EmbRACE-3K)]
 
+* [2506] [PhysUniBench] [PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models](https://arxiv.org/abs/2506.17667) [[Project 🌐](https://prismax-team.github.io/PhysUniBenchmark/)]  [[🤗 Dataset](https://huggingface.co/datasets/PrismaX/PhysUniBench)]  [[💻 Code](https://github.com/PrismaX-Team/PhysUniBenchmark)]
+
 * [2506] [MMReason] [MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](https://arxiv.org/abs/2506.23563)  [[💻 Code](https://github.com/HJYao00/MMReason)]
 
 * [2506] [MindCube] [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458) [[Project 🌐](https://mind-cube.github.io/)]  [[Models 🤗](https://huggingface.co/MLL-Lab/models)]  [[🤗 Dataset](https://huggingface.co/datasets/MLL-Lab/MindCube)] [[💻 Code](https://github.com/mll-lab-nu/MindCube)]
@@ -602,6 +610,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
