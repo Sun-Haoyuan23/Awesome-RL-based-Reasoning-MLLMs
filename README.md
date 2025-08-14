@@ -303,6 +303,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2506] [EgoVLM] [EgoVLM: Policy Optimization for Egocentric Video Understanding](https://arxiv.org/abs/2506.03097) 
 
+* [2506] [Temporal-RLT] [Reinforcement Learning Tuning for VideoLLMs: Reward Design and Data Efficiency](https://arxiv.org/abs/2506.01908) [[Models 🤗](https://huggingface.co/appletea2333)] [[Code 💻](https://github.com/appletea233/Temporal-R1)] 
+
 * [2506] [ReAgent-V] [ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding](https://arxiv.org/abs/2506.01300)  [[Code 💻](https://github.com/aiming-lab/ReAgent-V)]
 
 * [2506] [ReFoCUS] [ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding](https://arxiv.org/abs/2506.01274) 
@@ -579,8 +581,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [Open R1 Video 💻](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open R1 Video](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video) [Models 🤗](https://huggingface.co/Xiaodong/Open-R1-Video-7B)  [Datasets 🤗](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 
-* [Temporal-R1 💻](https://github.com/appletea233/Temporal-R1)  ![Temporal-R1](https://img.shields.io/github/stars/appletea233/Temporal-R1) [Code 💻](https://github.com/appletea233/Temporal-R1) [Models 🤗](https://huggingface.co/appletea2333)
-
 * [Open-LLaVA-Video-R1 💻](https://github.com/Hui-design/Open-LLaVA-Video-R1) ![Open-LLaVA-Video-R1](https://img.shields.io/github/stars/Hui-design/Open-LLaVA-Video-R1) [Code 💻](https://github.com/Hui-design/Open-LLaVA-Video-R1)
 
 ### Agent 👥
@@ -622,6 +622,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
