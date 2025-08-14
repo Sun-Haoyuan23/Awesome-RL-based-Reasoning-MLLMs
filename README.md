@@ -50,6 +50,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2507] [RRVF] [Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](https://arxiv.org/abs/2507.20766)  [[Model 🤗](https://huggingface.co/chenzju/rrvf_chartmimic)] [[Dataset 🤗](https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa)] [[Code 💻](https://github.com/L-O-I/RRVF)]
 
+* [2507] [SOPHIA] [Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning](https://arxiv.org/abs/2507.16814) 
+
 * [2507] [Spatial-VLM-Investigator] [Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning](https://arxiv.org/abs/2507.13362)  [[Code 💻](https://github.com/Yvonne511/spatial-vlm-investigator)]
 
 * [2507] [VisionThink] [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) [[Models 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Datasets 🤗](https://huggingface.co/collections/Senqiao/visionthink-6878d839fae02a079c9c7bfe)]  [[Code 💻](https://github.com/dvlab-research/VisionThink)]
@@ -399,6 +401,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Audio👂
 
+* [2507] [DMOSpeech 2] [DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis](https://arxiv.org/abs/2507.14988) [[Project 🌐](https://dmospeech2.github.io/)] [[Model 🤗](https://huggingface.co/yl4579/DMOSpeech2)] [[Demo 🤗](https://huggingface.co/spaces/yl4579/DMOSpeech2-demo)] [[Code 💻](https://github.com/yl4579/DMOSpeech2)]
+
 * [2506] [SoundMind] [SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models](https://arxiv.org/abs/2506.12935) [[Model 🤗](https://www.dropbox.com/scl/fi/f24wyecnycfu6g6ip10ac/qwen2_5_omni_logic.zip?rlkey=xlixctyr8cbfpv85arhka0b8c&e=1&st=wd5rlh9b&dl=0)] [[Dataset 🤗](https://huggingface.co/datasets/SoundMind-RL/SoundMindDataset)] [[Code 💻](https://github.com/xid32/SoundMind)]
 
 * [2504] [SARI] [SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning](https://arxiv.org/abs/2504.15900)  
@@ -622,6 +626,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
