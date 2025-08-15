@@ -34,7 +34,11 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2508] [We-Math 2.0] [We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/abs/2508.10433) [[Project 🌐](https://we-math2.github.io/)]  [[Datasets 🤗](https://huggingface.co/datasets/We-Math/We-Math2.0-Standard)] [[Code 💻](https://github.com/We-Math/We-Math2.0)] 
 
+* [2508] [Skywork UniPic 2.0] [Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model](https://github.com/SkyworkAI/UniPic/blob/main/UniPic-2/assets/pdf/UNIPIC2.pdf)  [[Project 🌐](https://unipic-v2.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Skywork/skywork-unipic2-6899b9e1b038b24674d996fd)]  [[Code 💻](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2)] 
+
 * [2508] [DocThinker] [DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding](https://arxiv.org/abs/2508.08589) [[Code 💻](https://github.com/wenwenyu/DocThinker)] 
+
+* [2508] [AR-GRPO (generation)] [AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning](https://arxiv.org/abs/2508.06924) [[Models 🤗](https://huggingface.co/collections/CSshihao/ar-grpo-689c970f4c848f01a162352a)]  [[Code 💻](https://github.com/Kwai-Klear/AR-GRPO)] 
 
 * [2508] [M2IO-R1] [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328) 
 
@@ -46,7 +50,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2508] [EARL (editing)] [The Promise of RL for Autoregressive Image Editing](https://arxiv.org/abs/2508.01119) [[Code 💻](https://github.com/mair-lab/EARL)] 
 
-* [2507] [VL-Cogito] [VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning](https://arxiv.org/abs/2507.22607) [[Model 🤗](https://huggingface.co/csyrf/VL-Cogito)] [[Dataset 🤗](https://huggingface.co/datasets/csyrf/VL-Cogito)] [[Code 💻](https://github.com/alibaba-damo-academy/VL-Cogito)]
+* [2507] [VL-Cogito] [VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning](https://arxiv.org/abs/2507.22607) [[Model 🤗](https://huggingface.co/csyrf/VL-Cogito)] [[Dataset 🤗](https://huggingface.co/datasets/csyrf/VL-Cogito)] [[Code 💻](https://github.com/alibaba-damo-academy/VL-Cogito)] 
 
 * [2507] [X-Omni (generation)] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058) [[Project 🌐](https://x-omni-team.github.io/)] [[Models 🤗](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)] [[Dataset 🤗](https://huggingface.co/datasets/X-Omni/LongText-Bench)] [[Code 💻](https://github.com/X-Omni-Team/X-Omni)] 
 
@@ -164,7 +168,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2505] [RePrompt (generation)] [RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2505.17540) [[Code 💻](https://github.com/microsoft/DKI_LLM/tree/main/RePrompt)]
 
-* [2505] [ULM-R1 (Unified)] [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.17534)  [[Datasets 🤗](https://huggingface.co/collections/mm-vl/corl-67e0f23d6ecbdc3a9fb747e9)]  [[Code 💻](https://github.com/mm-vl/ULM-R1)]
+* [2505] [ULM-R1 (unified)] [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.17534)  [[Datasets 🤗](https://huggingface.co/collections/mm-vl/corl-67e0f23d6ecbdc3a9fb747e9)]  [[Code 💻](https://github.com/mm-vl/ULM-R1)]
 
 * [2505] [GoT-R1 (generation)] [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) [[Models 🤗](https://huggingface.co/gogoduan)] [[Code 💻](https://github.com/gogoduan/GoT-R1)]
 
@@ -241,7 +245,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2504] [SoTA with Less] [SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement](https://arxiv.org/abs/2504.07934) [[Model 🤗](https://huggingface.co/russwang/ThinkLite-VL-7B)]  [[Datasets 🤗](https://huggingface.co/collections/russwang/thinklite-vl-67f88c6493f8a7601e73fe5a)]  [[Code 💻](https://github.com/si0wang/ThinkLite-VL)]
 
-* [2504] [VLM-R1] [VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/abs/2504.07615) [[Model 🤗](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)]  [[Dataset 🤗](https://huggingface.co/datasets/omlab/VLM-R1)] [[Demo 🤗](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] [[Code 💻](https://github.com/om-ai-lab/VLM-R1)]
+* [2504] [VLM-R1] [VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/abs/2504.07615) [[Model 🤗](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)]  [[Dataset 🤗](https://huggingface.co/datasets/omlab/VLM-R1)] [[Demo 🤗](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] [[Code 💻](https://github.com/om-ai-lab/VLM-R1)] 
 
 * [2504] [CrowdVLM-R1] [CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward](https://arxiv.org/abs/2504.03724) [[Dataset 🤗](https://huggingface.co/datasets/yeyimilk/CrowdVLM-R1-data)] [[Code 💻](https://github.com/yeyimilk/CrowdVLM-R1)]
 
@@ -343,13 +347,15 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Medical Vision🏥 
 
+* [2508] [MedReasoner] [MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision](https://arxiv.org/abs/2508.08177) [[Project 🌐](https://pris-cv.github.io/MedReasoner.github.io/)] 
+
 * [2507] [SmartPath-R1] [A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](https://www.arxiv.org/abs/2507.17303) 
 
 * [2506] [Medical-VIE-RLVR] [Efficient Medical VIE via Reinforcement Learning](https://arxiv.org/abs/2506.13363) 
 
 * [2506] [ReasonMed] [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning](https://arxiv.org/abs/2506.09513) [[Model 🤗](https://huggingface.co/YuSun-AI/ReasonMed)] [[Dataset 🤗](https://huggingface.co/datasets/lingshu-medical-mllm/ReasonMed)] [[Code 💻](https://github.com/YuSun-Work/ReasonMed)]
 
-* [2506] [Med-PRM] [Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards](https://arxiv.org/abs/2506.11474) [[Project 🌐](https://med-prm.github.io/)] [[Model 🤗](https://huggingface.co/dmis-lab/llama-3.1-medprm-reward-v1.0)] [[Dataset 🤗](https://huggingface.co/datasets/dmis-lab/llama-3.1-medprm-reward-training-set)] [[Code 💻](https://github.com/eth-medical-ai-lab/Med-PRM)]
+* [2506] [Med-PRM] [Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards](https://arxiv.org/abs/2506.11474) [[Project 🌐](https://med-prm.github.io/)] [[Model 🤗](https://huggingface.co/dmis-lab/llama-3.1-medprm-reward-v1.0)] [[Dataset 🤗](https://huggingface.co/datasets/dmis-lab/llama-3.1-medprm-reward-training-set)] [[Code 💻](https://github.com/eth-medical-ai-lab/Med-PRM)] 
 
 * [2506] [Lingshu] [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044) [[Project 🌐](https://alibaba-damo-academy.github.io/lingshu/)] [[Models 🤗](https://huggingface.co/collections/lingshu-medical-mllm/lingshu-mllms-6847974ca5b5df750f017dad)]  [[Code 💻](https://github.com/alibaba-damo-academy/MedEvalKit)]
 
@@ -644,6 +650,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
