@@ -431,6 +431,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### GUI Agent📲
 
+* [2508] [UI-Venus] [UI-Venus Technical Report: Building High-performance UI Agents with RFT](https://arxiv.org/abs/2508.10833)  [[Code 💻](https://github.com/antgroup/UI-Venus)] 
+
 * [2508] [GUI-RCPO] [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615) [[Project 🌐](https://zju-real.github.io/gui-rcpo/)]  [[Code 💻](https://github.com/zju-real/gui-rcpo)] 
 
 * [2508] [InfiGUI-G1] [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731)  [[Models 🤗](https://huggingface.co/collections/InfiX-ai/infigui-g1-6899532c9a9dd5e1aaf62a8b)]  [[Code 💻](https://github.com/InfiXAI/InfiGUI-G1)] 
@@ -642,6 +644,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
