@@ -42,9 +42,11 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2508] [TempFlow-GRPO (generation)] [TempFlow-GRPO: When Timing Matters for GRPO in Flow Models](https://arxiv.org/abs/2508.04324) 
 
+* [2508] [EARL (editing)] [The Promise of RL for Autoregressive Image Editing](https://arxiv.org/abs/2508.01119) [[Code 💻](https://github.com/mair-lab/EARL)] 
+
 * [2507] [VL-Cogito] [VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning](https://arxiv.org/abs/2507.22607) [[Model 🤗](https://huggingface.co/csyrf/VL-Cogito)] [[Dataset 🤗](https://huggingface.co/datasets/csyrf/VL-Cogito)] [[Code 💻](https://github.com/alibaba-damo-academy/VL-Cogito)]
 
-* [2507] [X-Omni (generation)] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058) [[Project 🌐](https://x-omni-team.github.io/)] [[Models 🤗](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)] [[Dataset 🤗](https://huggingface.co/datasets/X-Omni/LongText-Bench)] [[Code 💻](https://github.com/X-Omni-Team/X-Omni)]
+* [2507] [X-Omni (generation)] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058) [[Project 🌐](https://x-omni-team.github.io/)] [[Models 🤗](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)] [[Dataset 🤗](https://huggingface.co/datasets/X-Omni/LongText-Bench)] [[Code 💻](https://github.com/X-Omni-Team/X-Omni)] 
 
 * [2507] [MixGRPO (generation)] [MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE](https://arxiv.org/abs/2507.21802) [[Project 🌐](https://tulvgengenr.github.io/MixGRPO-Project-Page/)] [[Model 🤗](https://huggingface.co/tulvgengenr/MixGRPO)] [[Code 💻](https://github.com/Tencent-Hunyuan/MixGRPO)]
 
@@ -369,6 +371,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2508] [Affordance-R1] [Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model](https://arxiv.org/abs/2508.06206) [[Model 🤗](https://huggingface.co/hqking/affordance-r1)]  [[Code 💻](https://github.com/hq-King/Affordance-R1)]
 
+* [2508] [VL-DAC] [Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](https://arxiv.org/abs/2508.04280)  [[Code 💻](https://github.com/corl-team/VL-DAC)] 
+
 * [2507] [ThinkAct] [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
 
 * [2506] [VLN-R1] [VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.17221) [[Project 🌐](https://vlnr1.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/alexzyqi/VLN-Ego)]  [[Code 💻](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1)]
@@ -426,6 +430,8 @@ This repository provides valuable reference for researchers in the field of mult
 ### GUI Agent📲
 
 * [2508] [InfiGUI-G1] [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731)  [[Models 🤗](https://huggingface.co/collections/InfiX-ai/infigui-g1-6899532c9a9dd5e1aaf62a8b)]  [[Code 💻](https://github.com/InfiXAI/InfiGUI-G1)]
+
+* [2507] [UI-AGILE] [UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](https://arxiv.org/abs/2507.22025)  [[Models 🤗](https://huggingface.co/KDEGroup/UI-AGILE-3B)]  [[Dataset 🤗](https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data)]  [[Code 💻](https://github.com/KDEGroup/UI-AGILE)]
 
 * [2507] [MobileGUI-RL] [MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](https://arxiv.org/abs/2507.05720) 
 
@@ -626,6 +632,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
