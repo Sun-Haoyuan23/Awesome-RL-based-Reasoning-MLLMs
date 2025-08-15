@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2508] [We-Math 2.0] [We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/abs/2508.10433) [[Project 🌐](https://we-math2.github.io/)]  [[Datasets 🤗](https://huggingface.co/datasets/We-Math/We-Math2.0-Standard)] [[Code 💻](https://github.com/We-Math/We-Math2.0)] 
+
 * [2508] [DocThinker] [DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding](https://arxiv.org/abs/2508.08589) [[Code 💻](https://github.com/wenwenyu/DocThinker)] 
 
 * [2508] [M2IO-R1] [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328) 
@@ -429,7 +431,9 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### GUI Agent📲
 
-* [2508] [InfiGUI-G1] [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731)  [[Models 🤗](https://huggingface.co/collections/InfiX-ai/infigui-g1-6899532c9a9dd5e1aaf62a8b)]  [[Code 💻](https://github.com/InfiXAI/InfiGUI-G1)]
+* [2508] [GUI-RCPO] [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615) [[Project 🌐](https://zju-real.github.io/gui-rcpo/)]  [[Code 💻](https://github.com/zju-real/gui-rcpo)] 
+
+* [2508] [InfiGUI-G1] [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731)  [[Models 🤗](https://huggingface.co/collections/InfiX-ai/infigui-g1-6899532c9a9dd5e1aaf62a8b)]  [[Code 💻](https://github.com/InfiXAI/InfiGUI-G1)] 
 
 * [2507] [UI-AGILE] [UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](https://arxiv.org/abs/2507.22025)  [[Models 🤗](https://huggingface.co/KDEGroup/UI-AGILE-3B)]  [[Dataset 🤗](https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data)]  [[Code 💻](https://github.com/KDEGroup/UI-AGILE)]
 
@@ -483,6 +487,12 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks📊
+
+* [2508] [MathReal] [MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2508.06009)  [[Dataset 🤗](https://huggingface.co/datasets/junfeng0288/MathReal)]  [[Code 💻](https://github.com/junfeng0288/MathReal)]
+
+* [2508] [DeepPHY] [DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning](https://arxiv.org/abs/2508.05405)  [[Code 💻](https://github.com/XinrunXu/DeepPHY)] 
+
+* [2507] [Zebra-CoT] [Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746)  [[Dataset 🤗](https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT)]  [[Code 💻](https://github.com/multimodal-reasoning-lab/Bagel-Zebra-CoT)]
 
 * [2507] [Video-TT] [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/abs/2507.15028) [[Project 🌐](https://zhangyuanhan-ai.github.io/video-tt/)]  [[Dataset 🤗](https://huggingface.co/datasets/lmms-lab/video-tt)] 
 
@@ -632,6 +642,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
