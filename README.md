@@ -32,6 +32,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2508] [Thyme] [Thyme: Think Beyond Images](https://arxiv.org/abs/2508.11630)  [[Project 🌐](https://thyme-vl.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Kwai-Keye/thyme-689ebea74a628c3a9b7bd789)]  [[Datasets 🤗](https://huggingface.co/collections/Kwai-Keye/thyme-689ebea74a628c3a9b7bd789)]  [[Code 💻](https://github.com/yfzhang114/Thyme)]  
+
+* [2508] [MM-R1] [MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation](https://arxiv.org/abs/2508.11433)
+
 * [2508] [We-Math 2.0] [We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/abs/2508.10433) [[Project 🌐](https://we-math2.github.io/)]  [[Datasets 🤗](https://huggingface.co/datasets/We-Math/We-Math2.0-Standard)] [[Code 💻](https://github.com/We-Math/We-Math2.0)] 
 
 * [2508] [Skywork UniPic 2.0] [Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model](https://github.com/SkyworkAI/UniPic/blob/main/UniPic-2/assets/pdf/UNIPIC2.pdf)  [[Project 🌐](https://unipic-v2.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Skywork/skywork-unipic2-6899b9e1b038b24674d996fd)]  [[Code 💻](https://github.com/SkyworkAI/UniPic/tree/main/UniPic-2)] 
@@ -437,6 +441,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### GUI Agent📲
 
+* [2508] [Mobile-Agent-v3] [Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://arxiv.org/abs/2508.15144)  [[Code 💻](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v3)]
+
+* [2508] [CRAFT-GUI] [CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks](https://arxiv.org/abs/2508.11360)
+
 * [2508] [UI-Venus] [UI-Venus Technical Report: Building High-performance UI Agents with RFT](https://arxiv.org/abs/2508.10833)  [[Code 💻](https://github.com/antgroup/UI-Venus)] 
 
 * [2508] [GUI-RCPO] [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615) [[Project 🌐](https://zju-real.github.io/gui-rcpo/)]  [[Code 💻](https://github.com/zju-real/gui-rcpo)] 
@@ -650,6 +658,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
