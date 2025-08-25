@@ -381,6 +381,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Embodied Vision🤖 
 
+* [2508] [Embodied-R1] [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998) [[Project 🌐](https://embodied-r1.github.io/)]  [[Models 🤗](https://huggingface.co/collections/IffYuan/embodied-r1-684a8474b3a49210995f9081)]  [[Datasets 🤗](https://huggingface.co/collections/IffYuan/embodied-r1-684a8474b3a49210995f9081)]  [[Code 💻](https://github.com/pickxiguapi/Embodied-R1)]
+
 * [2508] [Affordance-R1] [Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model](https://arxiv.org/abs/2508.06206) [[Model 🤗](https://huggingface.co/hqking/affordance-r1)]  [[Code 💻](https://github.com/hq-King/Affordance-R1)]
 
 * [2508] [VL-DAC] [Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](https://arxiv.org/abs/2508.04280)  [[Code 💻](https://github.com/corl-team/VL-DAC)] 
@@ -503,6 +505,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 
 ## Benchmarks and Datasets📊
+
+* [2508] [MM-BrowseComp] [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186)  [[Code 💻](https://github.com/MMBrowseComp/MM-BrowseComp)]
+
+* [2508] [HumanSense] [HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs](https://arxiv.org/abs/2508.10576)  [[Project 🌐](https://digital-avatar.github.io/ai/HumanSense/)] 
 
 * [2508] [MathReal] [MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2508.06009)  [[Dataset 🤗](https://huggingface.co/datasets/junfeng0288/MathReal)]  [[Code 💻](https://github.com/junfeng0288/MathReal)]
 
@@ -658,6 +664,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
