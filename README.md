@@ -303,6 +303,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2508] [VITAL] [Thinking With Videos: Multimodal Tool-Augmented RL for Long Video Reasoning](https://arxiv.org/abs/2508.04416)  [[Project 🌐](https://zhang9302002.github.io/thinkingwithvideos-page/)] [[Datasets 🤗](https://huggingface.co/datasets/zhang9302002/MultiTaskVideoReasoning)] [[Code 💻](https://github.com/zhang9302002/ThinkingWithVideos)] 
+  
 * [2507] [LongVILA-R1] [Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)  [[Code 💻](https://github.com/NVlabs/Long-RL)]
 
 * [2506] [GRPO-CARE] [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning](https://arxiv.org/abs/2506.16141) [[Model 🤗](https://huggingface.co/TencentARC/GRPO-CARE)] [[Dataset 🤗](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)] [[Code 💻](https://github.com/TencentARC/GRPO-CARE)]
@@ -664,6 +666,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
