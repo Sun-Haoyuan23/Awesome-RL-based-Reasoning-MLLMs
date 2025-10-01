@@ -31,6 +31,8 @@ This repository provides valuable reference for researchers in the field of mult
 ## Papers (Sort by Time of Release)📄
 
 ### Vision (Image)👀 
+* [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Model 🤗](https://huggingface.co/MMR1/models)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
+
 * [2508] [InternVL3.5] [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](http://arxiv.org/abs/2508.18265)  [[Model 🤗](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B)]  [[Code 💻](https://github.com/OpenGVLab/InternVL)]  
 
 * [2508] [Thyme] [Thyme: Think Beyond Images](https://arxiv.org/abs/2508.11630)  [[Project 🌐](https://thyme-vl.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Kwai-Keye/thyme-689ebea74a628c3a9b7bd789)]  [[Datasets 🤗](https://huggingface.co/collections/Kwai-Keye/thyme-689ebea74a628c3a9b7bd789)]  [[Code 💻](https://github.com/yfzhang114/Thyme)]  
@@ -669,6 +671,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
