@@ -31,7 +31,7 @@ This repository provides valuable reference for researchers in the field of mult
 ## Papers (Sort by Time of Release)📄
 
 ### Vision (Image)👀 
-* [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Model 🤗](https://huggingface.co/MMR1/models)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
+* [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Models 🤗](https://huggingface.co/MMR1/models)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
 
 * [2508] [InternVL3.5] [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](http://arxiv.org/abs/2508.18265)  [[Model 🤗](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B)]  [[Code 💻](https://github.com/OpenGVLab/InternVL)]  
 
@@ -612,8 +612,6 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [Multimodal Open R1 💻](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  ![Multimodal Open R1](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal) [Model 🤗](https://huggingface.co/lmms-lab/Qwen2-VL-2B-GRPO-8k) [Dataset 🤗](https://huggingface.co/datasets/lmms-lab/multimodal-open-r1-8k-verified)
 
-* [MMR1 💻](https://github.com/LengSicong/MMR1) ![LengSicong/MMR1](https://img.shields.io/github/stars/LengSicong/MMR1) [Code 💻](https://github.com/LengSicong/MMR1) [Model 🤗](https://huggingface.co/MMR1/MMR1-Math-v0-7B) [Dataset 🤗](https://huggingface.co/datasets/MMR1/MMR1-Math-RL-Data-v0) 
-
 * [R1-Multimodal-Journey 💻](https://github.com/FanqingM/R1-Multimodal-Journey) ![R1-Multimodal-Journey](https://img.shields.io/github/stars/FanqingM/R1-Multimodal-Journey) (Latest progress at [MM-Eureka](https://github.com/ModalMinds/MM-EUREKA))
 
 * [R1-Vision 💻](https://github.com/yuyq96/R1-Vision) ![R1-Vision](https://img.shields.io/github/stars/yuyq96/R1-Vision) [Cold-Start Datasets 🤗](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83)
@@ -671,6 +669,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
