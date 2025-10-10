@@ -53,6 +53,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2508] [Shuffle-R1] [Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](https://arxiv.org/abs/2508.05612) [[Code 💻](https://github.com/XenoZLH/Shuffle-R1)] 
 
+* [2508] [VL-DAC] [Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](https://arxiv.org/abs/2508.04280) [[Code 💻](https://github.com/corl-team/VL-DAC)] 
+
 * [2508] [TempFlow-GRPO (generation)] [TempFlow-GRPO: When Timing Matters for GRPO in Flow Models](https://arxiv.org/abs/2508.04324) 
 
 * [2508] [EARL (editing)] [The Promise of RL for Autoregressive Image Editing](https://arxiv.org/abs/2508.01119) [[Code 💻](https://github.com/mair-lab/EARL)] 
