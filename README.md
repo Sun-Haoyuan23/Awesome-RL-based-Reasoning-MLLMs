@@ -31,6 +31,9 @@ This repository provides valuable reference for researchers in the field of mult
 ## Papers (Sort by Time of Release)📄
 
 ### Vision (Image)👀 
+
+* [2509] [VAPO] [More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models](https://www.arxiv.org/abs/2509.25848) [[Project 🌐](https://xytian1008.github.io/VAPO/)]  [[Code 💻](https://github.com/xytian1008/VAPO)] 
+
 * [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Models 🤗](https://huggingface.co/MMR1/models)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
 
 * [2508] [InternVL3.5] [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](http://arxiv.org/abs/2508.18265)  [[Model 🤗](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B)]  [[Code 💻](https://github.com/OpenGVLab/InternVL)]  
@@ -53,9 +56,9 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2508] [Shuffle-R1] [Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](https://arxiv.org/abs/2508.05612) [[Code 💻](https://github.com/XenoZLH/Shuffle-R1)] 
 
-* [2508] [VL-DAC] [Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](https://arxiv.org/abs/2508.04280) [[Code 💻](https://github.com/corl-team/VL-DAC)] 
+* [2508] [TempFlow-GRPO (generation)] [TempFlow-GRPO: When Timing Matters for GRPO in Flow Models](https://arxiv.org/abs/2508.04324)
 
-* [2508] [TempFlow-GRPO (generation)] [TempFlow-GRPO: When Timing Matters for GRPO in Flow Models](https://arxiv.org/abs/2508.04324) 
+* [2508] [VL-DAC] [Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](https://arxiv.org/abs/2508.04280) [[Code 💻](https://github.com/corl-team/VL-DAC)] 
 
 * [2508] [EARL (editing)] [The Promise of RL for Autoregressive Image Editing](https://arxiv.org/abs/2508.01119) [[Code 💻](https://github.com/mair-lab/EARL)] 
 
@@ -671,6 +674,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
