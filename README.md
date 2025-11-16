@@ -32,6 +32,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2510] [Conan] [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](https://arxiv.org/abs/2510.20470) [[Model 🤗](https://huggingface.co/RUBBISHLIKE/Conan-7B)]  [[Code 💻](https://github.com/OuyangKun10/Conan)] 
+
+* [2510] [RewardMap] [RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning](https://arxiv.org/abs/2510.02240) [[Project 🌐](https://fscdc.github.io/RewardMap/)]  [[Datasets 🤗](https://huggingface.co/collections/FSCCS/reasonmap)]  [[Code 💻](https://github.com/fscdc/RewardMap)] 
+
 * [2509] [VAPO] [More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models](https://www.arxiv.org/abs/2509.25848) [[Project 🌐](https://xytian1008.github.io/VAPO/)]  [[Code 💻](https://github.com/xytian1008/VAPO)] 
 
 * [2509] [ERGO] [ERGO: Efficient High-Resolution Visual Understanding for Vision-Language Models](https://arxiv.org/abs/2509.21991) [[Model 🤗](https://huggingface.co/nota-ai/ERGO-7B)] [[Code 💻](https://github.com/nota-github/ERGO)]  
@@ -676,6 +680,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
