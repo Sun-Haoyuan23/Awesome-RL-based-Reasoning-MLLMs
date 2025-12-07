@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2512] [OneThinker] [OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043)  [[Models 🤗](https://huggingface.co/OneThink)]  [[Datasets 🤗](https://huggingface.co/OneThink)]  [[Code 💻](https://github.com/tulerfeng/OneThinker)] 
+
 * [2510] [Conan] [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](https://arxiv.org/abs/2510.20470) [[Model 🤗](https://huggingface.co/RUBBISHLIKE/Conan-7B)]  [[Code 💻](https://github.com/OuyangKun10/Conan)] 
 
 * [2510] [RewardMap] [RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning](https://arxiv.org/abs/2510.02240) [[Project 🌐](https://fscdc.github.io/RewardMap/)]  [[Datasets 🤗](https://huggingface.co/collections/FSCCS/reasonmap)]  [[Code 💻](https://github.com/fscdc/RewardMap)] 
@@ -40,7 +42,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2509] [ERGO] [ERGO: Efficient High-Resolution Visual Understanding for Vision-Language Models](https://arxiv.org/abs/2509.21991) [[Model 🤗](https://huggingface.co/nota-ai/ERGO-7B)] [[Code 💻](https://github.com/nota-github/ERGO)]  
 
-* [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Models 🤗](https://huggingface.co/MMR1/models)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
+* [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Models 🤗](https://huggingface.co/MMR1/models)]  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
 
 * [2508] [InternVL3.5] [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](http://arxiv.org/abs/2508.18265)  [[Model 🤗](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B)]  [[Code 💻](https://github.com/OpenGVLab/InternVL)]  
 
@@ -680,6 +682,7 @@ and
 ##  Star Chart⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+
 
 
 
