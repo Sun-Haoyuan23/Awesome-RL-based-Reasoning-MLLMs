@@ -18,6 +18,7 @@ Recent advancements in leveraging reinforcement learning to enhance LLM reasonin
 
 This repository provides valuable reference for researchers in the field of multimodality, please start your exploratory travel in RL-based Reasoning MLLMs!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts using reinforcement-style reasoning with evidence-based quality gates and iterative task refinement. MIT licensed.
 ## News 
 
 🔥🔥🔥[2025-5-24] We write the position paper [Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models](https://huggingface.co/papers/2505.18536)  that summarizes recent advancements on the topic of RFT for MLLMs. We focus on answering the following three questions: ***1. What background should researchers interested in this field know?***  ***2. What has the community done?***  ***3. What could the community do next?***  We hope that this position paper will provide valuable insights to the community at this pivotal stage in the advancement toward AGI.
