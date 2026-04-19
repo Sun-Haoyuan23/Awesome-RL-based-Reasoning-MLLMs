@@ -401,6 +401,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Embodied Vision🤖 
 
+* [2603] [3D-RFT] [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976) [[Project 🌐](https://3d-rft.github.io/)]  [[Code 💻](https://github.com/3D-RFT/3D-RFT)]
+ 
 * [2508] [Embodied-R1] [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998) [[Project 🌐](https://embodied-r1.github.io/)]  [[Models 🤗](https://huggingface.co/collections/IffYuan/embodied-r1-684a8474b3a49210995f9081)]  [[Datasets 🤗](https://huggingface.co/collections/IffYuan/embodied-r1-684a8474b3a49210995f9081)]  [[Code 💻](https://github.com/pickxiguapi/Embodied-R1)]
 
 * [2508] [Affordance-R1] [Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model](https://arxiv.org/abs/2508.06206) [[Model 🤗](https://huggingface.co/hqking/affordance-r1)]  [[Code 💻](https://github.com/hq-King/Affordance-R1)]
@@ -516,6 +518,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2505] [AgentThink] [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2505.15298)
 
 ### 3D & Metaverse🌠
+
+* [2603] [3D-RFT] [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976) [[Project 🌐](https://3d-rft.github.io/)]  [[Code 💻](https://github.com/3D-RFT/3D-RFT)]
 
 * [2507] [3D-R1] [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478) [[Project 🌐](https://aigeeksgroup.github.io/3D-R1/)] [[Models 🤗](https://huggingface.co/AIGeeksGroup/3D-R1)] [[Dataset 🤗](https://huggingface.co/datasets/AIGeeksGroup/Scene-30K)] [[Code 💻](https://github.com/AIGeeksGroup/3D-R1)]
 
