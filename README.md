@@ -44,7 +44,17 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Models 🤗](https://huggingface.co/MMR1/models)]  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
 
+* [2508] [R-4B] [R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning](https://arxiv.org/abs/2508.21113)  [[Model 🤗](https://huggingface.co/YannQi/R-4B)]  [[Code 💻](https://github.com/yannqi/R-4B)]
+
+* [2508] [OneReward (generation)] [OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning](https://arxiv.org/abs/2508.21066)  [[Project 🌐](https://one-reward.github.io/)]  [[Model 🤗](https://huggingface.co/bytedance-research/OneReward)]  [[Code 💻](https://github.com/bytedance/OneReward)]
+
+* [2508] [Pref-GRPO (generation)] [Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning](https://arxiv.org/abs/2508.20751)  [[Project 🌐](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)]  [[Model 🤗](https://huggingface.co/collections/CodeGoat24/pref-grpo-and-unigenbench)]  [[Dataset 🤗](https://huggingface.co/collections/CodeGoat24/pref-grpo-and-unigenbench)]  [[Code 💻](https://github.com/CodeGoat24/Pref-GRPO)]
+
+* [2508] [Vision-SR1] [Self-Rewarding Vision-Language Model via Reasoning Decomposition](https://arxiv.org/abs/2508.19652)  [[Models 🤗](https://huggingface.co/LMMs-Lab-Turtle/SelfRewarded-R1-7B)]  [[Datasets 🤗](https://huggingface.co/datasets/LMMs-Lab-Turtle/Vision-SR1-47K)]  [[Code 💻](https://github.com/zli12321/Vision-SR1)]
+
 * [2508] [InternVL3.5] [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](http://arxiv.org/abs/2508.18265)  [[Model 🤗](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B)]  [[Code 💻](https://github.com/OpenGVLab/InternVL)]  
+
+* [2508] [Visual-CoG (generation)] [Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation](https://arxiv.org/abs/2508.18032) 
 
 * [2508] [Thyme] [Thyme: Think Beyond Images](https://arxiv.org/abs/2508.11630)  [[Project 🌐](https://thyme-vl.github.io/)]  [[Models 🤗](https://huggingface.co/collections/Kwai-Keye/thyme-689ebea74a628c3a9b7bd789)]  [[Datasets 🤗](https://huggingface.co/collections/Kwai-Keye/thyme-689ebea74a628c3a9b7bd789)]  [[Code 💻](https://github.com/yfzhang114/Thyme)]  
 
@@ -464,6 +474,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)  [[Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)] [[Code 💻](https://github.com/HumanMLLM/R1-Omni)]
 
 ### GUI Agent📲
+
+* [2508] [CODA] [CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning](https://arxiv.org/abs/2508.20096)  [[Model 🤗](https://huggingface.co/OpenIXCLab/CODA-PLANNER-TARS-32B)] [[Code 💻](https://github.com/OpenIXCLab/CODA)]
 
 * [2508] [Mobile-Agent-v3] [Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://arxiv.org/abs/2508.15144)  [[Code 💻](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v3)]
 
