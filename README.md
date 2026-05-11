@@ -44,6 +44,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2509] [MMR1] [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources](https://arxiv.org/abs/2509.21268)  [[Models 🤗](https://huggingface.co/MMR1/models)]  [[Datasets 🤗](https://huggingface.co/MMR1/datasets)]  [[Code 💻](https://github.com/LengSicong/MMR1)]  
 
+* [2509] [ReVPT] [Reinforced Visual Perception with Tools](https://arxiv.org/abs/2509.01656)  [[Models 🤗](https://huggingface.co/collections/Frywind/revpt)]  [[Dataset 🤗](https://huggingface.co/collections/Frywind/revpt)]  [[Code 💻](https://github.com/ls-kelvin/REVPT)]
+
 * [2508] [R-4B] [R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning](https://arxiv.org/abs/2508.21113)  [[Model 🤗](https://huggingface.co/YannQi/R-4B)]  [[Code 💻](https://github.com/yannqi/R-4B)]
 
 * [2508] [OneReward (generation)] [OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning](https://arxiv.org/abs/2508.21066)  [[Project 🌐](https://one-reward.github.io/)]  [[Model 🤗](https://huggingface.co/bytedance-research/OneReward)]  [[Code 💻](https://github.com/bytedance/OneReward)]
@@ -411,6 +413,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Embodied Vision🤖 
 
+* [2509] [SimpleVLA-RL] [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/abs/2509.09674) [[Models 🤗](https://huggingface.co/collections/Haozhan72/simplevla-rl)]  [[Code 💻](https://github.com/PRIME-RL/SimpleVLA-RL)]
+
 * [2508] [Embodied-R1] [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998) [[Project 🌐](https://embodied-r1.github.io/)]  [[Models 🤗](https://huggingface.co/collections/IffYuan/embodied-r1-684a8474b3a49210995f9081)]  [[Datasets 🤗](https://huggingface.co/collections/IffYuan/embodied-r1-684a8474b3a49210995f9081)]  [[Code 💻](https://github.com/pickxiguapi/Embodied-R1)]
 
 * [2508] [Affordance-R1] [Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model](https://arxiv.org/abs/2508.06206) [[Model 🤗](https://huggingface.co/hqking/affordance-r1)]  [[Code 💻](https://github.com/hq-King/Affordance-R1)]
@@ -438,6 +442,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [Embodied-Reasoner] [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696v1) [[Project 🌐](https://embodied-reasoner.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] [[Code 💻](https://github.com/zwq2018/embodied_reasoner)]
 
 ### Multimodal Reward Model 💯
+
+* [2509] [RewardDance] [RewardDance: Reward Scaling in Visual Generation](https://arxiv.org/abs/2509.08826)
 
 * [2506] [Listener-Rewarded Thinking] [Listener-Rewarded Thinking in VLMs for Image Preferences](https://arxiv.org/abs/2506.22832) [[Model 🤗](https://huggingface.co/alexgambashidze/qwen2.5vl_image_preference_reasoner)] 
 
@@ -472,6 +478,8 @@ This repository provides valuable reference for researchers in the field of mult
 * [2503] [R1-Omni] [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)  [[Model 🤗](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)] [[Code 💻](https://github.com/HumanMLLM/R1-Omni)]
 
 ### GUI Agent📲
+
+* [2509] [UI-S1] [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://arxiv.org/abs/2509.11543)  [[Model 🤗](https://huggingface.co/mPLUG/UI-S1-7B)]  [[Dataset 🤗](https://huggingface.co/datasets/mPLUG/UI_S1_dataset)]  [[Code 💻](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1)]
 
 * [2508] [CODA] [CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning](https://arxiv.org/abs/2508.20096)  [[Model 🤗](https://huggingface.co/OpenIXCLab/CODA-PLANNER-TARS-32B)] [[Code 💻](https://github.com/OpenIXCLab/CODA)]
 
