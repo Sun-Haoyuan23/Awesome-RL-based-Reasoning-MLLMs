@@ -548,6 +548,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks and Datasets📊
 
+* [2604] [ClawBench] [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) [[Project 🌐](https://claw-bench.com/)] [[Code 💻](https://github.com/reacher-z/ClawBench)]
+
 * [2508] [MM-BrowseComp] [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186)  [[Code 💻](https://github.com/MMBrowseComp/MM-BrowseComp)]
 
 * [2508] [HumanSense] [HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs](https://arxiv.org/abs/2508.10576)  [[Project 🌐](https://digital-avatar.github.io/ai/HumanSense/)] 
