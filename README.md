@@ -548,7 +548,7 @@ This repository provides valuable reference for researchers in the field of mult
 
 ## Benchmarks and Datasets📊
 
-* [2604] [ClawBench] [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) [[Project 🌐](https://claw-bench.com/)] [[Code 💻](https://github.com/reacher-z/ClawBench)]
+* [2604] [ClawBench] [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) [[Project 🌐](https://claw-bench.com/)]  [[Dataset 🤗](https://huggingface.co/datasets/TIGER-Lab/ClawBenchV2Trace)]  [[Code 💻](https://github.com/reacher-z/ClawBench)]
 
 * [2508] [MM-BrowseComp] [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186)  [[Code 💻](https://github.com/MMBrowseComp/MM-BrowseComp)]
 
@@ -637,13 +637,15 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [2502] [HumanEval-V] [HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks](https://arxiv.org/abs/2410.12381) [[Project 🌐](https://humaneval-v.github.io/)] [[Dataset 🤗](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark)] [[Code 💻](https://github.com/HumanEval-V/HumanEval-V-Benchmark)]
 
-## Open-Source Projects (Repos without Paper)🌐
+## Open-Source Projects🌐
 
 ### Training Framework 🗼
 
 * [EasyR1 💻](https://github.com/hiyouga/EasyR1)  ![EasyR1](https://img.shields.io/github/stars/hiyouga/EasyR1) (An Efficient, Scalable, Multi-Modality RL Training Framework)
 
 * [VeRL-Omni 💻](https://github.com/verl-project/verl-omni)  ![VeRL-Omni](https://img.shields.io/github/stars/verl-project/verl-omni) (Easy, fast, and stable RL training for diffusion and omni-modality models) [[Docs 🌐](https://verl-omni.readthedocs.io/en/latest/index.html)]
+
+* [Agent-R1 💻](https://github.com/AgentR1/Agent-R1)  ![Agent-R1](https://img.shields.io/github/stars/AgentR1/Agent-R1) (A flexible RL training framework that supports training Agents with Multimodal LLM backbones.)
 
 ### Vision (Image) 👀
 
