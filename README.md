@@ -32,6 +32,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Image)👀 
 
+* [2601] [ReFine-RFT] [Can Textual Reasoning Improve the Performance of MLLMs on Fine-grained Visual Classification?](https://arxiv.org/abs/2601.06993) [[Project 🌐](https://refine-rft.github.io/)]  [[Code 💻](https://github.com/jiezhu23/ReFine-RFT)]
+
 * [2512] [OneThinker] [OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043)  [[Models 🤗](https://huggingface.co/OneThink)]  [[Datasets 🤗](https://huggingface.co/OneThink)]  [[Code 💻](https://github.com/tulerfeng/OneThinker)] 
 
 * [2510] [Conan] [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](https://arxiv.org/abs/2510.20470) [[Model 🤗](https://huggingface.co/RUBBISHLIKE/Conan-7B)]  [[Code 💻](https://github.com/OuyangKun10/Conan)] 
