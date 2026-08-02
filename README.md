@@ -641,6 +641,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [EasyR1 💻](https://github.com/hiyouga/EasyR1)  ![EasyR1](https://img.shields.io/github/stars/hiyouga/EasyR1) (An Efficient, Scalable, Multi-Modality RL Training Framework)
 
+* [VeRL-Omni 💻](https://github.com/verl-project/verl-omni)  ![VeRL-Omni](https://img.shields.io/github/stars/verl-project/verl-omni) (Easy, fast, and stable RL training for diffusion and omni-modality models) [[Docs 🌐](https://verl-omni.readthedocs.io/en/latest/index.html)]
+
 ### Vision (Image) 👀
 
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Blog 🎯](https://deepagent.notion.site/rlvr-in-vlms) [Datasets 🤗](https://huggingface.co/collections/MMInstruction/r1-v-67aae24fa56af9d2e2755f82)
