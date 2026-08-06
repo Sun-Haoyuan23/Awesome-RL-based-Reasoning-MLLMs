@@ -457,6 +457,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Audio👂
 
+* [2608] [AudioRubrics] [Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning](https://arxiv.org/abs/2608.02831) [[Project 🌐](https://audiorubrics.github.io)]
+
 * [2507] [DMOSpeech 2] [DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis](https://arxiv.org/abs/2507.14988) [[Project 🌐](https://dmospeech2.github.io/)] [[Model 🤗](https://huggingface.co/yl4579/DMOSpeech2)] [[Demo 🤗](https://huggingface.co/spaces/yl4579/DMOSpeech2-demo)] [[Code 💻](https://github.com/yl4579/DMOSpeech2)]
 
 * [2506] [SoundMind] [SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models](https://arxiv.org/abs/2506.12935) [[Model 🤗](https://www.dropbox.com/scl/fi/f24wyecnycfu6g6ip10ac/qwen2_5_omni_logic.zip?rlkey=xlixctyr8cbfpv85arhka0b8c&e=1&st=wd5rlh9b&dl=0)] [[Dataset 🤗](https://huggingface.co/datasets/SoundMind-RL/SoundMindDataset)] [[Code 💻](https://github.com/xid32/SoundMind)]
