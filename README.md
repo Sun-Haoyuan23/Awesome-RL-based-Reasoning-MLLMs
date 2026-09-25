@@ -333,6 +333,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2609] [Spatial-Interactor] [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://arxiv.org/abs/2609.23038) [[Project 🌐](https://zju-omniai.github.io/Spatial-Interactor/)] [[Models 🤗](https://huggingface.co/collections/kagakouko/spatial-interactor)] [[Dataset 🤗](https://huggingface.co/datasets/kagakouko/LSI-108K)] [[Code 💻](https://github.com/ZJU-OmniAI/Spatial-Interactor)]
+
 * [2508] [VITAL] [Thinking With Videos: Multimodal Tool-Augmented RL for Long Video Reasoning](https://arxiv.org/abs/2508.04416)  [[Project 🌐](https://zhang9302002.github.io/thinkingwithvideos-page/)] [[Dataset 🤗](https://huggingface.co/datasets/zhang9302002/MultiTaskVideoReasoning)] [[Code 💻](https://github.com/zhang9302002/ThinkingWithVideos)] 
   
 * [2507] [LongVILA-R1] [Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)  [[Code 💻](https://github.com/NVlabs/Long-RL)]
