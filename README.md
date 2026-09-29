@@ -711,7 +711,7 @@ and
 
 ##  Star Chart⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.com/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)](https://star-history.dera.page/#Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs&Date)
 
 
 
