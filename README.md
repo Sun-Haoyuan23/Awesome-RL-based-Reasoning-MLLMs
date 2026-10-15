@@ -333,6 +333,10 @@ This repository provides valuable reference for researchers in the field of mult
 
 ### Vision (Video)📹 
 
+* [2607] [TimeLens2] [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423) [[Code 💻](https://github.com/MCG-NJU/TimeLens2)]
+
+* [2601] [Video-o3] [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) [[Code 💻](https://github.com/MCG-NJU/Video-o3)]
+
 * [2508] [VITAL] [Thinking With Videos: Multimodal Tool-Augmented RL for Long Video Reasoning](https://arxiv.org/abs/2508.04416)  [[Project 🌐](https://zhang9302002.github.io/thinkingwithvideos-page/)] [[Dataset 🤗](https://huggingface.co/datasets/zhang9302002/MultiTaskVideoReasoning)] [[Code 💻](https://github.com/zhang9302002/ThinkingWithVideos)] 
   
 * [2507] [LongVILA-R1] [Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)  [[Code 💻](https://github.com/NVlabs/Long-RL)]
