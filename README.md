@@ -651,6 +651,8 @@ This repository provides valuable reference for researchers in the field of mult
 
 * [Agent-R1 💻](https://github.com/AgentR1/Agent-R1)  ![Agent-R1](https://img.shields.io/github/stars/AgentR1/Agent-R1) (A flexible RL training framework that supports training Agents with Multimodal LLM backbones.)
 
+* [Awesome-Perception-Aware-RLVR 💻](https://github.com/zsxm1998/awesome-perception-aware-rlvr)  ![Awesome-Perception-Aware-RLVR](https://img.shields.io/github/stars/zsxm1998/awesome-perception-aware-rlvr) (Unified reproductions and controlled comparisons of 19 perception-aware RLVR and on-policy distillation methods for VLMs, built on EasyR1, with one-click evaluation on 30+ benchmarks)
+
 ### Vision (Image) 👀
 
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Blog 🎯](https://deepagent.notion.site/rlvr-in-vlms) [Datasets 🤗](https://huggingface.co/collections/MMInstruction/r1-v-67aae24fa56af9d2e2755f82)
